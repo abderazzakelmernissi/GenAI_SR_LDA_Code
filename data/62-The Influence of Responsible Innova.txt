@@ -1,0 +1,243 @@
+The Influence of Responsible Innovation on Ideological Education in Universities Under Generative Artificial Intelligence
+
+Abstract:
+With the rapid development of generative AI technology, it has been widely used in the field of higher education, especially in ideological and political education in universities (hereinafter referred to as IPE). From the perspective of responsible innovation, this study deeply discusses the influence of generative artificial intelligence (AI) on IPE in universities. This study empirically analyzes the practical application and effect of generative AI in university IPE through questionnaires, interviews and classroom observation. The results show that the introduction of generative AI improves students’ acceptance and classroom participation, which has a positive impact on teaching effect. At the same time, the research also reveals the social, environmental and ethical responsibilities that need to be paid attention to during the application of generative AI. By constructing structural equation model (SEM), this study further discusses the relationship between the use frequency of generative AI, students’ acceptance and the diversity of teachers’ teaching methods and the teaching effect, which provides useful reference and enlightenment for future educational reform and technology integration. In addition, this study also discusses the challenges and limitations of the application of generative AI in university IPE, and puts forward corresponding suggestions to promote its effective application and development in the field of education.
+
+Introduction
+With the rapid development of science and technology, artificial intelligence (AI) technology is gradually infiltrating into all aspects of our lives, especially in the field of higher education, and its influence is increasingly significant. In recent years, generative AI, such as ChatGPT and other large language models, has attracted wide attention around the world because of its powerful natural language processing and generation capabilities [1], [2]. These technologies not only change the way we interact with information, but also bring unprecedented impact and change to the traditional education model. University ideological and political education (hereinafter referred to as IPE), as a key link in shaping students’ world outlook, values and outlook on life, is undoubtedly influenced by this wave of technology [3].
+
+In this context, this study aims to explore the influence of generative AI on university IPE from the perspective of responsible innovation. Responsible innovation emphasizes social, environmental and ethical responsibilities while technological innovation, ensuring the sustainability and positive social effects of technological development [4], [5]. Applying this concept to the field of education, especially IPE, will not only help to improve the quality of education, but also better cultivate students’ independent thinking and moral quality.
+
+However, the specific application of generative AI in university IPE and its effect are still unclear. How does it affect the teaching atmosphere in IPE classroom? Can it effectively improve students’ participation and learning effect? How to ensure the quality of education without losing the essence and responsibility of education? These problems constitute the core topic of this study. This study will explore the practical application and influence of generative AI in university IPE through empirical analysis, in order to provide useful reference and enlightenment for educational reform and technology integration.
+
+SECTION II.Literature Review
+With the rapid development of generative AI technology, its application in higher education and its influence have gradually become a research hotspot. In recent years, generative AI has been widely used in the field of education. Many studies at home and abroad show that generative AI technology can effectively improve the teaching effect and students’ learning experience [6]. For example, through natural language processing and machine learning technology, generative AI can provide students with personalized learning resources and feedback, thus improving the learning effect. In addition, the application potential of generative AI in automatic assessment, intelligent tutoring and learning analysis has been studied [7], [8], [9].
+
+Responsible innovation emphasizes that while promoting technological innovation, we should fully consider the social, environmental and ethical impacts that technology may bring, and take corresponding measures to ensure the sustainable development of technology [10]. In the field of educational technology innovation, the theoretical framework of responsible innovation is widely used to guide the development and application of new technologies [11]. A number of studies have pointed out that integrating the concept of responsible innovation into educational technology innovation can ensure that new technologies can not only improve educational efficiency, but also promote students’ all-round development and reduce potential adverse effects [12], [13].
+
+As an important part of higher education, university IPE has been devoted to cultivating students’ moral quality and social responsibility. However, with the rapid development of society and the continuous progress of information technology, the traditional IPE mode is facing many challenges [14]. The emergence of generative AI technology provides new development opportunities for university IPE. By introducing generative AI technology, the teaching means and resources of IPE can be enriched, and students’ learning interest and participation can be improved [15], [16]. At the same time, generative AI can also help students to carry out autonomous learning and personalized learning, thus improving the effect of IPE [17].
+
+However, the application of generative AI in university IPE also faces some potential problems and challenges. For example, how to ensure that the content provided by generative AI conforms to the goals and values of IPE? How to balance the relationship between technological innovation and moral responsibility? These problems need to be deeply discussed and solved under the guidance of responsible innovation. The application of generative AI in university IPE has broad prospects and important research value. Through in-depth research and practical exploration, we can make better use of this technology to improve the quality and effect of university IPE.
+
+SECTION III.Research Method
+A. Research Objectives and Research Assumptions
+With the rapid development of generative AI technology, it has been widely used in the field of higher education, especially in IPE. From the perspective of responsible innovation, this study deeply discusses the influence of generative AI on university IPE.
+
+Responsible innovation is a concept that emphasizes the full consideration of social, environmental and ethical influences in the process of technological innovation. It requires innovators to actively respond to possible challenges while pursuing technological progress, and ensure that the development of technology can promote the overall well-being of society.
+
+In this study, responsible innovation emphasizes that technological innovation should be people-oriented, and pays attention to the influence of technology on education equity, education quality and students’ all-round development. In the field of IPE, this means that the application of generative AI should be devoted to improving the inclusiveness and diversity of educational content and promoting the cultivation of students’ critical thinking, rather than simply replacing traditional teaching methods. Responsible innovation advocates actively identifying and evaluating potential ethical risks in the process of technology design and implementation. In the combination of generative AI and IPE, it requires us to pay attention to the prejudice and privacy invasion that the AI algorithm may bring, and ensure that IPE assisted by AI can respect the individual differences of students and maintain the justice and security of the educational environment. Responsible innovation encourages interdisciplinary cooperation to jointly meet the complex challenges brought about by technological development. In the context of the application of generative AI in IPE, it means that educators, technical experts and ethical scholars need to work together to form an educational ecology with multi-participation and collaborative innovation.
+
+The purpose of this study is to comprehensively explore the practical impact of generative AI on university IPE from the perspective of responsible innovation. The specific research objectives include:
+
+Through questionnaire survey, interview and classroom observation, we can understand the actual use of generative AI in different types of university IPE, including the frequency of use, usage methods and scenarios.
+
+Using descriptive statistics, correlation analysis, regression analysis and other empirical methods, this paper explores the specific impact of the introduction of generative AI on students’ acceptance, classroom participation and teaching effect.
+
+Combined with the theory of responsible innovation, this paper analyzes the potential problems that may be brought about in the application of generative AI, such as content compliance and educational fairness, and puts forward corresponding solutions.
+
+Structural equation model (SEM) is used to further explore the complex relationship between the use frequency of generative AI, students’ acceptance, diversity of teachers’ teaching methods and teaching effect, so as to provide theoretical basis for future educational reform and technology integration.
+
+Based on the research results, in view of the challenges and limitations of the application of generative AI in university IPE, this paper puts forward specific improvement suggestions and future development direction.
+
+Based on the above research objectives, this study puts forward the following specific assumptions:
+
+The frequency of using generative AI is positively correlated with students’ acceptance;
+
+H1: The higher the frequency of using generative AI in university IPE, the higher the students’ acceptance of this technology.
+
+There is a positive correlation between students’ acceptance and classroom participation;
+
+H2: The higher students’ acceptance of generative AI, the higher their participation in IPE class.
+
+The frequency of using generative AI is positively related to the teaching effect;
+
+H3: The higher the frequency of using generative AI in university IPE, the better the teaching effect.
+
+The diversity of teachers’ teaching methods is positively related to the teaching effect;
+
+H4: The more diversified teaching methods teachers use in IPE courses (including using generative AI to assist teaching), the better the teaching effect.
+
+The use of generative AI has no significant effect on students’ gender;
+
+H5: The application of generative AI in university IPE has no significant effect on students’ gender, that is, there is no significant difference between male and female students in acceptance and learning effect.
+
+The concept of responsible innovation plays an active role in the application of generative AI;
+
+H6: In the process of introducing generative AI, paying attention to the application of social, environmental and ethical responsibilities (that is, the concept of responsible innovation) can promote the sustainable development of technology and positive social effects, thus enhancing the overall effect of IPE.
+
+B. Research Object Selection
+The purpose of this study is to deeply explore the influence of generative AI on university IPE, so a comprehensive research design is adopted to ensure the comprehensiveness and accuracy of the data. The sample of this study mainly includes university IPE teachers and students.
+
+When selecting samples, different types of universities, including comprehensive universities, universities of science and engineering and normal universities, are carefully selected to reflect the situation in different educational environments [8]. Specifically, the study selected three universities located in different regions: one is a prestigious comprehensive university, which is famous for its interdisciplinary integration; The other is a university focusing on science and engineering education, which is remarkable for its scientific research strength and technological innovation ability; The last one is a normal college, which is recognized for its tradition and characteristics of cultivating educational talents.
+
+In terms of student samples, it covers students of different grades and majors, from freshmen to graduate students, from humanities and social sciences to natural sciences, in order to explore the influence of generative AI on different student groups. Such a wide coverage helps to capture the multiple effects of generative AI in different academic backgrounds and learning stages.
+
+In terms of teacher samples, IPE teachers with different teaching experiences and professional backgrounds are selected. Their teaching experience ranges from several years to decades, and their professional fields cover many IPE-related disciplines such as ideological and political education, sociology and psychology. Through them, we can understand the views and experiences of generative AI applications from different perspectives.
+
+In order to ensure the representativeness and credibility of the research, this study finally chose these three different types of universities as the research objects. This choice aims to cover a wider educational environment and student groups, so as to fully understand the application and influence of generative AI in university IPE. Through the detailed description of these specific universities and teacher-student groups, we can more accurately reflect the role and challenges of generative AI in the actual educational scene.
+
+C. Data Collection
+This study adopts three main data collection methods: questionnaire survey, interview and classroom observation (Figure 1). This study aims to comprehensively and deeply explore the influence of generative AI on university IPE by using various methods such as questionnaire survey, interview and classroom observation. This kind of research design not only helps to understand the present situation more comprehensively, but also provides useful reference for future educational reform and technology application.
+
+FIGURE 1. - Data collection methods in this study.
+FIGURE 1.
+Data collection methods in this study.
+
+Show All
+
+A total of 600 students were randomly selected from sophomores and juniors in three universities for a questionnaire survey. The content of the questionnaire mainly includes students’ evaluation on the acceptance, frequency and effect of generative AI in IPE. Through a large-scale questionnaire survey, students’ general views and experiences on the application of this educational technology were obtained. Students’ acceptance, evaluation of students’ use effect and teachers’ evaluation of AI application are all scored by Likert scale, where 1 means very dissatisfied/very poor and 7 means very satisfied/very good.
+
+On the basis of the questionnaire survey, 30 students and teachers who are willing to be interviewed are further selected for in-depth exchanges. The interview content mainly involves their views on the specific application, advantages and disadvantages, and improvement suggestions of generative AI in IPE. More detailed and in-depth information was obtained through interviews to supplement the deficiency of the questionnaire survey.
+
+In order to understand the practical application of generative AI in university IPE classroom more intuitively, 10 IPE courses were selected for classroom observation. The observation contents mainly include teachers’ teaching methods, students’ participation, and the specific application of generative AI in the classroom. First-hand field data are obtained through classroom observation, so as to more accurately evaluate the actual impact of generative AI on IPE.
+
+D. Empirical Analysis Method
+This study will comprehensively use a variety of empirical analysis methods to ensure a comprehensive and in-depth analysis of the influence of generative AI in university IPE. Data analysis uses SPSS and NVivo software for quantitative and qualitative analysis. Specifically, through the comprehensive use of descriptive statistics, correlation analysis, regression analysis, difference analysis, path analysis or SEM and other empirical analysis methods, in order to comprehensively and deeply explore the influence of generative AI on university IPE. The choice of these methods aims to ensure the scientific and rigorous research, while providing rich data support and in-depth insights. The empirical analysis method adopted in this study is shown in Figure 2:
+
+FIGURE 2. - The empirical analysis method in this paper.
+FIGURE 2.
+The empirical analysis method in this paper.
+
+Show All
+
+SECTION IV.Empirical Results and Analysis
+A. Descriptive Statistical Analysis
+Descriptive statistical analysis shows (Table 1) that the application of generative AI in university IPE has been widely recognized by students and teachers, although there is still room for improvement in some aspects, such as the frequency of students’ use. These data provide valuable reference for further optimizing and popularizing the application of generative AI in IPE.
+
+TABLE 1 Basic Characteristics and Distribution of Samples
+Table 1- Basic Characteristics and Distribution of Samples
+The average acceptance of generative AI in IPE is 3.85 (out of 5), which shows that most students hold a positive attitude towards this technology and think it has certain application value in IPE. The average frequency of students using generative AI is 2.30 times per week, which shows that although students use this technology to some extent, they do not use it very frequently, which may be related to their course content or personal study habits. Students’ average evaluation of the effect of using generative AI is 5.20 (out of 7), which reflects that students generally believe that this technology is helpful to their study, but there is still room for improvement.
+
+Compared with students, teachers use generative AI more frequently every week, with an average of 3.20 times, which may indicate that teachers are more inclined to use this technology in teaching preparation or classroom presentation. The average evaluation of teachers on the application of generative AI in IPE is 6.00 (out of 7), which shows the recognition and support of teachers for the application of this technology.
+
+In the observed 10 classes, the average class participation of students is 0.785, which shows that in the IPE class with the introduction of generative AI, the students’ participation is relatively high and the class interaction is good. The average diversity evaluation of teachers’ teaching methods is 5.50 (out of 7), which shows that teachers have adopted a variety of teaching methods in IPE courses, which may include the use of generative AI for auxiliary teaching. The average evaluation of the application of AI in the classroom is 6.00 (out of 7), which shows that the application of generative AI is considered appropriate and effective in the classroom and can enhance the teaching effect.
+
+B. Correlation Analysis
+The correlation coefficient is used to analyze the correlation among variables such as the frequency of using generative AI, student participation and teaching effect, and to explore whether there is significant statistical correlation between them. The results of correlation analysis are shown in Table 2 and Figure 3.
+
+TABLE 2 Influencing Factors of the Application Effect of Generative AI in University IPE
+Table 2- Influencing Factors of the Application Effect of Generative AI in University IPE
+FIGURE 3. - Correlation analysis heat map.
+FIGURE 3.
+Correlation analysis heat map.
+
+Show All
+
+There is a significant positive correlation between students’ acceptance and students’ frequency of use (correlation coefficient is 0.650), and this correlation is statistically significant. This means that when students’ acceptance of generative AI increases, their frequency of using this technology tends to increase. This may be because students’ acceptance of technology directly affects their willingness to use it.
+
+There is also a significant positive correlation between students’ acceptance and students’ classroom participation (correlation coefficient is 0.500). The higher students’ acceptance of generative AI, the higher their participation in IPE class. This may indicate that students’ positive attitude towards technology has improved their activity and willingness to participate in the classroom.
+
+There is a significant positive correlation between students’ acceptance and teaching effect evaluation (the correlation coefficient is 0.700), which means that with the improvement of students’ acceptance of generative AI, their evaluation of teaching effect is more positive. This reflects that students’ satisfaction with the application of technology may directly affect their perception of the overall teaching effect.
+
+The correlation between the frequency of students’ use and the evaluation of teaching effect shows that the higher the frequency of students’ use of generative AI, the more positive their evaluation of teaching effect. This may be because the convenience and efficiency brought by frequent use of technology make students feel a better learning experience.
+
+There is also a significant positive correlation between students’ classroom participation and teaching effect evaluation (correlation coefficient is 0.550). The higher the students’ participation in the classroom, the more positive their evaluation of the teaching effect. This may be because a high degree of participation enables students to understand and master the IPE course content more deeply, thus improving their learning satisfaction.
+
+C. Regression Analysis
+Build a regression model to further explore the influence degree and direction of the use of generative AI, students’ background characteristics, teachers’ teaching methods and other factors on the IPE effect. The results of regression analysis show that the frequency of using generative AI, students’ gender, whether teachers use AI to assist teaching and the diversity of teachers’ teaching methods are all important factors affecting the effect of IPE. The results of regression analysis are shown in Table 3 and Figure 4.
+
+TABLE 3 Regression Analysis Results
+Table 3- Regression Analysis Results
+FIGURE 4. - The influence of different factors on the effect of IPE.
+FIGURE 4.
+The influence of different factors on the effect of IPE.
+
+Show All
+
+Frequency of using generative AI The regression coefficient of this variable is significant and positive, which shows that the frequency of using generative AI in IPE is positively correlated with the teaching effect. In other words, with the increase of the frequency of production AI, the effect of IPE will be improved accordingly. This may be because frequent use of generative AI can enrich teaching methods and improve students’ interest and participation in learning.
+
+The regression coefficient of students’ gender is also significant, and the coefficient is positive, which means that male students may have a slight advantage in IPE effect compared with female students. This discovery may suggest that we should pay more attention to the influence of gender differences on teaching effect in IPE and explore teaching strategies suitable for different genders. The regression coefficient of grade is not significant, which shows that there is no significant difference in IPE effect between sophomores and juniors in this study. This may mean that grades have little influence on the effect of IPE, or the difference between the two grades is covered up by other factors.
+
+The regression coefficient of this variable is significant and positive whether teachers use AI to assist teaching, which indicates that the effect of IPE is significantly improved when teachers use AI to assist teaching. This emphasizes the importance of teachers actively adopting new technologies in the teaching process and the potential role of AI-assisted teaching in improving the quality of IPE. The regression coefficient of this variable is also significant and positive, which shows that the diversity of teachers’ teaching methods has a positive impact on the effect of IPE. Diversified teaching methods may be more helpful to stimulate students’ interest in learning and improve their understanding and absorption of IPE courses.
+
+D. Variation Analysis
+Independent sample t test was used to compare the differences in IPE effect between different groups (students using generative AI and students not using it). The average score of IPE effect of students using generative AI (85.2) is significantly higher than that of students not using it (80.1), and this difference is statistically significant (p=0.004). This shows that the use of generative AI may have a positive impact on students’ IPE effect. See Table 4.
+
+TABLE 4 The Actual Influence of Generative AI on Students’ Learning Effect
+Table 4- The Actual Influence of Generative AI on Students’ Learning Effect
+E. SEM Analysis
+SEM is a statistical technique used to analyze the complex relationship between variables. It combines factor analysis and multiple regression analysis, and can consider multiple dependent variables and independent variables and their interaction at the same time. SEM allows researchers to test hypotheses about causality and evaluate the strength and direction of relationships between variables.
+
+Firstly, a theoretical model is defined in SEM, which includes a group of potential variables, which are connected by path coefficients. Each path represents the relationship between two variables: the positive path coefficient indicates positive correlation and the negative path coefficient indicates negative correlation. In addition, SEM allows researchers to introduce error terms to represent imperfections in the measurement process, for example, questionnaire items may not fully reflect the concepts they represent.
+
+An important feature of SEM is that it can test the overall fitting degree of the model. This involves comparing the differences between observed data and model predictions. If the model is fitted properly, it means that the observed data are consistent with the assumptions of the model; Otherwise, the model may need to be adjusted to better match the data. One of the key advantages of SEM is its multi-dimensional nature, which can reveal not only direct effects, but also indirect effects and total effects, thus providing a more comprehensive perspective for understanding complex causality. In addition, SEM can also be used to test mediation effect and regulation effect, which is particularly useful for explaining the mechanism of the relationship between variables.
+
+SEM is a powerful analytical tool, which is suitable for psychology, sociology, market research and other fields. It can help researchers deeply understand the complex relationship between variables and provide insights on causality.
+
+In this study, SEM is used to analyze the application effect of generative AI in university IPE. SEM is a multivariate statistical technique, which can deal with both measurement model and structural model at the same time, and can be used to evaluate the causal relationship between variables. The statistical software AMOS is used to estimate the model, and the fitting degree of the model and the significance of the path coefficient are verified.
+
+This study assumes that the frequency of using generative AI directly affects students’ acceptance, students’ classroom participation and teaching effect evaluation. At the same time, students’ acceptance also affects students’ classroom participation and teaching effect evaluation. The diversity of teachers’ teaching methods and whether they use AI to assist teaching also affect the evaluation of teaching effect. The structural model set in this study is shown in Figure 5.
+
+FIGURE 5. - Structural model.
+FIGURE 5.
+Structural model.
+
+Show All
+
+Among them, the frequency of using generative AI is AI_Freq, the acceptance of students is Stu_Accept, the participation of students in class is Stu_Engagement, the evaluation of Teach_Effect is Teaching _ Effect, the diversity score of teachers’ teaching methods is Teacher_Diversity, the Gender of students is Gender, male =1, female =0, and whether teachers use AI to assist teaching is AI_Assistance.
+
+Table 5 shows the possible test results of model fit after SEM analysis with AMOS.
+
+TABLE 5 Model Fitting Test Results
+Table 5- Model Fitting Test Results
+The value of χ2 /df (chi-square to degrees of freedom ratio) is 1.87, which is less than the recommended critical value of 3.0. This indicates that the fit of the model to the data is within an acceptable range, without overfitting or underfitting.
+
+The actual value of RMSEA (Root Mean Square Error of Approximation) is 0.062, lower than the recommended criterion of 0.08. RMSEA is an important indicator to measure the model’s fitting error, and a lower value means that the model’s prediction error is small, thus the model’s goodness of fit can be considered good.
+
+The value of SRMR (Standardized Root Mean Square Residual) is 0.055, also below the recommended criterion of 0.08. SRMR reflects the size of the residual between the observed data and the model’s predicted values, and a low value indicates a high degree of agreement between the model and the data.
+
+The actual values of CFI (Comparative Fit Index), TLI (Tucker-Lewis Index), and NFI (Normed Fit Index) all exceed the recommended criterion of 0.90, reaching 0.93, 0.92, and 0.91 respectively. These indices are key indicators to measure the overall goodness of fit of the model, and high values mean that the model can well explain the variation in the observed data.
+
+On the whole, the above fitting indexes have reached the recommended standards, indicating that the SEM constructed in this study has a high degree of fitting with the actual data. This means that the path setting and variable relationship in the model can better reflect the actual situation, so the model can be considered as an effective tool, which can be used to analyze and predict the application effect of generative AI in university IPE.Path coefficient reflects the strength of causality between potential variables. The significance test results of path coefficient are shown in Table 6.
+
+TABLE 6 Test Results of Significance of Path Coefficient
+Table 6- Test Results of Significance of Path Coefficient
+The normalized path coefficient of AI_Freq → Stu_Accept is 0.35, which indicates that the usage frequency of generative AI (AI_Freq) has a positive and relatively strong influence on students’ acceptance (Stu_Accept). The critical ratio (C.R.) is 5.83, far exceeding the usual significance threshold, and the p value is less than 0.001, indicating that this path is very significant.
+
+The standardized path coefficient of AI_Freq → Stu_Engagement is 0.22, which shows that the frequency of AI usage (AI_Freq) has a positive influence on students’ classroom participation (Stu_Engagement), but the influence degree is slightly lower than that on students’ acceptance. The critical ratio (C.R.) is 4.40, and the p value is less than 0.001, which indicates that this path is equally significant.
+
+The normalized path coefficient of AI_Freq → Teach_Effect is 0.18, which shows that AI usage frequency (AI_Freq) has a positive influence on the teaching effect evaluation (Teach_Effect), but the influence degree is relatively weak. The critical ratio (C.R.) is 2.57, and the P value is 0.010. Although the influence is weak, this path is still significant.
+
+The standardized path coefficient of Stu_Accept → Stu_Engagement is 0.40, which indicates that student acceptance (Stu_Accept) has a strong positive influence on student classroom participation (Stu_Engagement). The critical ratio (C.R.) is as high as 10.00, and the p value is less than 0.001. This path is very significant.
+
+The standardized path coefficient of Stu_Accept → Teach_Effect is 0.32, which shows that student acceptance (Stu_Accept) has a positive and strong influence on the evaluation of teaching effect (Teach_Effect). The critical ratio (C.R.) is 5.33, and the p value is less than 0.001, which indicates that this path is significant.
+
+The standardized path coefficient of Teacher_Diversity → Teach_Effect is 0.25, which shows that the diversity of teachers’ teaching methods has a positive impact on the evaluation of teaching effect. The critical ratio (C.R.) is 5.00, and the P value is less than 0.001, which is a significant path.
+
+The standardized path coefficient of AI_Assistance → Teach_Effect is 0.15, which shows that whether teachers use AI_Assistance has a positive but weak influence on the evaluation of teaching effect. The critical ratio (C.R.) is 3.75, and the P value is less than 0.001, indicating that this path is also significant.
+
+The standardized path coefficient of Gender → Teach_Effect is −0.05, but the p value is 0.095, which is higher than the significant level (usually 0.05), indicating that the Gender of students has no significant influence on the evaluation of teaching _ effect.
+
+To sum up, except for the gender of students, the influence of other paths on the evaluation of teaching effect is not significant. These results provide us with an in-depth understanding of the application effect of generative AI in university IPE.
+
+SECTION V.Discussion
+From the perspective of responsible innovation, this study deeply discusses the influence of generative AI on university IPE. Compared with similar studies at home and abroad [19], [20], the uniqueness of this study lies in its comprehensive empirical analysis method, which not only considers the advanced nature of technology, but also emphasizes the social, environmental and ethical responsibilities behind technological innovation. Foreign research mostly focuses on the practicality and application effect of technology, while domestic research pays more attention to the application scenarios and social impact of technology [22]. On the basis of integrating their advantages, this study puts forward a more comprehensive and in-depth analysis framework.
+
+This study applies the theory of responsible innovation to the field of education for the first time, especially university IPE, which provides a new theoretical support for the combination of technological innovation and educational reform. Through questionnaires, interviews, classroom observation and other empirical analysis methods, this study obtained first-hand data, which provided a solid support for the scientific and reliable research [23], [24]. This study not only analyzes the positive impact of generative AI on university IPE, but also discusses its potential challenges and limitations, which provides a more comprehensive reference for future research and practice.
+
+However, although this study provides a preliminary view on the application of generative AI in university IPE, its limitations can not be ignored. The limitation of sample size is a major problem. Although research efforts include universities of different types and regions to enhance the universality of the results, due to the relatively small sample size, it may not be able to fully capture the diversity and complexity of all university environments. This limitation may lead to the lack of representativeness of the research results, thus affecting the wide applicability of the conclusions. The rapid iteration of technology is also an important factor affecting the research results. Generative AI technology is a rapidly developing field. With the continuous emergence of new algorithms and technologies, the technical version used in the research may soon be replaced by newer and more advanced versions. This kind of technical iteration may not only affect the accuracy of the research results, but also make the research results obsolete quickly. Therefore, the research needs to be updated regularly to reflect the latest technical progress and application practice.
+
+In addition, the specific focus of the study also determines its limitations. Because the research mainly focuses on specific universities and student groups, this may limit the ability to extend the research findings to a wider background. Different universities have different educational ideas, resource allocation and cultural background, which may have an impact on the application of generative AI technology in IPE. Therefore, future research needs to be carried out in more diverse environments to improve the universality and applicability of the research results. This study is based on the current technical level, but with the continuous development of generative AI technology, the future application mode, effect and its influence on education may change significantly. This means that the insights provided by this study may need to be constantly updated and revised with the emergence of new technologies and the practice of new applications. Therefore, continuous monitoring and evaluation will be the key to understand and utilize the potential of generative AI technology in the field of education.
+
+With the continuous progress of technology and the continuous expansion of application scenarios, the application of generative AI in university IPE will be more extensive and in-depth. In the future, through AI technology, teachers can provide each student with more accurate and personalized learning resources and feedback, thus improving the teaching effect and students’ learning experience. Using the interactive characteristics of AI technology, we can create more vivid and interesting IPE classes and improve students’ participation and interest in learning. AI technology can also be used for students’ learning evaluation and feedback, providing teachers with more scientific and objective evaluation basis and providing more accurate guidance for students’ learning.
+
+In order to promote the effective application of generative AI in university IPE, it is suggested that future research and practice should pay attention to the following points: first, strengthen the technical training of teachers so that they can skillfully use generative AI for teaching design and implementation; Second, continuously track and evaluate the effect of technology application, and adjust and improve teaching methods in time; Third, pay attention to the cultivation of students’ critical thinking ability, and ensure that the application of technology is not limited to imparting knowledge, but also pay attention to the shaping of values and the improvement of moral literacy.
+
+SECTION VI.Conclusion
+From the perspective of responsible innovation, this study makes an in-depth empirical analysis of the influence of generative AI in university IPE. The research results show that there is a significant positive correlation between the application of generative AI in IPE and the teaching effect, which is mainly reflected in the following aspects:
+
+The use of generative AI enriches the teaching methods of IPE and improves students’ learning interest and participation. Teachers adopt diversified teaching methods, especially combined with generative AI-assisted teaching, which can impart IPE knowledge more effectively and enhance students’ learning experience.
+
+Students and teachers generally hold a positive attitude towards the application of generative AI in IPE, and think that this technology is helpful to improve teaching effect and learning efficiency. There is a significant positive correlation between students’ acceptance and the use frequency and teaching effect of generative AI, which shows that students’ acceptance of technology directly affects their learning experience and teaching effect.
+
+The concept of responsible innovation has been effectively reflected in IPE. While promoting technological innovation, this study pays attention to the possible social, environmental and ethical impacts of technology to ensure its sustainable development and positive social effects. This will help to improve the quality of education and cultivate students’ independent thinking and moral quality.
+
+Although generative AI has shown positive effects in IPE, the research also points out its potential challenges and limitations. Such as the timeliness of technology update, the limitation of sample size and the influence of gender differences on teaching effect. Future research needs to pay attention to these aspects in order to make better use of generative AI to improve the quality and effect of IPE.
+
+To sum up, generative AI has broad application prospects and important research value in university IPE. Under the guidance of responsible innovation, through in-depth research and practical exploration, we can make better use of this technology to improve the quality and effect of IPE and promote the all-round development of students. At the same time, we also need to make continuous efforts in technology updating, sample expansion and gender differences to cope with potential challenges and limitations.
+
+In the future, we will explore the integrated application of generative AI and more advanced educational technologies, such as virtual reality (VR) and augmented reality (AR), in order to create a richer and more interactive IPE learning environment. This paper studies how to realize more personalized teaching content and path through generative AI technology, meet different students’ learning needs and interests, and improve learning efficiency and effectiveness. Increase the sample size and cover more types of universities and student groups to improve the representativeness and universality of the research results. Carry out inter-school research, compare the differences and commonalities in the application of generative AI in different regions and different types of universities, and extract more universal application modes and strategies.
+
+Keywords
+Generative AI,Education,Technological innovation,Ethics,Surveys,Interviews,Artificial intelligence,Generative AI
+

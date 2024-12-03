@@ -1,0 +1,754 @@
+ChatGPT versus engineering education assessment: a multidisciplinary and multi-institutional benchmarking and analysis of this generative artificial intelligence tool to investigate assessment integrity
+
+ABSTRACT
+ChatGPT, a sophisticated online chatbot, sent shockwaves through many sectors once reports filtered through that it could pass exams. In higher education, it has raised many questions about the authenticity of assessment and challenges in detecting plagiarism. Amongst the resulting frenetic hubbub, hints of potential opportunities in how ChatGPT could support learning and the development of critical thinking have also emerged. In this paper, we examine how ChatGPT may affect assessment in engineering education by exploring ChatGPT responses to existing assessment prompts from ten subjects across seven Australian universities. We explore the strengths and weaknesses of current assessment practice and discuss opportunities on how ChatGPT can be used to facilitate learning. As artificial intelligence is rapidly improving, this analysis sets a benchmark for ChatGPT’s performance as of early 2023 in responding to engineering education assessment prompts. ChatGPT did pass some subjects and excelled with some assessment types. Findings suggest that changes in current practice are needed, as typically with little modification to the input prompts, ChatGPT could generate passable responses to many of the assessments, and it is only going to get better as future versions are trained on larger data sets.
+
+KEYWORDS: Artificial intelligence (AI), assessment, ChatGPT, engineering, education, GPT-3, integrity
+
+Introduction
+At the start of 2023, the authors of this paper, hailing from seven different Australian universities, were bombarded with information related to ChatGPT, an artificial intelligence (AI) powered, web-based chatbot. This included emails from university leaders such as Vice Chancellors, Deputy-Vice Chancellors, Deans, and Heads of School, aimed at raising awareness about the software. Invitations were also extended to attend information sessions to gain insights into the capabilities of ChatGPT, but such sessions contained very little on the known impact on current assessment practices. Teaching and learning departments were instructed to develop resources on AI software to educate staff quickly, shared through university pages, such as Lei (Citation2023b), and social media. With little empirical evidence available, only guiding principles were made available. Additionally, concerns were raised about the integrity of assessment practices, with reports suggesting that ChatGPT could pass some assessments (Gilson et al. Citation2022) and evade plagiarism detection by humans or software (Else Citation2023). Despite these concerns, the rapid pace of its rollout meant there was a dearth of relevant education research, especially in engineering education. The widespread hype, confusion, and duplication of workload across institutions underscored the need to understand the potential impact of ChatGPT on the integrity of engineering education assessment. Therefore, this study aims to answer the research question ‘How might ChatGPT affect engineering education assessment methods, and how might it be used to facilitate learning?’
+
+As outlined in the literature review, the performance of chatbot technology is rapidly improving. For that reason, it needs to be acknowledged that the comparisons and analyses made herein could be out of date before this article is even published. Consequently, this article aims to establish a benchmark of ChatGPT’s performance in a diverse range of assessment tasks during the first quarter of 2023. This benchmarking data will be invaluable in comparing changes over time as the technology continues to advance. The authors plan to repeat this study to test against future releases. In addition to benchmarking, the data analysis conducted in this study will identify areas of weakness and strength within the scope of engineering education assessment. The study will also explore potential adaptions to the new landscape brought on by powerful artificial intelligence technology and consider options to embrace it. GPT-4 was released days before the submission of this study. Some commentary regarding early claims of its performance is included.
+
+Literature review
+A chatbot is a computer program designed to engage in conversations with humans and provide solutions to their questions (Dahiya Citation2017). Chatbot technology is not new, with the first known program called ELIZA being developed in 1966, using simple pattern-matching techniques together with a template-based response mechanism (Adamopoulou and Moussiades Citation2020). Chatbot technology evolved, and a major breakthrough in the technology was made in 1995 with the award-winning program ALICE, combining pattern-matching with artificial intelligence (the ability of machines or computer systems to perform tasks that normally require human intelligence) to provide a natural language user experience (Bani and Singh Citation2017). The more natural the communication experience, the more likely the user would feel that they are having a real conversation and not a simulated one. Natural Language Processing (NLP) is a subfield of artificial intelligence providing the scaffold that allows chatbot programs to understand one or more human languages (Khanna et al. Citation2015). One of the next major advancements in the field came through virtual personal assistants like Apple’s Siri in 2011 and Amazon’s Alexa in 2014 (Adamopoulou and Moussiades Citation2020). These are technologies known by name across much of the world.
+
+OpenAI’s ChatGPT (officially Chat Generative Pre-Trained Transformer) released its popular GPT-3 version in October 2020, following the release of GPT-2 in February 2019 and GPT-1 in 2018. ChatGPT is a Large Language Model (LLM) that uses a form of NLP called ‘unsupervised learning’ to generate its responses. This involves training the model on large amounts of text data to learn patterns and relationships between words and phrases. When presented with a new prompt or question, ChatGPT uses its learned knowledge to generate a response that is contextually relevant and grammatically correct (OpenAI Citation2023b; Bubeck et al. Citation2023). The first model was based on 117 million parameters, the second on 1.5 billion parameters, and the third version (used in this study) on 175 billion parameters (OpenAI Citation2023c). As can be seen, the increase in training parameters in such a short time has been substantial. The size of training parameters is important because the software uses machine learning to autonomously learn (van Dis et al. Citation2023). With the increase in training size, GPT-3 can now capture even more complex patterns and relationships in language, resulting in more sophisticated and nuanced responses.
+
+A famous measure of artificial intelligence is the Turing Test. Named after the pre-eminent computer scientist Alan Turing, it tests whether a human subject can distinguish which of two conversational partners is a fellow human being, and which is a machine. In two recent studies in a medical context, ChatGPT’s responses were only weakly distinguishable from those generated by a real person (Hulman et al. Citation2023; Nov, Singh, and Mann Citation2023).
+
+While ChatGPT has received considerable media attention in the chatbot space (Else Citation2023), it is not the only program of its kind. Other similar LLM’s include Google's products Bert, Meena, XLNet, and Bard; Microsoft's XiaoIce and Bing ChatGPT, and Facebook's Blender (Agomuoh Citation2023). These models are capable of engaging in natural, human-like conversations and can be used for a wide range of applications, including customer service, education, and entertainment. Nevertheless, ChatGPT has been the most widely discussed language model thus far (Frieder et al. Citation2023), and has set a new record as the fastest growing consumer application in history (Hu Citation2023), making it the primary focus of this study. In terms of AI tools more generally, there are over 1300 available (Futurepedia Citation2023) at the time of writing, with new applications frequently being developed.
+
+To obtain highly relevant output with large language models like ChatGPT, the user needs to carefully consider what the best input parameters are. For example, if a user provided an input such as ‘what was the most popular car in 2020?’ they would get a very different answer if the input was ‘what is the most popular electric sedan in Australia in 2020?’ As a result, the term prompt engineering is now commonly used to describe the process of modifying the input prompts to tailor the output and ensure specific qualities (and quantities) of generated output (White et al. Citation2023). The starting point for a prompt includes providing instruction, context, input data and output indicator (Lei Citation2023a). This has opened up a new, hot field of research and prompt engineers can attract six-figure salaries (Popli Citation2023).
+
+Interestingly, other applications such as Wolfram Alpha (released in 2009), have been providing advanced mathematical capabilities that are well suited for engineering education for quite some time (Necesal and Pospıšil Citation2012). At present, ChatGPT’s capability in mathematics, in contrast to its natural language capabilities, is claimed to be rather poor, falling short of the level of an average mathematics graduate student (Frieder et al. Citation2023). Therefore, this provides justification to explore in this study if ChatGPT is indeed any match for the numerical questions typically found in engineering education assessments. Within the scope of engineering mathematics, software like Wolfram Alpha have been used by some educators, as discussed in Necesal and Pospıšil (Citation2012) and Kanwal (Citation2018), as a learning aid rather than something to be feared or avoided as a threat to authentic learning and assessment. For this to become more widespread, we need to understand the technology in an educational perspective, we need to provide necessary safeguards, and update policies (Murugesan and Cherukuri Citation2023).
+
+Concerns about ChatGPT potentially compromising academic integrity have arisen due to reports of its ability to pass various assessments and deceive experts. These include passing components of the medical licencing exam (Gilson et al. Citation2022); writing fake research abstracts that were not detected by experts (Else Citation2023); and passing law exams (Choi et al. Citation2023). The chatbot has been used and tested with varying success and accuracy with many use cases including writing computer programs, writing papers and essays, undertaking statistical analysis, summarising literature, and more (van Dis et al. Citation2023). In engineering education, there is a wide range of assessments used, some more frequently than others, and even before all the ChatGPT buzz, research indicated that we need to develop a greater understanding of assessment implementations such as how and why they are used (Nikolic et al. Citation2021; Hassan Citation2011). It has been suggested that AI technology can help educators with the design and implementation of assessment (Swiecki et al. Citation2022). Again, this provides justification of the need for this study to investigate the impact ChatGPT can have on engineering education assessments of various types.
+
+Academic integrity fears have been heightened by the COVID-related shift of assessments in tertiary education to online formats which has seen increases in cheating behaviours, providing a pathway to encourage student use of ChatGPT or related technologies (Susnjak Citation2022). A systematic literature review of online exam cheating by Noorbehbahani, Mohammadi, and Aminazadeh (Citation2022) outlined a variety of motivations as to why students may decide to cheat. They highlight that the primary reason being that students would cheat if the reward outweighed the risk. Factors they identified that motivate students to cheat could be grouped as teacher, institutional, internal and environmental reasons. Overall, if a student feels disadvantaged, the environment is conducive of cheating, and the assessment design is one that makes cheating easy, students will be more tempted to cheat. Many of these risk factors can be easily correlated to online or other non-invigilated assessment contexts. However, Noorbehbahani, Mohammadi, and Aminazadeh (Citation2022) outline that cheating can be deterred using an anti-cheating atmosphere. They contend that ethical behaviour of staff, supportive learning environments, assessments designs that are difficult to cheat with and are complemented with cheating-detection tools, all supported by strong institutional rules and policies, help deter cheating. Deterring cheating is important, due to the flow-on risk of students continuing such unethical conduct in to their professional practice and the compounding problems associated with this (Ellis et al. Citation2020).
+
+While ChatGPT has raised substantial integrity concerns, cheating is not a new phenomenon. For example, contract cheating has received much attention in recent years (Ellis et al. Citation2020). Plagiarism detection software, such as Turnitin, has helped uphold and support the communication of the importance of academic integrity at tertiary institutions for some time (Alua, Asiedu, and Bumbie-Chi Citation2023). Beyond written assessment, proctoring software (i.e. software to support the online supervision of live assessments) has been used to support online exams, but has faced many ethical concerns and is more a deterrent rather than a tool to stop cheating (Alin, Arendt, and Gurell Citation2023). At the time of writing, ChatGPT can overcome plagiarism tools like Turnitin because it produces a unique output for each query, even if the query is repeated. To overcome this, a new breed of software tools and extensions like GPTZero (Citation2023) are becoming available to help predict if a document was written by a large language model. However, they are in their infancy and need substantial refinement to help better support academic integrity.
+
+The literature outlined above has suggested that proctoring software and traditional and future detection techniques currently provide limited value in upholding academic integrity. In an environment where ChatGPT can provide unique output and can provide passing-level answers to some assessment tasks, some re-evaluation of current practice is needed. As was highlighted by Noorbehbahani, Mohammadi, and Aminazadeh (Citation2022), strong institutional rules and policies, together with assessment designs that deter cheating, are needed. Therefore, we must reflect on current assessment practices and determine what is the new best practice, which is what we are seeking to accomplish in this study.
+
+While integrity is one concern, as engineers, embracing new technology to advance the way we do things is a must. Therefore, we need to work through the weaknesses and determine how artificial intelligence tools like ChatGPT can be used to advance engineering education. The benefits of integrating such technology into the classroom (rather than fearing it) is demonstrated by Necesal and Pospıšil (Citation2012). For this reason, in the study where possible, we try and explore how ChatGPT can aid the learning process through undertaking the assessment tasks. When ChatGPT was asked how it could benefit engineering education, the following points was the direct output (OpenAI Citation2023e):
+
+1. Improved Engagement and Student Experience
+
+One of the key benefits of ChatGPT in engineering education is its ability to enhance student engagement and improve the overall student experience. ChatGPT can interact with students in a conversational manner, providing them with personalized feedback and allowing them to ask questions in real time. This type of interaction can help students feel more connected to the material and can lead to a deeper understanding of the subject concepts. Additionally, the conversational style of ChatGPT can make the learning experience more engaging and enjoyable for students, reducing the boredom and disinterest that can arise in traditional lecture-style teaching.
+
+2. Increased Accessibility and Inclusivity
+
+Another important benefit of ChatGPT in engineering education is its ability to increase accessibility and inclusivity. ChatGPT can provide students with instant feedback and support, regardless of their location or time zone. This can be particularly useful for students who are unable to attend traditional in-person classes or who require additional support to fully grasp the subject material. Additionally, ChatGPT can be used to provide real-time translation of subject material, making engineering education more accessible to students who are non-native English speakers.
+
+3. Enhanced Assessment and Feedback
+
+ChatGPT has the potential to revolutionize the way engineering students are assessed and receive feedback on their performance. ChatGPT can be used to provide students with instant feedback on their assignments and assessments, allowing them to quickly identify areas where they need to improve. This can be especially beneficial for students who are unable to attend regular office hours or who need additional support outside of class time. Additionally, ChatGPT can be used to grade assignments and provide feedback, freeing up valuable time for instructors who would otherwise be spending hours grading papers.
+
+4. Improved Learning Outcomes
+
+The use of ChatGPT in engineering education has the potential to improve learning outcomes for students. ChatGPT can provide students with instant feedback on their progress and help them to identify areas where they need to improve. Additionally, the conversational style of ChatGPT can make the learning experience more enjoyable and engaging, leading to a deeper understanding of the subject concepts. Furthermore, ChatGPT can provide students with personalized learning experiences, tailoring the learning process to their individual needs and preferences.
+
+When ChatGPT was asked about its limitations regarding engineering education, the following points was the direct output (OpenAI Citation2023d):
+1. Training Data Bias
+
+As a machine learning model, ChatGPT has been trained on a large corpus of data, and any biases present in that data will be reflected in the output generated by the model. For example, if the training data contains stereotypical gender roles or perpetuates cultural or racial biases, ChatGPT's output may reflect these biases as well.
+
+2. Inaccurate Information
+
+Despite its advanced language generation capabilities, ChatGPT is not always able to provide accurate information. This is due to the limitations of the training data and the fact that ChatGPT is not capable of independent judgement. As a result, it is important for users of ChatGPT to verify the information it provides before using it in engineering education.
+
+3. Limitations of AI
+
+ChatGPT is not capable of independent judgement or decision-making and relies on the input provided to it to generate its output. This means that the information provided by ChatGPT may be limited or incorrect, and that it is important for instructors and students to use critical thinking and judgement when interpreting its output.
+
+As can be seen above, the English-level capabilities of the software can be rather good. This capability has led to contentious practices in using ChatGPT to co-author research articles (Stokel-Walker Citation2023). ChatGPT raised some valid points as to why the technology should not be feared but embraced within engineering education. The limitations raised provide an opportunity to reflect and find opportunities to integrate these weaknesses into different assessment tasks. This could provide a pathway to new opportunities to integrate ChatGPT and similar tools into classroom learning activities.
+Research activity
+Nine authors from seven different Australian universities, all with different engineering backgrounds, came together to tackle the common problem identified and highlighted in the introduction and literature review. That is, there was great institutional demand to develop a ChatGPT-based understanding of the weaknesses of current assessment practices, as well as identifying strengths and new opportunities. Therefore, a process was developed to answer the stated research question how might ChatGPT affect engineering education assessment methods, and how might it be used to facilitate learning?
+
+To accomplish this, the initial phase consisted of the authors exploring the capabilities of ChatGPT in responding to a range of assessment tasks and determining what information in the assessment prompt was important. This was completed using the publicly available webpage at https://chat.openai.com/chat, a free version of ChatGPT.
+
+Team meetings followed and were used to refine the investigation and data collection process. From this, procedures and templates were formulated to create consistency across each team member. A decision on which subjects would be included was made to ensure as much diversity in subject matter and assessment implementation as possible. Investigation and reporting were cascaded allowing each member to report their results to the team, scaffolding and sharing implementation to strengthen alignment. The first author played a gatekeeper role, ensuring consistency and best practice in ‘prompt engineering’. This was to ensure that prompts were being applied to give ChatGPT every chance to pass the assessment tasks. The first author is also a Head of Students for undergraduate engineering, a role that requires having oversight into the structure for eleven different engineering majors. This experience provided the skills necessary to reflect on the individual efforts of each team member.
+
+The ultimate aim was to determine if a student could use ChatGPT to pass the different assessment tasks and how difficult that may be. This was the driving force behind the research methodology. Assigning a pass or fail was the primary recording method. For questions that had a black or white answer (such as marks for numerical questions with only one correct answer), an actual grade was recorded. For other assessments, a grade beyond pass or fail was avoided due to the bias in knowing that the output was AI-generated. Each team member would need to determine if, at a minimum, a passing grade could be reached. The advantage of this approach was that each team member could further adapt the input of the questions provided to ChatGPT to determine if there was a way to produce a passable output. Hence the importance of the gatekeeper role mentioned above. This would allow team members to best report on the impacts of input modification (that is, changes to ChatGPT’s prompt). The reflective process of interacting with changes to the input and output, created a connection to the second component of the research question (how might it be used to facilitate learning?). It was discovered during the investigation stage, that as the team uncovered what ChatGPT could or could not do, reflectively the team was also identifying opportunities.
+
+For this reason, the team classified the level of input modification required to obtain a pass. The classifications are as follows:
+
+N/A: related to modification not being applicable (e.g. ChatGPT could not take the place of a student for an oral presentation)
+
+Fail: if a modification was applied, the output resulted in work that would fail.
+
+None: correlated to an output that would give a passing grade simply by copying the assessment task information/question directly into ChatGPT.
+
+Minor: related to some minor modification being needed to the input in order to get a pass grade. These generally resulted in the need to input specific parameters or instructions that provided better guidance of the structure and content required in the output. For example, simply rewording the question to use the prompt engineering structure instruction, context, input data and output indicator (Lei Citation2023a).
+
+Major: correlated to substantial modifications required to achieve a passing grade. In essence this would require a student that has a solid understanding of what the output needs to be and has the technical understanding to experiment with the input to achieve the required result.
+
+The team agreed to use shared procedures and templates to ensure consistent documentation. Examples of the input and output were required to be recorded to allow team analysis of the modification levels applied to the input. At the end of the data collection period, the team reconnected to analyse the results, share their findings and undertake analysis for this paper.
+
+The data collection process described above was formally conducted as follows:
+
+- For each subject, the team member responsible needed to test all assessment tasks outlined on the subject outline (the formal university documentation regarding subject structure).
+
+- The team member would first attempt to copy and paste the question into ChatGPT.
+
+o If the output produced an output that would pass, they would move on to the next question.
+
+o If the output would not produce a pass grade, the team member would reflect on the relationship between the prompt and output to reengineer the prompt. This process was aided by the structure outlined above.
+
+If the output would result in a pass, they would move to the next question, or if the reflection warranted it, further prompt engineering exploration was undertaken to explore what it would take to get a better result to aid the discussion.
+
+If the output did not result in a pass, they would continue to reengineer the prompt. When in doubt, the gatekeeper was consulted. This process continued until it was determined that a passing grade was not possible, or a passing grade was achieved.
+
+- When all assessments were completed, the results and examples were provided to the team. This allowed for feedback and knowledge transfer on practical prompt engineering approaches. The next team member would then repeat the process on their subject.
+
+- If the assessment task involved a random question set, the team member just needed to complete the assessment task once. That is, they did not retake the test to check different combinations of questions.
+
+In terms of analysis and presentation, the team considered what data academics would want to see and how they would read the paper. From recent information sessions on ChatGPT at authors’ universities, two themes emerged. Academics wanted to know practical information on the impact on the subject they taught, and they wanted to know which assessments were most vulnerable and which were not. With this information we believe many readers will read the impact on the subject they teach (or closest to it) and then read the information about the assessment types. For this reason, data analysis in the following section is separated into a subject-by-subject and an assessment type approach.
+
+The assessment types were bucketed into categories of best fit by the team after an analysis of the requirements of each assessment type conducted in each subject. The categories were defined as:
+
+- Online Quizzes: tasks that used an online quiz format using an e-learning platform.
+
+- Numerical (Assignments and Exams): assessments tasks where the answers are numerical in nature (e.g. calculation based) and are completed in a written format (not online).
+
+- Code Submission: assessments requiring the submission of programming code.
+
+- Oral: assessments comprising presentations, interviews, pitches and quality participation in discussion.
+
+- Visual: visual documents (e.g. mind map) and evidence (e.g. completion certificate)
+
+- Written (Experimentation-based): written activity associated with experimentation or laboratory work.
+
+- Written (Project-based): written assessment activity associated with project work (e.g. project report)
+
+- Written (Reflective & Critical Thinking-based): written assessment tasks that focused on reflective and critical thinking (e.g. reflection on student experience, strengths and weaknesses)
+
+- Written (Research-based): assessments focused on research-based writing (e.g. thesis).
+
+Just before paper submission, the new version of ChatGPT (module 4) was released via paid premium subscription. While access to the full feature set was not readily accessible, we managed to check against some of the ChatGPT limitations identified in this research. This update is provided in a commentary section.
+
+A diverse range of both undergraduate and postgraduate subjects from across the seven universities were selected to provide a diverse picture of the impact ChatGPT has on engineering education assessment. The subjects were also selected for both their similarity and differences in assessment types. Subject codes and location are masked to respect the sensitivity of the data. Although different terms are used in different universities and contexts, in this study we use the term ‘subject’ to refer to a single unit of study equivalent to about one-quarter of a full-time semester load, requiring roughly 100 h of student work. Subjects investigated include:
+
+First-Year Foundational:
+
+- Engineering Physics: a first-year undergraduate subject for all engineering disciplines. The subject serves as an introduction to the fundamentals of engineering physics with appropriate applications in a wide range of engineering and industrial design systems.
+
+- Maths: a first-year undergraduate subject common for all engineering disciplines focused on Calculus and Linear Algebra. A contextual focus from various engineering disciplines is used.
+
+Technical:
+- Introductory Programming: a first-year undergraduate subject for all engineering disciplines and other related fields. Using Python, students develop computational thinking to solve problems with a focus on building small programs for specialised tasks.
+
+- Manufacturing Technology: a second-year undergraduate subject with a primary focus for mechanical engineering. Individually and through teamwork students develop understanding of modern manufacturing processes, production systems and quality management systems.
+
+- Engineering Laboratory: a third-year undergraduate laboratory subject tailored for chemical engineers. In teams, students are presented with open-ended projects requiring them to lead, plan and execute laboratory work.
+
+- Sustainable Product Engineering and Design: an undergraduate first-year to final-year, multi-disciplinary engineering and science subject. Issues with respect to the sustainability, safety, engineering profession, laboratory, pilot plant are explored. Students also gain skills in information literacy.
+
+- Renewable Energy and Electrical Power: a fourth year undergraduate and co-badged postgraduate subject for electrical engineers. Students develop knowledge in renewable energy technologies, energy storage systems, power electronics interfaces and associated control, and renewable energy system design and implementation.
+
+Social context of engineering/professional skills:
+- Sustainable, Environmental & Social Impacts of Technology: A senior-level core undergraduate subject looking at the social dimensions of emergent technologies. Students learn about ethics, engagement and consultation with stakeholders, public policy, sustainability, and other contextual considerations, and then apply these concepts to exploring an emergent technology, such as self-driving cars or facial recognition software, from a range of perspectives.
+
+- Workplace Practice & Communication: a multi-disciplinary postgraduate work-integrated learning (WIL) subject. This subject is focused on developing key employability skills required to be successful in the Australian workforce. Students refine their professional communication skills and work in a team as consultants working on real industry problems.
+
+Research:
+- Engineering Research: co-taught between fourth year undergraduate and postgraduate students (postgraduate assessment structure used in the study). The focus is on the development of skills in framing a research problem, developing a research design, design of data collection analysis and interpretation frameworks.
+
+Limitations:
+There are several potential limitations with this study. First and foremost is the dynamically changing landscape of AI-based chatbot technology, with for example the release of GPT-4 a few days before submission. This means that by the time of publication, the ability of ChatGPT to respond to assessment task prompts will likely far exceed that reported here. However, we see this study as an opportunity to benchmark the performance of ChatGPT with regard to engineering education assessment, at this particular moment in time in early 2023.
+
+All assessment tasks for all subjects are treated as if they could be completed via a technology that would allow access to ChatGPT. Some of the assessment tasks considered were designed to be conducted via an in-person format. Therefore, difficulty levels could change if designed for a different mode. For example, the difficulty setting of an open book test could be different to that designed for a closed book test. Regardless of this limitation, a benchmarking of current practice is observed.
+
+Undergraduate engineering students in Australia typically complete something like 30 or more stand-alone subjects, covering the breadth and depth of skills and knowledge required for graduates. In this study, we have analysed ChatGPT’s responses to assessments from around 10 subjects. One possible limitation, therefore, is the representativeness of our subject coverage. However, we feel we have pre-empted this concern by evaluating subjects from across the engineering curriculum, including first year foundational (maths and physics that underpins engineering content), technical, research, and professional skills from a range of year levels and from both common core and discipline-specific streams. While not exhaustive, we feel we have included sufficient diversity to give an accurate sense of ChatGPT’s ability in addressing contemporary engineering education assessments.
+
+While this study is focussed on ChatGPT, there are other artificial intelligence tools, some that build upon ChatGPT, that may be better suited to certain assessment tasks. Therefore, readers need to be aware of this self-imposed boundary. Using other AI tools may lead to different results.
+
+A final potential limitation is the variability in assessment practices and rubrics in different institutions, and in our own different biases and interpretations of ChatGPT responses given our awareness they are generated by artificial intelligence. Another aspect of this is that in tweaking the assessment prompts to improve the ChatGPT response, we have a strong pre-conceived sense of quality as it is we ourselves that are evaluating and assessing student work, giving us better insights into how to adjust the prompt to improve the outcome. We have addressed these potential variabilities by using a consistent approach in evaluating ChatGPT responses as pass/fail and a straightforward framework to characterise the extent to which assessment prompts have been tuned to achieve improved outcomes.
+
+Results and discussion
+The results and discussion are separated into four different sections:
+
+- Subject Overview & Benchmarking: A summary of the results and experience at a subject-by-subject level
+
+- Assessment Integrity: An analysis by assessment type, outlining weaknesses and strengths and reflecting on the results to consider how ChatGPT can be integrated as a tool to aid learning.
+
+- Recommendations: Steps researchers can take to build upon the findings from this study
+
+- ChatGPT-4 Commentary: Some basic analysis and commentary on the recent release
+
+The two data analysis sections have been undertaken using the framework of a SWOT (Strengths, Weaknesses, Opportunities and Threats). SWOT is a popular framework used in academic peer-reviewed literature and used by consultants, trainers and educators around the world (Helms and Nixon Citation2010). The analysis is centred on Strengths, Weaknesses and Opportunities as the threat is well defined as being ChatGPT. However, future threats are further outlined in the section ChatGPT-4 Commentary.
+
+Subject overview & benchmarking
+The first component of the research study consists of a benchmarking activity to set a baseline of comparison for measuring the advancement of ChatGPT into the future, and also allowing others undertaking similar subjects to compare. This data-intensive information is provided in Appendix A. A subject-by-subject reflection is provided to summarise the impact ChatGPT had on a student’s ability to pass the subject. The team plans to reproduce the study against future versions of ChatGPT to monitor progress. The authors would hope that this study encourages other researchers to replicate the process and compare results across subject and assessment type.
+
+Note that the following analysis is predicated on the assumption that the assessment tasks could be completed in an online environment wherever applicable. That is, if a test was conducted face-to-face in a subject, for analysis we assumed the test was conducted online and the student had the ability to access ChatGPT. The only exceptions to this were lab-based practical tasks.
+
+Physics
+Subject Summary: The subject applies the laws and principles of engineering physics to areas such as force systems and equilibrium, dynamics, motion, vibration and wave phenomena, and electricity and magnetism.
+
+Assessment Types: Closed book exams, both in-session and end of session make up 75% of a student’s grade. The other 25% is allocated to laboratory work with the assessment comprising of a Laboratory report marked at the end of the class.
+
+Result: In order to pass the subject, students would be required to manipulate the input for many questions. In doing so, an overall mark of 56.9% could be achieved, a pass grade.
+
+Integrity Strength: Questions containing figures and tables require the student to have some basic understanding of how to translate the question together with figure and/or table into words that ChatGPT could understand. For example, Table 1 below shows the descriptive text required for input in order for ChatGPT to provide the correct answer. For a student feeling the need to cheat, such an input may not seem obvious and could be time consuming. Student confusion can be amplified when considering the different symbols of the physics quantities, and equations provided in the text format that need to be rewritten in the correct mathematical style.
+
+Table 1. Example of translating a figure into ChatGPT (Image from (Merriam and Kraige Citation1993)).
+
+Display Table
+For the questions with tables, ChatGPT also can be used. Data from the table needs to be typed into the question. Adding the instruction ‘present answers in a table’, ChatGPT was able to present solution in a tabular format. However, at most only half of the columns were calculated correctly.
+
+Integrity Weakness: ChatGPT provided the best solutions for simple questions, with no diagrams, tables, or multiple steps. Simple questions could obtain the correct result with no modification and provided reasonable explanation.
+
+Opportunity: Having face-to-face assessment and a traditional laboratory supports academic integrity. If face-to-face assessments were retained, ChatGPT could be used to support student learning. ChatGPT provides great annotations and students can be encouraged to compare their solution with ChatGPT and use it for revision. Similarly, and while the success rate of ChatGPT is temporarily low, it can be used for ‘flipped assessments’. Students can be asked to solve the problem with ChatGPT and then mark the output.
+
+Maths
+Subject Summary: The subject consists of two strands, Calculus and Linear Algebra. The Calculus strand covers differential calculus and introduces integral calculus. The Linear Algebra strand covers matrices, determinants and applications of these in the sub-topic of vector geometry.
+
+Assessment Types: Online quizzes to reinforce lecture content comprised 10%, three written homework assignments totalled 20%, a mid-session exam covering content from the first half of semester contributed 35% and a final exam covering content from the second half of semester made up the remaining 35%. Both exams had a mixture of true/false, multiple choice and short-answer (working required) questions.
+
+Result: To pass the subject, students would be required to learn the syntax for the mathematical expressions and manipulate the input for many questions. In doing so, the maximum overall mark achieved could be 58%, a pass grade. The final answer for many of the questions was wrong, but partial marks given for the correct components would allow students to pass the subject.
+
+As Wolfram Alpha has been the ChatGPT of the mathematical world for some time, a comparison to this more established platform was also made.
+
+Integrity Strength: ChatGPT does not calculate very well algebraically nor arithmetically, often resulting in a different answer each time it is asked to regenerate the response. If given a simple arithmetic question, ChatGPT can calculate correctly. However, when the arithmetic or algebra is embedded in a longer question, ChatGPT fails more often than it succeeds.
+
+Integrity Weakness: ChatGPT gives very good instructions on the processes involved in answering questions. ChatGPT can also answer questions that have traditionally not been possible with online platforms, such as Wolfram Alpha, like ‘what is the best substitution to use to evaluate this integral?’. It also did very well with True/False questions. Interestingly, if some questions were repeated a wrong answer could be generated after the correct one was given.
+
+A student who uses ChatGPT for the first assignment may realise quickly that ChatGPT is not reliable for calculation questions, but ChatGPT can tell the student what to do to answer the question, and more often than not, the instructions are correct and reliable. The student could then go to Wolfram Alpha for the correct calculation. Below is an example of how ChatGPT can give the correct instruction but make mistakes in calculation.
+
+Entered Question:
+
+Find the eigenvalues and eigenvectors for the matrix A = <1,1,2;0,2,3;0,0,3 > .
+
+ChatGPT Response:
+
+
+
+Analysis: The instructions given by ChatGPT are correct. Indeed, the solution continues on to find the eigenvectors, and the method used is correct. However, the algebra and arithmetic are incorrect. There are three eigenvalues, but with the mistakes in finding the characteristic equation, ChatGPT only found one. On another iteration of this question, it found two. On yet another iteration, it found three. In all cases, the eigenvectors were incorrect.
+
+ChatGPT can also be used for the more theoretical questions and questions that require deduction, whereas Wolfram Alpha is only for calculations. From this, a prediction can be made that if the strengths of the two platforms were merged, most mathematical questions could be answered correctly with appropriate instruction provided and with little student effort. See the section ChatGPT-4 Commentary for important updates regarding this.
+Opportunity: Given the quality of the theoretical answers provided by ChatGPT, students could use it as a personal tutor to help them study. For example, a student struggling to find eigenvalues and eigenvectors, could use ChatGPT to outline the procedure and explain the various steps. A student could continue to ask theoretical questions until they are satisfied they understand. This kind of help would be available continuously and students can ask questions without fearing their question may be considered ‘a dumb question’.
+
+Introductory programming
+Subject Summary: The purpose of this subject is to develop programming as well as computational thinking skills in engineers. Range of problems are solved using fundamentals of Python programming language including loops, conditions, lists, dictionaries, recursion and file handling. Additionally, computational thinking skills which include problem decomposition, abstraction, pattern recognition and algorithms are used to design the solutions.
+
+Assessment Types: Five online labs comprised 10% to reinforce lecture contents and simple programming skills, two large complex projects totalled 35% to cover computational thinking and complex level of programming skills, and a final exam of 55% covering range of problems to evaluate programming fundamentals and computational thinking skills.
+
+Result: Introductory-level programming is a key strength of ChatGPT. If all assessments were online and students had access to use ChatGPT, an overall mark of 68.2% could be achieved, a comfortable pass (credit grade given).
+
+Integrity strength: While such tasks achieved a high success rate, ChatGPT did struggle with more complex tasks. Within the subject, a major project involved writing a program to read a CSV file and analysing the data to provide statistical outputs. While many attempts were made to get ChatGPT to undertake this task, the requirements for the solution were beyond its capabilities.
+
+Integrity weakness: ChatGPT did an outstanding job of providing correct output to simple coding requests and translating worded instructions into code. It provided good explanations to support the understanding of the code generated. An example of its ability to understand instruction, provide code and explain its design is presented:
+
+Entered Question:
+
+A psychology student is carrying out an experiment in which she repeatedly asks people to “think of an object, any object”. She wants to see what objects people think of under this situation. She enters each guessed object into a text file, one object per line.
+
+Help her to analyse the data by writing a function make_dictionary(filename) that reads the named file and returns a dictionary mapping from object names to occurrence counts (the number of times the particular object was guessed). For example, given a file mydata.txt containing the following:
+
+Dog, triceratops, persian cat, dog, persian cat, large white fluffy thing, persian cat
+
+the function would return a dictionary-like
+
+(‘dog': 2, ‘persian cat': 3, ‘triceratops': 1, ‘large white fluffy thing': 1)
+
+[The order of keys in a dictionary is arbitrary, so the objects might be in any order when the dictionary is printed.]
+
+ChatGPT Response:
+
+Here's one way to implement the make_dictionary function:
+
+python
+
+Copy code
+
+def make_dictionary(filename):
+
+obj_dict = ()
+
+with open(filename) as f:
+
+ for line in f:
+
+  obj = line.strip()
+
+  if obj:
+
+   obj_dict[obj] = obj_dict.get(obj, 0) + 1
+
+return obj_dict
+
+Here's how it works:
+
+We initialize an empty dictionary obj_dict to store the object names and occurrence counts.
+
+We open the file filename using a with block to ensure that the file is properly closed when we're done with it.
+
+We iterate over each line in the file using a for loop. The strip() method is used to remove any leading or trailing white space from the line.
+
+If the resulting object name is not empty (i.e. it has at least one non-space character), we update the occurrence count in obj_dict by 1. We use the get() method to retrieve the current occurrence count for the object name (if it exists) or 0 (if it doesn't exist).
+
+After processing all lines in the file, we return obj_dict.
+
+This implementation handles the case where the file is empty or contains only blank lines, since empty object names are ignored.
+
+Opportunity: ChatGPT provided a very good explanation to simple programming problems which can help students to strengthen their fundamental programming concepts. ChatGPT can act as a tutor available at all times. For large complex tasks, one method could be to use computational thinking skill of decomposing the problem into small parts to get a solution for each part from ChatGPT and combine them. However, if a student could get it to work, then they would have had the ability to complete the assessment themselves anyway. While this activity was suitable as a major project, something this complex would not be suitable for an exam situation.
+Manufacturing technology:
+Subject summary: This course introduces the knowledge and skills of modern manufacturing processes, production systems and quality management practices to turn a conceptual idea into a globally competitive the finished product. The theoretical knowledge is reinforced with practical work, demonstrations and factory visits.
+
+Assessment types: To assess the student's learning, a range of evaluation methods were employed, including written assignments, lab reports, oral conversations, and a centrally scheduled exam. The evaluation criteria were designed to ascertain the students’ proficiency in various manufacturing processes and their analytical skills. The assessments aimed to measure the students’ ability to demonstrate in-depth knowledge of diverse manufacturing techniques, analyse complex data sets, and interpret the results obtained from analytical solutions. The evaluations aimed to provide a comprehensive measure of the students’ knowledge, skills, and abilities in the field of manufacturing processes.
+
+Result: ChatGPT’s success in this subject is contingent upon the type of questions presented. Due to the combination of questions used in the tested subject, ChatGPT received a marginal failure with a score of 47%. With a different assortment of questions, ChatGPT could have passed, highlighting the significance of assessment design and construction.
+
+Integrity strength: The primary weakness was encountered when translating figures into words, which proved to be a challenging task. As a result, ChatGPT failed to provide the desired output in most cases. Additionally, table-based questions were challenging to translate into a useable input for ChatGPT to analyse. Given that numerous questions were based on figures and tables, this increased the failure rate. The subject comprised a hands-on face-to-face laboratory component, which meant that ChatGPT was unable to replace the student and perform the experiments on their behalf. The laboratory report was the basis for evaluating this task.
+
+Integrity weakness: ChatGPT can solve numerical questions that can be directly inputted (simple copy and paste) and provides clear step-by-step explanations of the solution process. Traditionally, a method of generating unique student questions was to use the student’s ID number to create distinct variables for calculation purposes. This was used to ensure no two students were solving the same equation. With ChatGPT, this uniqueness posed no major challenge to such problems as long as it had the necessary values to perform calculations. Table 2 demonstrates a question that ChatGPT can easily tackle, and another that is difficult to translate.
+
+Table 2. Example of question difficulty levels for input into ChatGPT.
+
+Display Table
+Opportunity: While ChatGPT could not generate the entire lab report, it could assist students with segments of the report. As long as they have the sufficient understanding of their experimental work (i.e. they should have already conducted the experiment, collected data, and analysed their findings) ChatGPT can assist with writing, formatting and technical aspects of their report, ultimately leading to better academic outcomes.
+
+Engineering laboratory
+Subject Summary: The focus is for students to develop and extend skills in designing and executing experimental investigations of engineering problems using small pilot-scale unit operations and analytical equipment. Students develop skills in analysis, critical thinking, communication, project management and teamwork.
+
+Assessment Types: Written proposal/report work is the major focus area and is worth 66%. Supporting oral activities is allocated 29% with the remaining 5% is used for an introductory quiz. The presentations and reports comprising both technical and reflective communication skills.
+
+Result: Due to the suggestive nature of most of the assessment tasks, no final grade estimation is provided, but indicatively it would be very difficult for a student to pass the subject using ChatGPT. In some cases, the responses (to some sections) were passable, but in general they lacked accurate and concrete examples from the actual experiments.
+
+Integrity Strength: Substantial effort by a student would be needed to use ChatGPT to complete the assessment tasks to obtain reasonable marks. The student would firstly need to feed the system significant amounts of content:
+
+Assessment instructions,
+
+Marking rubric,
+
+Transcript of H5P pre-laboratory lesson, and
+
+Notes from the pre-laboratory briefing and from the conduct of the experiment.
+
+This would be quite laborious, and it reaches a point where either:
+It becomes more efficient for a student to simply write the document themselves, or
+
+The student is simply using the system as a secretary to turn notes into prose.
+
+The word limits with the current version of ChatGPT made using it more complex. This is because for some of the assessment tasks the responses required need to be longer than what ChatGPT will generate. Therefore, the proposal and report tasks were broken up into sections and asked in turn (e.g. ‘Now, write the Methods section for the above experiment’). ChatGPT could also generate data tables for the experiment – some of which had no connection to the reality of the experiment.
+
+This subject involves several reflection tasks (in reports and the final seminar). ChatGPT was able to employ various reflective schema (when prompted) and produced texts that would probably be passed by some staff when part of a lab report – but as mentioned above length of output was problematic. The output tended to be generic. The lack of specific examples was a clear sign that the ‘author’ had not done the experiment.
+
+Integrity Weakness: The only time ChatGPT gave satisfactory responses without modifying the prompts was for the multiple-choice questions that form part of the introductory quiz that is largely formative in intention. Even here, the system got some questions wrong because they asked about information that was presented in person at the lab induction.
+
+Opportunity: If ChatGPT was taught as a tool, combined with reflective and critical thinking exercises, ChatGPT could support student learning. This could be achieved, by providing a foundation that the student could work with to help improve their own writing and/or understanding of experimentation.
+
+To put this into perspective an example of ChatGPT writing a Methods section is shown below:
+
+Entered Question:
+
+Write a method section for the above experiment. It should contain a concise description of the experimental procedures, a schematic of the apparatus, identification of the equipment and materials used, and descriptions of the sources of experiment errors and precautionary steps to minimise them (both systematic and random).
+
+ChatGPT Output:
+
+Method:
+
+Experimental Procedures:
+
+1. The packed column was set up for distillation by filling it with glass beads.
+
+2. A temperature probe was inserted at the bottom of the column to measure the temperature of the distillate.
+
+3. The distillation flask was charged with 100 mL of the 1 vol% ethanol feed.
+
+4. The flask was then heated, and the distillate was collected in 5 mL increments until a total of 30 mL was collected.
+
+5. The samples were labelled and stored for further analysis.
+
+Apparatus:
+
+1. Packed column (with glass beads).
+
+2. Temperature probe.
+
+3. Distillation flask.
+
+4. Heating mantle.
+
+5. 5 mL vials for sample collection.
+
+6. Gas chromatograph (for ethanol analysis).
+
+Materials:
+
+1. 1 vol% ethanol feed solution.
+
+Sources of Experiment Errors:
+
+1. Errors in volume measurements: To minimize this error, all volume measurements were taken using calibrated measuring cylinders and pipettes.
+
+2. Instrument errors: To minimize this error, all instruments were calibrated before the experiment.
+
+3. Operator errors: To minimize this error, the operator followed the experimental procedures carefully and paid close attention to detail.
+
+Precautionary Steps:
+
+1. All glassware and instruments were cleaned before use.
+
+2. All equipment was set up carefully to ensure that there were no leaks or other issues.
+
+3. The experiment was performed in a well-ventilated area to prevent exposure to hazardous vapours.
+
+4. Safety goggles and lab coats were worn throughout the experiment to prevent accidental exposure to hazardous substances.
+
+5. All waste materials were disposed of according to laboratory safety protocols
+
+What was generated is a good starting point but was not reflective of the setup used in the laboratory and therefore contained errors. In part this is because the prompt was rather basic. Critical thinking exercises could be used to help students through the thought process. A reflective process could help them make changes to the prompt to address the wrong assumptions made by ChatGPT, and add detail where missing. This would be an iterative process that could help a student consider holistic viewpoints towards developing an effective method for experimentation.
+
+Sustainable product engineering and design
+Subject Summary: This is a multidisciplinary subject that includes both engineers and scientists. It covers introductory level scientific and engineering design concepts including sustainable development, and product and processing line management in the chemical and food industry with an emphasis on sustainable manufacturing.
+
+Assessment Types: The largest allocation of marks is with written research and reports activities totalling 50%. These activities are supported with presentations (5%), peer evaluations based on peer feedback and team contribution (15%), quizzes (15%) and participation (15%).
+
+Result: For such a design-focused subject, and due to the suggestive nature of most of the assessment tasks, no final grade estimation is provided. Indicatively it would be very difficult for a student to pass the subject using ChatGPT due to the blend of assessment types addressing both technical and professional skills, including project-based learning tasks, team-based learning activities, reflective writing, and more.
+
+Integrity Strength: Word length of the current version of ChatGPT was a major limitation and would make it difficult for students to use. To get around this, each section of a report had to be entered and scaffolded into ChatGPT separately. While ChatGPT provides general responses on design principles which are acceptable, the level of detail is lacking and thus, overall marks would reflect this. Students would need awareness of what a successful output would be and adjust the input accordingly in order to have a chance of passing.
+
+Across most assessment components the biggest drawback was the generic response, lacking specific contextual knowledge. At times, it also made things up and provided inaccurate calculations. For improved results, ChatGPT requires substantial pre-training of information regarding the subject, experimentation and workshop apparatus used. It is questionable if the time and effort would be time better spent than undertaking the work themselves.
+
+ChatGPT struggled most in essay style questions, including reflective assessments where the students are asked to reflect on a particular class activity and the specific subject learning outcomes as well as program learning outcomes. With prompt engineering, the student could have ChatGPT reach a pass level for some of the activities.
+
+An example of a prompt that would fail:
+
+Reflect on the Sustainable Engineering Design subject – with a focus on industry site visits (in-person or virtual), guest lecturers and research into your own inspiring alumni
+
+An example of a prompt that could move a student closer to a pass:
+Reflect on the Sustainable Engineering Design subject – with a focus on industry site visits (we visited ‘Masked’ Brewery, saw process units and did site tour of plant), discuss your key learning from zero waste workshop in regards to sustainability and sustainable development goals, guest lecturers (by Professor ‘Redacted’ on P2X sustainable energy) and research into your own inspiring alumni Dr ‘Redacted’.
+
+As can be seen, the student would need a good understanding of how to engineer the prompt and have some idea of what the output should look like. However, the output was still rather generic and could not provide in-text referencing. A student would need to reflect on the weakness of the output and continue to adjust the input to get a much higher mark. Admittedly, it might be easier to build upon the ChatGPT output, than start writing from a blank page.
+Integrity Weakness: From all the assessment tasks, the multiple-choice quiz component of the online quizzes was where ChatGPT excelled in terms of specific discipline knowledge topic areas (for example, the Sustainable Development Goals).
+
+For the multiple-choice style assessments, any sufficiently general questions were answered correctly. With questions specifically related to subject content, ChatGPT’s performance dropped to 50% correct. Originally, it was believed that using a tight time limit may constrain use. However, a browser add-on has been created that automatically solves all multiple-choice questions on a given webpage on the basis of ChatGPT’s best guess for each question (Malko Citation2023). This plugin removes the benefit of imposing time constraints by removing the need for manual student input into ChatGPT.
+
+Opportunity: While the output generated was not sufficient enough to pass most assessment tasks, it could help students with enough structural support that they could build upon to enable a passable submission. Using ChatGPT as a supportive tool, rather than an outright tool for cheating, would be a more appropriate use of student time.
+
+Renewable energy and electrical power
+Subject summary: This subject focuses on building students’ knowledge and skills in renewable energy and is a final year subject for electrical power engineering students. A major project is undertaken, along with content-based assessment, and reflection on learning experiences.
+
+Assessment Types: Assessment in this subject involves quizzes/tests (30%), lab work and reporting on the outcomes (10%), individual reflection on learning experiences (25%) with follow up interview (5%), and a comprehensive renewable energy design project involving a formal report (18%), progress presentation (4.5%) and final presentation (7.5%).
+
+Result: Due to the assessment design of this subject, it would be very difficult for a student to use ChatGPT to obtain a passing grade with strong integrity observed in the lab, interview and design project tasks.
+
+Integrity Strength: For the assessment activities such as lab report, interview, e-portfolio, report and presentation, ChatGPT could only provide support to a student and not a direct output that would lead to a passable answer. For the report, the word limit of the free version of ChatGPT required the assessment to be broken up into different components. Overall, for many of the written components the output was very superficial. However, for a capable student the output provides the student with a framework that they could build upon to submit something that could pass. These tasks also rely heavily on software and simulations which cannot be directly accomplished within ChatGPT; however, guidance could be provided by ChatGPT to help students to use the software to achieve the outcomes of the assessments.
+
+For the laboratory component, ChatGPT can’t undertake the process on behalf of the student. Regarding the laboratory simulations, it can provide guidance on how to approach the simulation but can’t carry out design and implementation in the laboratory software. For the submitted assessment task, it could only be used as an aid to help a student structure or write components of the report, primarily because the output it provided was too generic.
+
+Integrity Weakness: ChatGPT’s key strength was for the quiz questions, those containing simple calculations and explanations. In fact, the explanations for many of the questions were better than what would be typically provided by a student. However, the current version of ChatGPT struggled with quiz questions requiring translation from figures. This would result in missing components of an answer leading to partial marks, as everything else would be correct. An example of a question that ChatGPT can provide both a correct answer, together with very informative supportive description is shown:
+
+Entered Question:
+
+A residential PV system is to be designed to provide 10 kW of power and be grid connected. The proposed configuration will include a DC-DC converter and single-phase inverter. The inverter output is 230 V ac, 50 Hz, with input DC voltages possible in the range of 300–400 V. A boost converter is to be used in the implementation. The panel costs are given below: EN-300M-60-PERC1.pdf $180 per panel SunPower300 - $240 per panel KD150SX-UFU - $90 per panel. For each provided datasheet: Determine the number of modules in a string, number of strings in an array, number of arrays, surface area for PV, weight, and cost. Which system configuration would you choose and why? Draw a one-line diagram of your system What other factors may you need to consider in the design and implementation of a residential PV system?
+
+Opportunity: While ChatGPT cannot complete the major assessment components for students, as identified above, it can provide guidance to a student in completing their assessments. The opportunity exists for students to utilise ChatGPT in order to learn how to develop their simulation model for example, utilise a new software tool, or write components of their reports with appropriate prompting.
+Sustainable, environmental & social impacts of technology
+Subject Summary: This subject focuses on developing engineering students’ approaches to understanding the interactions between engineering and society from a philosophical, sociological and political perspective. Case studies of new technologies and engineering projects are examined to ground the learning in students’ engineering contexts.
+
+Assessment Types: Written assessment types (worksheets, summaries, feedback & recommendations) are the core focus on this subject (92%). Two visual activities (mappings) are used in support (8%).
+
+Result: Based on an implementation that the ChatGPT output would be submitted without any editing by the student, ChatGPT would fail. If the student understood what was expected of them, they could modify the input to bring them close to a pass grade.
+
+Integrity Strength: This subject is very research and writing-based and therefore very well targeted at ChatGPT functionality. However, in this subject ChatGPT struggled. The reason for this is that the subject requires a lot of integration with references, and external material that at times ChatGPT can’t do, gets wrong or makes up. For example, even with a prompt to ‘use at least one additional reference and give a citation in APA format’ the paper cited had a title relevant to the topic but did not in fact exist, despite ChatGPT generating plausible sounding (but spurious) full reference details, including a (fake) doi address. Likewise, a prompt about summarising one section of the UNESCO Engineering for Sustainable Development report evoked a response on ‘section 3.7’ which was unrelated to the actual section 3.7 from the source which is about ‘Engineering and big data’.
+
+Integrity weakness: Getting the context correct was a common problem and the output could be improved if the student worked on the input. For example, with one assessment the rubric requires specific reference to the learning resources from that week. However, if this was written out explicitly (i.e. ‘refer to at least two of the following resources’, and the links to the different resources were copied over) the response was quite strong. The references to the learning materials were a bit superficial, but definitely good enough to pass given the tight word limits on this task.
+
+Many of the questions received a failure grade because the rubric clearly requested the integration of referencing which is, as was discussed earlier, something that ChatGPT currently is very limited at doing. However, this could probably change in future iterations if ChatGPT is trained with data from academic journals and conference papers or integrated with academic search tools like SCOPUS or Google Scholar.
+
+However, if ChatGPT was used as a tool by a student, and the student had just enough knowledge to make appropriate modifications to the output, then ChatGPT could pass. For example, if the student took the foundational aspects of the output and manually inserted real references and corrected contextual mistakes, a pass mark could be awarded. In this case, the majority of the difficult work could be completed by ChatGPT, and less demanding editing undertaken by the student.
+
+Opportunity: ChatGPT could be used as a tool to help introduce students to different ideas and perspectives. Critical thinking activities could be developed to analyse the given output to consider variables such as accuracy, bias and potential to shape public opinion. Artificial intelligence will have a big impact on society, and having students learn about its strengths and weaknesses is important.
+
+Workplace practice & communication
+Subject Summary: The subject has two components, one centred on career management and workplace skills, the other centred on teamwork solving multi-disciplinary real industry projects.
+
+Assessment Types: Online quizzes reinforces theoretical concepts from the lectures, tutorials and subject reading comprised 5%, visual evidence of completed activities total 8%, extra-curricular activities in which students engaged in career building activities outside the course structure was allocated 10%, Oral activities such as presentations and tutorial discussions comprised 29%, with a range of written tasks (reflections, job-application, research, design reports) making up the reminder 48%.
+
+Result: As a subject based with a strong communication focus, this was yet another candidate well suited for ChatGPT. There are clear assessment tasks that ChatGPT could not pass, those that it could, and those that it could provide enough guidance that students could build upon to pass with some effort. As a whole, it would be unlikely that a student could pass based solely on the use of ChatGPT.
+
+Integrity Strength: The visual tasks (e.g. visual verification of a completed e-portfolio) had the best assessment integrity. The oral components (the fact that ChatGPT could not take the place of the student) and the design component could only receive partial help (outlined in opportunities below) supported assessment integrity.
+
+Integrity Weakness: ChatGPT’s strength was observed in simple activities such as quiz questions that were designed to support and remind students of theoretical concepts. However, quiz questions that required contextual understanding of the lecture or subject reading content resulted in many wrong answers. Beyond that, for many of the other assessment tasks like providing templates for all stages of the job application process, supporting students to write a reflection, and more difficult quiz questions, ChatGPT could produce some good output if the student worked a little on providing the correct input parameters. Providing the correct parameters would be the difference between a pass or fail. As long as the student understood what was required, ChatGPT input could be manipulated to get the desired output. For example, compare the following:
+
+Original Input:
+
+Write me a job cover letter based on the following criteria: Adaptive skills (adapting skills and knowledge to various tasks) Foundation skills (oral, written, numeracy & problem-solving skills). Outline that I need to develop some skills.
+
+Modified Input:
+
+Write me a job cover letter. Outline that I have skills for the criteria Adaptive Skills (moved from India to Australia, high grades in both my undergraduate and postgraduate studies). State that I am working on areas that require further development in the criteria foundation skills (completing ENGG101 to improve my technical engineering communication skills and completing a masters in engineering management to improve my project management skills).
+
+The original input would provide an output that was very generic, while the second provided an output that did a great job of integrating and building upon the evidence plugged in as parameters. The result would be something that would receive a passing grade.
+There are a number of oral assessments in this subject. While ChatGPT cannot undertake a student presentation, it could help write a speech that a student could memorise to obtain a passing grade. If it was a Zoom based presentation the student could easily just read the presentation created by ChatGPT. Therefore, the impact on integrity was based if the assessment assessed delivery of content or student understanding.
+
+Opportunity: When it came to design-based assessments, ChatGPT could not provide an output that would be sufficient. However, the student could gain substantial support if they broke the design into its varying components, and if they applied the right supporting parameters. While the project has a core design component, for educational purposes there are compulsory components on items such as ethics, safety, sustainability, human factors, etc. With good prompts for each factor, at times a good written response could be provided, or at the very least, enough information to direct the student in order to add additional research to supplement the information provided.
+
+Let’s consider an example prompt For the project involving ‘Company’ and Precast Concrete Insulated Panels, what Australian standards should I consider? ChatGPT would provide a very good list of Australian standards with good supportive explanations. However, the onus of the students would still be to consider if: the standard is real, the standard is relevant, and to delve deeper into what they need to know specifically about the standard in relation to their design problem. This activity itself, is a valuable learning experience and would work better than the current process used.
+
+Therefore, for some components a pass is possible, dependent on the project and attributes. Most interestingly was its ability to talk and raise awareness of standards and risks that the great majority of students would have missed. Therefore, ChatGPT can be a supportive tool for design projects, but students need to review the output carefully, or they can incorporate contextual mistakes made by ChatGPT into their work.
+
+Engineering research
+Subject Summary: The focus is on the development of research skills. This includes supporting student to discover a research gap and scaffolding this to frame a research problem, developing a research design, design of data collection analysis and interpretation frameworks.
+
+Assessment Types: Online Quizzes used to reinforce theoretical concepts taught in lectures and tutorials are worth 10%. An online presentation of the students work also has a 10% allocation. A visual submission of a mind-map representing the connection of ideas is worth 2%. The remaining 78% is attributed to a range of written assessment tasks scaffolded to guide students through the research writing process.
+
+Result: Students could not use ChatGPT to pass this subject, but could use it as a supportive tool.
+
+Integrity Strength: As was observed in the technology sustainability subject, ChatGPT currently fails when it comes to referencing material. It is clear that is has not been trained with a substantial database of scholarly material. While a student would fail in the subject due to its substantial scaffolding at each level, it is evident that in its current form it would fail any basic pedagogical approach to assessing a research project. The ChatGPT low word count is another temporary major limitation, making it difficult to engage and produce output of necessary size, requiring work to be broken into small chunks.
+
+Integrity Weakness: The online quiz was the only identified weakness, but as the task was for reinforcement of knowledge, even if students used ChatGPT the same goal would be achieved. Questions based on general facts were generally answered correctly and often with excellent supplementary information. Questions that required context or understanding images were mostly wrong. Integrity would become a greater issue when ChatGPT’s word count increases, it is trained with more scholarly content and gets referencing correct.
+
+Opportunity: While the approach of asking ChatGPT to write the research report would fail, there are a number of ways students could use the technology to support them in research. For example, if students copy/pasted components of research articles and requested a summary, a rather good non-technical summary can be provided.
+
+Some examples of basic prompts to aid learning would be:
+
+- Can you rewrite the text I just submitted using English that a 10-year-old would understand?
+
+- Can you summarise the research method so that a 10-year-old could understand?
+
+With the right input parameters, ChatGPT could be a very supportive tool. To do this, students would need to train ChatGPT with substantial information. This included information on context and feeding in articles of value/relevance. Once this task is completed, ChatGPT could assist students in the generation of ideas, and structure of ideas. It could help students formulate possible research questions and also provide the student with some direction on how they could consider creating an experiment to answer the research questions. They could also write some paragraphs of text and then get ChatGPT to improve the quality of that text. Therefore, although ChatGPT can’t do the research yet, it can support students to write and think about the research if asked and used strategically.
+
+Some examples of basic prompts to aid learning would be:
+
+- Can you rewrite the text I just submitted using academic English at the university level?
+
+- Given the text I just submitted can you suggest a few possible research questions?
+
+Assessment integrity
+In the first component of this study, discussed in the previous section, the use of ChatGPT was benchmarked against individual subjects. The second component of the research study is to investigate the impact ChatGPT has on assessment implementations. In this section, an analysis is made of the impact on different assessment types by looking at each assessment across all subjects. It is important to highlight that the strengths and weaknesses are of value only at the time of writing, as ChatGPT continues to be trained and new releases are in the pipeline. More importantly, is the fact that the library of artificial intelligence tools continues to grow. With over 1300 different applications covering fifty different fields such as coding, copywriting, e-commerce, fashion and design available at the time of writing (Futurepedia Citation2023), the diversity of capable tools will only expand. In the coming years we should be prepared for the scenario that there will be a tool that could find weakness in any assessment task that is not invigilated correctly. As the technology adapts to users’ needs, the academic community will also need to adapt its assessment approaches if it wants to ensure academic integrity.
+
+It is also important to consider how likely it is that students may turn to an application like ChatGPT. If we consider the risk/reward relationship of cheating motivation (Noorbehbahani, Mohammadi, and Aminazadeh Citation2023) then if an assessment is able to be completed without invigilation we need to assume an integrity risk. This has been the reason why plagiarism tools like Turnitin have been heavily implemented at universities. For high-stakes assessments, like exams, universities have been turning to the aid of proctoring software that can provide a diverse range of monitoring solutions, but the more invasive, the greater the ethical questions become regarding implementation (Alin, Arendt, and Gurell Citation2023). However, there are generally work-arounds available to most monitoring solutions. For example, Dawson (Citation2016) highlighted some old ‘hacks’ that could still work today, such as the use of virtual machines. Moreover, if a hack is not available today, there will surely be someone that will find a workaround. Therefore, even for invigilated online exams one can assume that some students may access ChatGPT if the risk/reward is a strong enough motivator. This competition between the increasing performance of AI tools and the software tools designed to thwart their misuse can be compared to an arms race, where the ever-strengthening power of ChatGPT and other chatbots must be matched by a comparable investment in the continual development of robust plagiarism-detection tools to ensure the ongoing integrity of assessment.
+
+Online quizzes
+This category includes all assessments tasks that are currently used in an online quiz format using an e-learning platform. Nine of the ten subjects examined in this paper used an online quiz as a form of assessment. This included a variety of question formats including multiple choice, true and false, matching items, calculation and text input. ChatGPT was able to pass all quizzes for all subjects, apart from one quiz which focussed on essay responses that required visual verification of module completions. Therefore, if we exclude that one subject implementation to consider more traditional quiz questions, it is clear that online quizzes are a risk to assessment integrity. Therefore, a rethink is needed on how they are used. This applies in particular for discipline-specific topic areas.
+
+Result: ChatGPT has a clear advantage.
+
+Integrity Weakness:
+
+ChatGPT does not get all online quiz questions correct, but reliably enough to allow a student to pass. How well a student passed was determined by the focus of the question. Strong success rates were shown for questions that sought to test theoretical knowledge, and simple calculation questions (complex, multi-layered questions that allow for partial marks were not heavily used with such a quiz format). A common technique to enable integrity for calculation-based questions for online quizzes has been to randomise variables so that each student has a unique question and answer. The onus of such an approach being that in a time-restricted format, students could not share information as each question is unique. ChatGPT can easily answer such questions, at speed, and at a passing percentage. As the passing percentage will most probably only improve with further training, the value and integrity protection of using random variables is no longer fitting. One example of this rapidly changing environment is the newly developed browser add-on mentioned earlier that can use ChatGPT to answer all multiple-choice questions on a given webpage (Malko Citation2023). The integrity discussion is no longer about students getting answers from friends but getting answers from ChatGPT.
+
+Integrity Strength:
+
+In the short term, a number of assessment-design strategies have been identified to reduce the speed and success of trying to cheat using the current version of ChatGPT. The first option requires using questions that are based off figures and tables. Students need to translate the information contained within figures and tables to a format that ChatGPT can understand. This can be time consuming, and the student might not be sure if they are doing the translation correctly. If this is for a timed quiz, the complexity of translating the information for ChatGPT may be slower than answering the questions themselves. It should be noted that future releases may overcome such shortcomings, so this may be a solution with limited life. The second option requires creating questions with a specific context, for example directly from lecture notes or a subject reading that may be out of alignment from a generic situation. Questions in which ChatGPT did not know the context, by not having access to the material, were generally wrong. Students getting such questions wrong can be a pathway to flagging student use of ChatGPT.
+
+Opportunity:
+
+Online quizzes were generally used as a low-stakes assessment, often repeated throughout the semester as a method to provide regular feedback to students on their progress. Sometimes they were used as a simple reinforcement of theoretical concepts, or to provide a guarantee that the students engage with some threshold concepts at least once. In such low assessment environments, the integrity risk of ChatGPT would be low, as the motivator is content engagement. There are other methods that can be applied to provide this content engagement/feedback. For example, online quizzes could be used on subject e-learning sites to unlock future content. For example, a threshold concept quiz at the end of each week, something that is ungraded, and that students can repeat an unlimited number of times, with a passing grade used to unlock the following week’s content. With or without ChatGPT the student would gain feedback and content engagement.
+
+The data suggests that the use of online quizzes beyond such low-stakes assessments is very risky. While short-term strategies to complicate the ChatGPT data input were provided above, a workaround may well be found in future releases. With solutions available to overcome online invigilation, there is substantial integrity risk in using online quizzes and such implementations should be substituted with alternative assessment.
+
+Numerical (Assignments and exams)
+This represents the collection of assessments tasks where the answers are numerical in nature (e.g. calculation based) and are completed in a written format (that is, not online).
+
+In-person exams were tested as if they were available to be completed via ChatGPT. This was used by three subjects, over multiple implementations. The maths subject also had numerical based assignments. This category considers questions found in online quizzes as well as those that are typically more complex than those found in online quizzes, with multiple parts, and due to this added complexity may contain partial marks.
+
+Result: ChatGPT is slightly more successful, and a pathway is set for further improvement.
+
+Integrity Weakness:
+
+Across six assessments for three subjects, ChatGPT passed four (one failed only marginally). This is still a strong performance from the AI software. Many of the passable marks came from questions that closely relate to those found in online quizzes. For multi-part, or otherwise more complex questions, ChatGPT gave some good explanations, but generally made an error within the working and gave the wrong answer. Due to the complexity of the answer, however, ChatGPT would have received partial marks. This was similar with the assignment questions and echoes a recent study by Frieder et al. (Citation2023) who found that the Maths capability of ChatGPT struggled at the graduate level, being good at understanding the question but failing to provide correct solutions. Additionally, complex diagram-based numerical questions in the picture format cannot be used in the current version of ChatGPT. This is not surprising given the text-based focus of ChatGPT.
+
+The maths assessments in this category were also tested with Wolfram Alpha. Both technologies had strengths and weaknesses, but if the best of both technologies were combined, the overall grade would be higher. Students could use ChatGPT for the working and Wolfram Alpha for the correct answer. With further training and development of the chatbot, it should be expected that a merger of the strengths from both platforms will become a reality.
+
+Integrity Strength:
+
+As with online quizzes, questions with references to diagrams or tables are troublesome for ChatGPT. The findings also show that ChatGPT is weak in some advanced mathematical areas used in engineering. In the short term, this provides a solution if the in-person tests were required to be undertaken in an online format. In the long term, it would be expected that the combined strengths of ChatGPT and Wolfram Alpha would merge. Assignments in mathematics, therefore, pose a similar integrity risk as online quizzes, and should be discouraged as the main means to assess learning. To ensure integrity, the safest bet would be to continue using in-person exams, supported by multiple short assignments and online quizzes to encourage engagement with the content prior to the exam.
+
+Opportunity:
+
+Wolfram Alpha has already been seen by some as not a direct threat but rather a tool to aid learning (Necesal and Pospıšil Citation2012). That is, there is an opportunity to move beyond current punitive associations and develop new learning opportunities where AI software can be used to support student learning, rather than misrepresent it. If ChatGPT is used as a Socratic tutor (OpenAI Citation2023f), it could provide students with free and highly capable tutoring. This would open up tutor access to all, especially the disadvantaged that can’t afford a tutor now.
+
+Code submission
+Only one subject required the submission of programming code.
+
+Result: ChatGPT is a clear winner when it comes to coding assessments.
+
+Integrity Weakness:
+
+ChatGPT is generally very good at writing entry-level code and answering coding questions. At times the code may need some fine tuning, but the level of explanation of what the code does at every level can help students with this task. Therefore, for traditional introductory coding assessments, assessment integrity is at risk if not undertaken in-person. This is not straightforward, however, as students would presumably still have internet access and would require careful invigilation to ensure they weren’t discreetly accessing ChatGPT.
+
+Integrity Strength:
+
+Beyond introductory programming, weaknesses were found with more complex activities. This is similar to the results found by Jalil et al. (Citation2023) with ChatGPT being able to correctly answer unmodified student exercises, but not able to pass a software testing subject. The complex task unsuccessfully undertaken within this study required ChatGPT to open and analyse a CSV file. In the same way that translating figures and tables hindered success, adding requirements beyond ChatGPT’s direct text-entry capability provides a short-term pathway to possible questions that can support assessment integrity if an online examination is required.
+
+Opportunity:
+
+ChatGPT provides an opportunity to rethink how coding is taught. Its ability to provide code with very effective instruction allows for a change in teaching pedagogy. With ChatGPT's exceptional proficiency in code generation, the automation of coding through this tool is anticipated to become more commonplace, with programming subjects prioritising the development of computational thinking skills. Furthermore, the insightful commentary provided by ChatGPT can be used as a tool to explain the basics of coding. It can also be used as a tool to help find and fix software bugs (Sobania et al. Citation2023), or to translate from one programming language to another (Carlsmith Citation2023). This could be used as a pathway for students to learn at a more complex level by recognising failure and learning to troubleshoot issues as they arise (Nikolic et al. Citation2022), which could support students to progress more quickly to more complex programming activities.
+
+Oral
+Oral based assessments comprising presentations, interviews, pitches and quality participation in discussion were used thirteen times across five subjects.
+
+Result: Tied result, based on ChatGPT’s ability to support oral assessment.
+
+Integrity Weakness:
+
+ChatGPT cannot take the place of students in oral assessments. However, depending on the activity, a possible pass may be an outcome if ChatGPT could provide the text that a student could memorise and repeat in a presentation. The greatest threat comes from external tools. For example, Microsoft Copilot, a tool powered by ChatGPT, can generate slides and speaker notes for PowerPoint (Spataro Citation2023). At most, students would be required to tweak the presentation, and Microsoft Copilot provides all the tools to help the student undertake such tweaks.
+
+Integrity strength:
+
+Memorising text for a presentation might not be a negative outcome if the goal of the presentation was to give students practice and confidence in speaking. That is, if the rubric focussed on delivery over content, ChatGPT could be seen as a tool that can help students with structure and content. If the understanding of content was a priority, interviews retain strong integrity as an assessment tool due to the random probing from staff. While ChatGPT may help provide the student with possible questions that may be asked, it is unlikely that it could anticipate all potential questions from academic staff. However, if a student did try and prepare for such outcomes, it would be a supportive learning experience. Using participation marks to incentivise quality discussion in tutorials or workshops is another alternative identified in this study. As such conversations are unscripted and random, ChatGPT cannot be used to prepare responses.
+
+Opportunity:
+
+For some time, it has been recognised that greater support, practice and focus is needed to develop the oral communication skills of engineering students (Berjano, Sales-Nebot, and Lozano-Nieto Citation2013). The assessment integrity risks of other assessment types may encourage more oral assessment implementations (Rudolph, Tan, and Tan Citation2023). While presentations are common in engineering education assessment, the greater use of interview and marks associated with contributions to quality discussions in class can be of great benefit.
+
+Visual
+Five visual assessments were used across three subjects. There were two different types identified in the study. The first being the submission of visual documents such as a mind map or diagram. The other being visual evidence of the completion of some form of activity such as screen grabs of e-portfolio entries, or a link to a completed webpage.
+
+Result: Visual assessments have a strong academic integrity advantage.
+
+Integrity Weakness:
+
+Only one assessment was provided with a pass, and this was primarily due to the assistance that ChatGPT gave to building the template diagram. In this regard, ChatGPT was used more as a supporting tool. As such, visual assessments are a positive, but it must be noted that there are a growing number of AI software tools that are capable of producing drawings.
+
+Integrity strength:
+
+The types of evidence discovered in this study were mainly seen as a strength for assessment integrity. Currently there is no AI app that can draw a screen grab of a portfolio, build and demonstrate a personalised working website, or design a research-based mind map. However, while such assessments may seem impervious against AI software, there are other means available that could enable student cheating. This could be manually doctoring or modifying existing images, portfolios or websites.
+
+Opportunity:
+
+While the visual skills of AI tools remain weak, visual assessment tasks tailored to particular contexts or topics remain an authentic assessment strategy.
+
+Written (Experimentation-based)
+Four subjects contained a written activity associated with experimentation or laboratory work. All experimental work was assessed via a written component.
+
+Result: Tied outcome. ChatGPT cannot undertake laboratory work. However, if a student undertook the practical work and was able to collect data and gain some understanding of the experience, ChatGPT can provide students support in writing up their lab work.
+
+Integrity Weakness:
+
+ChatGPT cannot take the place of the student in experimental work. However, all subjects included a written assessment via a proposal or report. ChatGPT could pass some components of a report such as the introduction, method or reflection, but did need to be well guided by the input parameters to go beyond a response that was very generic. In doing so a good written response could be provided, or at the very least, enough information to direct the student towards a structure that they could adapt to make it passable.
+
+Integrity Strength:
+
+Experimental/laboratory work is a strength from an academic integrity perspective. If implemented correctly, it ensures students do the work, and understand the work. If ChatGPT is used as a supportive tool, it could enhance learning. While traditional hands-on work could be associated with strong academic integrity, simulated/remote options if designed to demonstrate ‘doing’ or knowledge gained by activity or experience, can also be favourable. However, while the focus is on AI integrity, there are other weaknesses associated with traditional delivery. This can include team experimentation in which a student passively tags along, or students copying and paraphrasing other students’ work. This is an existing challenge with team experimentation assessments, independent of chatbot technology.
+
+Opportunity:
+
+The fact that ChatGPT can’t replace the student in undertaking experimental work, reignites the importance of experimental work in engineering education. Experimental/laboratory work has been the backbone of engineering education since the beginning, but its importance has fluctuated over time (Feisel and Rosa Citation2005). The rise of ChatGPT is an important opportunity to reflect on the type and volume of experimental work conducted across the curriculum. While all the subjects in this study used a written assessment component, the contribution from ChatGPT was more applicable in a supportive role. The question is, why are so many assessments report focussed, especially given how Nikolic et al. (Citation2022) found that academics see laboratory report writing as a low-ranking learning objective. There are over twelve different assessments types used within experimental and laboratory work (Nikolic et al. Citation2021), including non-written options such as presentation, demonstrations, observations and interviews that could neutralise ChatGPT and therefore retain integrity. If the type of assessments in the laboratory changed, and the weighting of assessments associated with experimentation was increased, this could then create a counterbalance of other assessment tasks with greater integrity risk from AI applications. Associating assessment from experimental work with a technical fail grade if the component is not passed, could be a valid safeguard of student learning.
+
+Written (Project-based)
+Four subjects contained a written assessment activity associated with project work. This included reports, engagement plans, scoping requirements, critical reviews and solutions. The success ChatGPT had was dependent on the requirements of the assessment task.
+
+Result: Written, project-based assessments were more successful. ChatGPT, could provide help with components, but did not provide enough advantage overall.
+
+Integrity Weakness:
+
+ChatGPT could provide information representing a borderline pass if it was prompted with the right information for some of the report options. It can provide some good information on the topic area, but as mentioned previously citations and references are limiting factors. This is something that will probably be improved in future releases with better integration with academic sources. Even now, if the information provided by ChatGPT was manually improved upon by the student, strong outcomes could be produced.
+
+Integrity Strength:
+
+Knowing how to train ChatGPT through prompt engineering to obtain a passable answer can be difficult. The time and skills required to tailor the prompt could instead be used on completing the task itself, creating some imbalance in the risk/reward ratio of using ChatGPT. However, in the hands of a ghost-writer trained in such a task (that is, contract-cheating), it could be valuable and lead to a strong illicit business model. At the moment, without suitable training, the responses are very generic and are especially limited if references are required. With a strong rubric and clear expectations, project-based assessment remains a strength.
+
+Opportunity:
+
+ChatGPT can help students with projects. It can help them with idea generation, information, structure, summaries and point them in the right direction for further investigation. For example, it can point them in the right direction to standards, ethical considerations, and workplace health and safety risks associated with their project. Project-based work could be a very suitable starting point to introduce students to how AI technology can be used as a tool to develop and flesh out solutions. As outlined by Lee et al. (Citation2016), project-based learning has many valuable benefits, but providing direction and scaffolding is very difficult and impacts motivation and success. Furthermore, Valentine, Belski, and Hamilton (Citation2022) found that computer-based approaches to idea generation do not impact students’ self-efficacy compared to traditional approaches, and can be more appealing to students. We hypothesise that integrating AI technology into teaching approaches in this area could bring value.
+
+Written (Reflective & critical thinking-based)
+Five subjects tested ChatGPT against written assessment tasks that focused on reflective and critical thinking.
+
+Result: ChatGPT was successful. For most assessments, a passable effort was possible with the correct input/training, and especially if the student applied just a little effort to build upon the generated response.
+
+Integrity Weakness:
+
+If a student knew what the output should look like, they could use ChatGPT to pass. Therefore, if the correct input/training is provided, ChatGPT could provide a passable output. Depending on the rubric it was important to be specific, such as ‘reflect using the STAR framework’. Depending on the activity, ChatGPT could only give generic answers, but written in a format that a student with some understanding of expectations could modify and build upon.
+
+Integrity strength:
+
+With a basic prompt the output would be very generic. When scaffolding (e.g. a particular context or engagement with some external factors) was required, ChatGPT was not very useful. For other assessments, without the correct input/training provided to ChatGPT, most if not all assessments would have failed. This showcases that a student would need to have a good understanding of the expectations, in order to either modify the output or know what input is required.
+
+Opportunity:
+
+ChatGPT could be used as a scaffolding activity to help students think about the structure of reflective and critical thinking-based writing. For a student with no place to start, a beginning could be welcome. The danger being that in giving a starting point, ChatGPT arguably hinders the creativity and deep reflection process required for such writing.
+
+Written (Research-based)
+Three subjects tested ChatGPT against assessments focused on research-based writing. Synthesising the discussions so far, it is easy to predict that the outcome was that ChatGPT struggled to pass any of the assessment tasks. The key drawbacks are its inability to reference, its tendency to make up references, word limits with the free version, and its apparent lack of training with scholarly articles used in academia. However, we should expect that these limitations will close in future releases, if not with ChatGPT then certainly with some other AI package.
+
+Result: ChatGPT failed when it came to research-based writing assessments.
+
+Integrity Weakness:
+
+If the research required in the assessment task was primarily a fact-finding mission, ChatGPT mostly did a great job. The limitation being references, but if the student manged to add some manually, arguably an easy task, strong marks could be achieved. For any written submissions, if students are required to provide some references published within the last 12 months, this may help with the integrity of the task as current version ChatGPT will struggle with references within this timeframe as the corpus it was trained on pre-dates 2022.
+
+Integrity Strength:
+
+At the time of writing, assessments that are research-based and supported with required referencing have high integrity. ChatGPT struggles to engage with scholarly articles and tends to falsify information. If components of research are scaffolded through various layers of activity (as found in the subjects examined in this research), the difficulty for ChatGPT to produce something valuable increases.
+
+Opportunity:
+
+Given that ChatGPT is a low risk for research-based writing, the authors identified several ways that the technology could be used as a tool. The suggestions provided are a low integrity risk but can substantially improve and help students scaffold their research skills. Some of the opportunities include:
+
+Developing understanding: Especially for early-year undergraduates, research papers can be very complex and difficult for students to understand. Students can input sections of a research paper into ChatGPT and get a simplified summary that can aid their understanding.
+
+Idea generation and structure: If the student can train ChatGPT with some of their initial thoughts, and research articles of relevance, then an output can be provided that supports the generation of ideas and structure that could be used for presenting their work.
+
+Abstract: As mentioned above, ChatGPT is suitable for summary related work such as explaining complex ideas to a non-engineering audience. If the students work can fit within the word limits, it could also be capable of writing an abstract.
+
+Research questions & method: If the correct training is provided, ChatGPT can present some suitable options or at least point students in the right direction for both research questions and a methodology to conduct an experiment to answer those research questions. The output is based on the input but provides a case of how teaching students to use ChatGPT can be of some value.
+
+Writing Quality: For students that struggle with formulating ideas and putting them into words, ChatGPT can be very useful. Students can write paragraphs of text and then have ChatGPT provide an edit. In part, this is not much different from a student using a professional editor.
+
+Recommendations for future research & practice:
+In this paper, we have benchmarked the current performance of ChatGPT against a range of engineering education assessments. Although we have used assessments from a range of subjects, this coverage has not been exhaustive. There may be opportunities to fill in the gaps, as it were, by considering additional subjects covering the full extent of the engineering curriculum and different disciplinary specialisations. For example, most of the subjects considered in this study were at the undergraduate level, and so one potentially fruitful line of enquiry would be to evaluate postgraduate assessments in engineering from areas like management or professional practice. Certainly, given the nascent power of ChatGPT to respond effectively to assessment prompts, it would be remiss of engineering educators to not understand its potential and use the insights generated to improve the authenticity and validity of assessment practices.
+
+We have also discussed various opportunities to incorporate ChatGPT into teaching practices and conjectured how this might support student learning. Given the novelty of ChatGPT, these remain mere conjectures, meaning that there is much scope to implement ChatGPT and evaluate its effect on student learning.
+
+While the focus of this study is on a worst-case scenario in the event of improper use of ChatGPT by students, this may not actually be the case. We know some fraction of students find a way to cheat, regardless of the assessment mode (Ellis et al. Citation2020; Alin, Arendt, and Gurell Citation2023; Noorbehbahani, Mohammadi, and Aminazadeh Citation2022), so we need to find ways to change behaviour. Through greater integration of ethics into the engineering curriculum, changes may be possible (Gwynne-Evans, Chetty, and Junaid Citation2021; Frigo et al. Citation2021). This opens an opportunity for research to tackle the ethical implications of integrating ChatGPT into the classroom.
+
+ChatGPT-4 commentary
+As outlined earlier, just days before this article was to be submitted, GTP-4 was released to the public. According to OpenAI (Citation2023f), GPT-4 is claimed to substantially increase its performance, especially in the areas of maths and physics. Early studies backup such claims (Bubeck et al. Citation2023). As a result, limited retesting was conducted on the Physics exam. GPT-4 worked a little bit better on some of the questions, but on other questions, GPT-3 produced more accurate results. As a consequence, GPT-4 only saw a 2% overall exam improvement. Therefore, at this stage, we do not expect major differences across the other similar assessments. However, more concerning was the recent announcement that a Wolfram Alpha plugin is being made available for GPT-4 (Wolfram Citation2023). This is a game changer for the numerical components of engineering assessments. This will enable both correct explanations, together with correct calculations. This plugin warrants future research.
+
+One of the weaknesses found for ChatGPT in the study was interpreting questions with tables, figures, or diagrams. Information provided by OpenAI (Citation2023f) suggests this new version can accept a prompt combining text and images. An example is provided by OpenAI which shows that ChatGPT can recognise in an image that the wrong connector is plugged into a smartphone. We were not able to access GPT-4 with imaging to test, but this highlights the cautions recurring throughout the discussion that a solution to such a limitation would eventually be found.
+
+The ability to remain up to date remains an issue with GPT-4. It generally lacks knowledge of events that have occurred after the vast majority of its data cuts off (September 2021). This still provides an opportunity for assessments to work within the bounds of more recent events.
+
+A major limitation found in the study was one of word count. Our experience was that the limit was at about 500 words. The maximum length of the text that ChatGPT can generate depends on various factors, such as the specific implementation of the model being used, the available computational resources, and the complexity of the language used in the input (OpenAI Citation2023a). The low word count experienced, made working with some of the written assessment tasks tedious. According to OpenAI (Citation2023g), GPT-3 had up to a 3,000-word limit, that has now been increased to 25,000 words. A larger word count will allow for easy importing and analysis of large articles and publications, overcoming some of the limitations found in the study.
+
+For coding, it appears GPT-4 continues to excel. Examples have been found on Twitter that demonstrate using GPT-4 to create simple games from words and using basic sketches to build a website. This reinforces the commentary in the discussion in that it is not suitable to solely focus on keeping up in this arms race. We need to adapt and change the way we do things to get ahead. We also need to understand that using AI is going to be an important professional skill that will be integrated into daily work life (Spataro Citation2023). If we only try to just keep up, we will be wasting our time. We need to get ahead.
+
+Conclusion
+In this study, nine authors from seven Australian universities benchmarked their assessments against ChatGPT to develop an understanding of strengths and weaknesses across assessments used in engineering education. Analysis was undertaken both subject-by-subject and by assessment type. Strengths, weaknesses and opportunities presented by ChatGPT were discussed.
+
+In a subject-by-subject analysis, ChatGPT passed three, failed five, and two subjects were too close to call. When it came to assessment types, ChatGPT passed four, failed three, and two types were tied. Therefore, the discussion becomes more on the types of assessments used in a subject, rather than if ChatGPT is better at one subject area or another. From this, the following recommendations are presented:
+
+- Online quizzes or exams with a weighting that favours a risk/reward ratio towards cheating should be stopped. It is clear that ChatGPT can pass most quizzes. Supporting web browser extensions can automate this process. Short-term workarounds have been identified in this study to make it difficult for students to use ChatGPT in such a format, but it is highly likely that updates will overcome such strategies.
+
+- Short-term solutions include heavily using figures and tables that are hard for students to translate into textual input, asking questions with a particular context rather than generic expectations, interacting with external items such as evidence items like e-portfolios and drawings, and including external files that need analysis (such as a CSV file used in a coding exercise).
+
+- Oral presentation assessments remain a strong strategy, in that ChatGPT can’t participate on behalf of a student, and so oral tasks should play a larger role in assessment. However, ChatGPT can create scripted text that students can memorise, so the structure of the assessment should be flexible so there is some uncertainty about what direction the ensuing discussion and questions may take. Consideration is needed on the objective. If it is delivery, then presentation formats work. If it is understanding, then interview formats have higher integrity.
+
+- The continued use of in-person exams with invigilation is recommended, especially when the risk/reward for cheating is high. However, it must be acknowledged that students still find ways to cheat with this approach, and it is not fool proof.
+
+- ChatGPT cannot create visual elements such as mind maps (as per the context used in this study), CAD drawings and the like. However, we need to be mindful that other AI applications will build upon such features.
+
+- At the time of writing, the mathematical capabilities of ChatGPT are limited (at best, only suitable for the maths-styled engineering questions given in online quizzes), but it has been identified that if its capability could be merged with that of tools like Wolfram Alpha, that would be a game changer. This is something recently announced (Wolfram Citation2023).
+
+- Engineering experimentation/laboratory work is a safe integrity bet. Like oral presentations, AI technology cannot take the place of a student. This can encourage a shift to more experimental and laboratory learning. However, it is important not to be complacent, just because ChatGPT has limited reach, a passive student could remain hidden in team activities and plagiarise work. The integrity risk is currently in the type of assessment used in laboratory work, with reports being particularly weak. The diversity of laboratory assessment methods outlined in Nikolic et al. (Citation2021) should be considered.
+
+- ChatGPT struggled with project-based, reflective, critical thinking and research related writing-based assessments. However, with the correct training and question input, in many cases, passable output can be generated. Implicit in this is the notion that a student needs to have a good understanding of how to use ChatGPT and what the output should look like to be successful. Such a student would most probably be able to undertake the work directly. However, the risk becomes associated with Ghost Writers. Once the technique is mastered they can produce both quantity and quality, allowing prices to come down and shift the risk/reward balance for students.
+
+- At the moment referencing is a major weakness for ChatGPT. However, GPT-1 released in 2018 was trained with 117 million parameters, GPT-2 released in 2019 with 1.5 billion parameters, while GPT-3 released in 2020 with 175 billion parameters. With this exponential growth in complexity, it is only time before this weakness disappears.
+
+As engineers we need to embrace tools that make us work smarter and more efficiently. Just as we scaffolded the calculator as a tool in education, so we must with AI technology. This is simply a continuation of the monumental adaption of technology in education (Jackson et al. Citation2018). To hide it, we remove advantages to move forward competitively. We just need to understand how to do so ethically and safely. Companies like Microsoft are on the verge of taking ChatGPT AI technology mainstream via Bing (search engine) and Copilot (an AI integration with Office 360) (Spataro Citation2023). As all students now need to understand online collaboration through platforms like MS Teams, Zoom and Webex, students will soon need to know AI as well. Momentum is already afoot in the education space, as an example an AI tutor is being introduced to support learning through the Khan Academy (KhanLabs Citation2023). As a result, we have determined some initial opportunities to integrate ChatGPT into engineering education where academic integrity risk was lowest. Suggestions include:
+- Using online quizzes with zero assessment marks to confirm threshold concepts and unlock future content.
+
+- Consider flipped assessments and the like, where the activity is based on critical thinking activities that reflect and analyse ChatGPT output.
+
+- Consider assessments that require creativity and go beyond writing. Such an example is illustrated in Nikolic and Raad (Citation2021).
+
+- Developing assessments where ChatGPT is used to undertake calculations, but the solution comes from the creativity of the student.
+
+- Using ChatGPT as an education tool to teach introductory programming, and moving earlier to more complex tasks that go beyond easily developed solutions. Consider teaching how ChatGPT can be used to easily move from one programming language to the next.
+
+- The greater use of interview-based assessment where the teaching staff probe students’ understanding. This limits the ability of students to memorise responses.
+
+- Encourage greater use of project-based and/or experimental/laboratory learning experiences where solutions are unique and require experience to document and explain.
+
+- For projects and for research, ChatGPT can be an invaluable tool. While difficult to provide students a solution, it is powerful in providing them with editing support, direction, scaffolding and ideas that will give them momentum to complete the required activities. We need to learn how to embrace it.
+
+This study has provided a baseline indication of ChatGPT performance on assessment that the academic engineering education community can benchmark with, and provided advice based on our experience on how to move forward. As a community we need to understand that the technology is improving rapidly, and we need to be prepared for a very different learning environment in the next twelve to twenty-four months.

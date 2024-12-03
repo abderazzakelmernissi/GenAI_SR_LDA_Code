@@ -1,0 +1,690 @@
+A Structural equation modeling analysis of generative AI chatbots adoption among students and educators in higher education
+
+Abstract
+In an era where artificial intelligence (AI) is reshaping educational paradigms, this study explores AI-based chatbot adoption in higher education among students and educators. Employing a Structural Equation Modeling (SEM) approach, the research focuses on developing and validating a comprehensive model to understand the multifaceted factors impacting the acceptance and use of these chatbots. The methodology integrates an extensive literature review, construction of a theoretical model, administration of a detailed questionnaire to a representative sample from the higher education sector, coupled with advanced SEM techniques for data analysis and interpretation. The SEM analysis validates the model's robustness and highlights the relationships between several key factors affecting users' perspectives and chatbots adoption. Results reveal a predominantly positive perception towards AI-chatbots among both students and educators, underscoring the potential to substantially enrich their educational journey. However, it also uncovers critical concerns pertaining to trust, privacy, response bias, and information accuracy. Moreover, the study offers valuable insights into how moderators such as technological proficiency, user roles, and gender influence the adoption model relationships. This emphasizes the need for customizing AI-chatbots deployment to meet the diverse needs of users effectively. Contributing a robust framework for understanding users' perceptions towards AI-chatbots and their adoption patterns, this study offers actionable insights for educational leaders, policymakers, and technology developers. It also lays the groundwork for future research, including longitudinal studies to evaluate the long-term impact of these technologies, investigations into their effect on learning outcomes, and explorations of the ethical and privacy considerations involved.
+
+Keywords
+Generative AI Chatbots Higher education Perception Adoption Learning experience
+1. Introduction
+The twenty-first century is a transformative era marked by rapid and profound technological advancements. Among the most compelling and influential of these innovations are Artificial Intelligence (AI)-based chatbots, which are redefining new ways of interaction with technology. These intelligent conversational agents powered by AI have been essential in driving change and improving efficiency across a wide range of sectors. To mention a few examples, in healthcare, chatbots like Babylon Health, which was recently acquired by eMed Healthcare (Adams, 2023), were among the first to revolutionize patient care by providing preliminary diagnoses and scheduling appointments (Le Nguyen & Do, 2019). In retail, AI-chatbots like Sephora's assistant are enhancing customer experience by offering personalized product recommendations and handling customer inquiries in real time (Lee, 2020). Similarly, in the financial sector, chatbots like Erica from Bank of America aid users with financial management and transactions (Mori & Du, 2023). Within these diverse applications, the domain of higher education emerges as a particularly impactful and promising field for the integration of AI-based chatbots. These intelligent systems can interact with users in natural language, answer queries, provide feedback, and even guide learners through complex concepts and procedures, offering transformative potential for teaching and learning processes (Gill et al., 2024; Okonkwo & Ade-Ibijola, 2021).
+A salient example of this technology is OpenAI's Generative Pretrained Transformer (GPT), an AI-driven chatbot that has gained considerable attention for its impressive language generation capabilities (Ray, 2023). GPT can produce human-like text, answer queries, translate languages, write essays, and even create poetry (Fitria, 2023). Its ability to understand context and generate meaningful and coherent responses has opened up a plethora of applications in customer service or virtual assistance, and also in creative fields such as education. The emergence of AI-based chatbots in the higher education environment offers a promising avenue for enhancing both teaching and learning experiences. These smart conversational agents can facilitate continuous learning support, provide instant responses to student queries, offer personalized learning pathways, and alleviate administrative burden by automating routine tasks (Saaida, 2023). These potential benefits align well with the evolving demands of today's education sector which is characterized by increasing student diversity, growing emphasis on personalized learning, and the expanding role of online and blended learning formats (Bhutoria, 2022; Kamalov et al., 2023).
+Several educational institutions worldwide are already leveraging the power of AI-based chatbots. For instance, Georgia Tech's "Jill Watson" provides a compelling illustration of how an AI-based chatbot can act as a teaching assistant, seamlessly responding to students' queries on an online platform (Mello et al., 2023). “Beacon”, developed at the University of Staffordshire, is an AI-powered chatbot designed to enhance the university experience for students. It offers personalized assistance with scheduling, facilitates communication with teachers, and provides information on campus facilities. Similarly, Deakin University in Australia employs an AI-based chatbot called "Deakin Genie," which helps students manage their studies by answering questions, reminding them of deadlines, and even guiding them to resources and services (Monserrat et al., 2022). Such use cases exemplify how AI-based chatbots can revolutionize several facets of higher education, ranging from student learning to administrative tasks. They have the potential to foster learning experiences that are more personalized and engaging, streamline administrative processes, and provide timely support and feedback for students and educators.
+The integration of AI-based chatbots into the higher education sector presents several promising opportunities for both students and institutions. Firstly, they offer continuous availability and instant responsiveness, allowing students to access support and information at any time regardless of geographical location (Kamalov et al., 2023). This accessibility ensures that students receive timely assistance and eliminates delays often associated with traditional support systems. Secondly, AI-chatbots facilitate individualized learning experiences by customizing content and recommendations according to each student's needs. Through the analysis of students' data, chatbots can provide adaptive learning pathways, customized study materials, and targeted feedback, thereby fostering engagement and addressing specific learning gaps (Chang et al., 2023). Thirdly, AI-chatbots streamline administrative processes which contributes to freeing up valuable time and resources for educators and administrators. Routine tasks such as answering common inquiries, managing course registrations, or providing administrative information can be automated, enabling staff to concentrate on value-added activities like curriculum design, student mentoring, and academic support (Ahmad et al., 2022). Lastly, AI-chatbots contribute to the enhancement of student engagement and interaction. Through natural language processing (NLP) and conversational interfaces, chatbots can engage students in interactive conversations, simulate real-world scenarios, and facilitate discussions, promoting active learning and participation (Belda-Medina & Calvo-Ferrer, 2022).
+Despite the transformative potential of AI-based chatbots in higher education, their integration and acceptance are not without challenges (Hwang & Chang, 2023). Various factors influence educators' and students' perceptions and attitudes towards these technologies. Key concerns include trust in AI technology, the perceived usefulness and ease of use of AI-chatbots, data privacy issues, and the fear of dehumanization of education, among others (Chan & Hu, 2023; Robayo-Pinzon et al., 2023). Thus, understanding the dynamics that shape perceptions towards AI-based chatbots in higher education and addressing the associated concerns are of paramount importance. This has made the adoption and integration of such technologies in the higher education landscape a dynamic area of research, seeking to understand the factors that shape users' perceptions and the consequent impact on their utilization of generative AI tools.
+Therefore, this paper aims to explore the complex dynamics shaping the perceptions of educators and students towards AI-based chatbots and their subsequent impact on the adoption of these technologies in higher education settings. The primary objectives of this study are.
+1.
+Identify the key variables and factors that shape users' perceptions and influence the acceptance and use of AI-based chatbots among educators and students in higher education.
+2.
+Propose a comprehensive model to measure these variables, explain the relationships among them, and understand to what extent do they impact the adoption of AI-chatbots, users satisfaction and learning outcomes.
+3.
+Clarify the moderating role of the individual differences among users on the relationships among these variables.
+4.
+Provide actionable insights to enhance the implementation and user acceptance of AI-chatbots in educational contexts.
+Based on a Partial Least Square Structural Equation Modeling (PLS-SEM) approach, this study intends to develop and validate a model to elucidate the complex relationships between multiple variables influencing the acceptance and use of AI-chatbots in higher education. This contributes to uncover the multifaceted interdependencies among perception factors, trust and privacy factors, interaction and system factors, social and contextual factors, and the eventual outcome variables. Exploring these factors involves understanding diverse perspectives from students and educators, with an extension of the analysis to encompass diverse fields of study. In addition to presenting technological advancements, the integration of AI-based chatbots intersects with various educational theories and pedagogical practices. This study provides insights into how AI-chatbots can enhance and transform educational experiences, drawing on principles from constructivist learning theory, connectivism, self-determination theory (SDT), and cognitive load theory. To that end, this research design involves a carefully constructed questionnaire administered to a diverse group of respondents within the higher education sector. The study encompasses both students and educators, with the goal of capturing distinct perspectives and individual needs associated with the use of generative AI in academic contexts. Furthermore, the research aims to analyze differences in perception and adoption among various fields of study, such as engineering, medical studies, business studies, among others. The outcomes of this study contribute to the rapidly growing knowledge base in this field, and provide actionable insights for stakeholders in higher education to optimize the utilization of these innovative technologies.
+The remainder of this paper is structured as follows: Section 2 presents a comprehensive review of the related literature. Section 3 discusses the different stages of the research methodology employed to achieve the study's objectives. Section 4 thoroughly outlines the foundational framework of factors, variables and indicators that underpin this research. The preliminary model is introduced in Section 5, while Section 6 focuses on the estimation of the model, establishing its reliability and validity, testing the hypotheses, and discussing the implications of the findings. Finally, Section 7 provides concluding remarks and outlines avenues for future research exploration.
+2. Related literature review
+2.1. Emerging research streams in this field
+The integration of generative AI tools has catalyzed a wave of innovation within the higher education domain. These advancements have introduced fresh methodologies aimed at enhancing student engagement, providing support, and enhancing overall learning experiences. An extensive literature review identified numerous research streams that have emerged in this dynamic and rapidly growing field.
+Firstly, the impact on teaching and learning is a prominent research stream that explores how generative AI and chatbots influence teaching methods and student learning experiences. In this context, Gill et al. (2024) discussed the revolutionary impact of ChatGPT on contemporary education, emphasizing AI-chatbots' potential to revolutionize teaching methods. Similarly, Wang, Lund, et al. (2023) explored the potential advantages, such as individualized learning experiences and adaptive testing, as well as the associated concerns including privacy issues and cultural differences. They highlighted the role of AI in enhancing learning efficiency and supporting customization in education for international students.
+Secondly, another research stream is devoted to educational chatbots and language processing. It focuses on the development of AI-chatbots in educational contexts and their NLP capabilities. As a matter of fact, Iskandar et al. (2023) showcased the implementation of NLP and machine learning in chatbots for new student admission. They utilized Google Dialogflow, a comprehensive platform for developing chatbots and virtual agents, and achieved a chatbot-based communication medium with favorable usability and an 80% accuracy rate in automatic correction tests for user text. Similarly, Chand and Sharma (2023) discussed the potential of using chatbots with NLP capabilities to support learners when individual teacher attention is limited.
+Furthermore, another line of research highlighted how AI-based chatbots enhance the assessment and feedback processes in higher education. Smolansky et al. (2023) conducted a survey, involving 36 educators and 389 students from two distinct universities, to explore the perspectives of educators and students regarding the impact of generative AI tools, like ChatGPT, on assessment methods in higher education. Naidu and Sevnarayan (2023) explored the increasing impact of ChatGPT on online assessment in remote education, underlining the importance of ethical considerations and continued research in this domain. Additionally, the convergence of learning analytics is an important research stream, as exemplified by Sharef et al. (2021). In this domain, researchers explore the use of AI-driven systems to collect and analyze data, tailoring learning experiences to meet the unique needs of each student. Such efforts lead to adaptive educational content delivery and timely interventions and contribute to revolutionizing the teaching and learning processes. Many other studies contributed to this stream such as Bao et al. (2021) who advocated for open-domain chatbots developed through curriculum learning, further enhancing personalized learning pathways.
+Another crucial research stream addressed ethical aspects and challenges posed by generative AI in higher education. To mention a few, Dalalah and Dalalah (2023) discussed the challenges of false positive and false negative detection in generative AI tools like ChatGPT, highlighting that the likelihood of detecting AI-generated text is lower in article abstracts compared to literature sections, and emphasizing the critical need for ethics and responsibility in the use of these models. Khurma et al. (2023) critically examined ChatGPT's impact on UAE education, emphasizing equity and governance concerns, providing insights into its benefits and drawbacks, and offering guidance for its ethical and safe use.
+Another rich line of research, that is tightly connected to the aim of this study, evolved around users’ perspectives and perceptions. For instance, Chan and Hu (2023) highlighted the crucial role of student perspectives in shaping the use of generative AI and emphasized the importance of involving end-users in the development and implementation of AI tools in education. Guo et al. (2023) provided a comprehensive analysis by considering both educator and student perspectives, providing valuable insights into how AI affects teaching and learning and offering a holistic understanding of its influence on educational experiences.
+Moreover, subject specific applications received notable attention by researchers in this field. For example, Currie and Barry (2023) explored the impact of ChatGPT on nuclear medicine education. Becker, Denny, et al. (2023) discussed the educational opportunities and challenges arising from AI-driven code generation tools in introductory programming, emphasizing the need for prompt and coordinated action within the computing education community to shape these developments effectively. Pavlik (2023) explored the transformative potential of generative AI, focusing on ChatGPT's capabilities and limitations and its implications for journalism and media education.
+Many other research streams emerged in this domain such as research on transfer learning (Syed et al., 2021), usability and user experience within educational chatbots (Lim et al., 2021; Plantak Vukovac et al., 2021), mental health support and wellbeing in higher education (Dhanasekar et al., 2021), building trust and engagement (Muñoz et al., 2023), enhancing administrative processes in higher education (Aloqayli & Abdelhafez, 2023). Interested readers are referred to the works of Bahroun et al. (2023), Montenegro-Rueda et al. (2023), Pradana et al. (2023), Vargas-Murillo et al. (2023), and İpek et al. (2023) for more details pertaining to the various research paths in this field.
+2.2. Educational theories and AI-chatbots integration
+The integration of AI-chatbots in higher education intersects with several established educational theories, offering new perspectives on their potential impact and application (Jain et al., 2024). Understanding these intersections is crucial for developing a comprehensive framework for their adoption and utilization in educational settings. As noted by Chen et al. (2020), while AI in Education (AIEd) scholars have explored a variety of perspectives and issues, there has been limited focus on educational theories, with constructivism being the primary theory mentioned in existing studies. The authors recommended that AIEd researchers place greater emphasis on integrating educational theories with AI technologies.
+Firstly, constructivist learning theory emphasizes the importance of active, student-centered learning where learners construct knowledge through meaningful interactions (Tafrova-Grigorova, 2016). AI-chatbots can facilitate this process by providing personalized and interactive learning experiences. For instance, chatbots can engage students in dialogue, offer instant feedback, and adapt to individual learning needs, thus promoting a more constructivist approach to education (Kim & Adlof, 2024). Secondly, connectivism, a theory proposed by Siemens (2005), highlights the role of technology and networked connections in the learning process. AI-chatbots serve as nodes within a student's learning network, offering continuous access to information, resources, and support. This aligns with the connectivist perspective that knowledge is distributed across a network of connections, and learning consists of the ability to construct and traverse these networks (Jain et al., 2024). Thirdly, SDT, developed by Deci & Ryan (1985), focuses on the role of autonomy, competence and relatedness in enhancing intrinsic motivation and engagement (Xia et al., 2022). AI-chatbots can support these components by offering personalized assistance, fostering a sense of competence through timely feedback, and enhancing relatedness by providing continuous support and interaction. Studies have shown that technologies that support these psychological needs can significantly enhance learning outcomes (Xia et al., 2023). Finally, cognitive load theory addresses the importance of managing cognitive load to optimize learning (Van Merrienboer & Sweller, 2005). AI-chatbots can reduce extraneous cognitive load by handling routine inquiries and providing targeted support, allowing students to focus on more complex learning tasks (Schmidhuber et al., 2021).
+2.3. Adoption of AI-driven chatbots in education and role of users’ perspectives
+The integration of AI-based chatbots in the higher education sector has attracted considerable attention in recent years. Universities worldwide are exploring the potential of these conversational agents to transform various aspects of the educational environment (Bahroun et al., 2023). AI-based chatbots offer the capability to interact with students in real-time, provide personalized support, streamline administrative processes, and enhance the overall learning experience (Antony & Ramnath, 2023). They have been deployed in diverse ways and commonly integrated into learning management systems, educational websites, and mobile applications to assist students throughout their academic journey (Adiguzel et al., 2023). Chatbots can handle routine administrative tasks, answer frequently asked questions, provide course recommendations, offer study resources, and facilitate student engagement (Ilieva et al., 2023; Kurni et al., 2023). These virtual assistants act as continuous companions and ensure prompt access to information and guidance, thus improving the overall efficiency and convenience of educational services. Furthermore, AI-chatbots enable customized learning experiences based on the specific needs of individual students. Through the use of advanced machine learning algorithms, these chatbots can analyze student data, track progress, and provide targeted recommendations for academic support or interventions (Bhutoria, 2022; Tapalova & Zhiyenbayeva, 2022). They can adapt to different learning styles, offer interactive quizzes or simulations, and deliver personalized feedback to promote student engagement and comprehension. The dynamic and interactive nature of AI-chatbots provides a flexible and learner-centric approach to education and enables students to learn at their individual pace and within their preferred learning environment (Alam & Mohanty, 2023; Shamkuwar & Sharma, 2023).
+Moreover, AI-chatbots contribute to the digital transformation of higher education institutions. They play a vital role in shaping the shift towards online and blended learning formats, particularly in distance education programs (Alshahrani, 2023; Stupina & Paniotova, 2023). These chatbots serve as virtual instructors, guiding students through online courses, facilitating discussions, and providing timely feedback (Hew et al., 2023). Additionally, they alleviate the workload of educators by automating administrative tasks including grading assignments and managing course registrations. This allows educators to concentrate more on the design of instructional content, mentoring, and providing personalized support to students (Zhai, 2022). The adoption of AI-based chatbots in higher education is driven by the promise of improving student experiences, enhancing teaching practices, and optimizing institutional operations. As universities seek innovative solutions to address the evolving needs of today's learners, AI-chatbots offer opportunities for these institutions to deliver high-quality, accessible, and personalized learning experiences (Wang, Lund, et al., 2023).
+Essentially, the integration of users' perspectives has shed light on the pathway for chatbots to evolve beyond mere automation tools. It has led to a paradigm shift where these AI-driven entities now act as collaborators in the educational journey (Chang et al., 2023). Thorough consideration of students' experiences and preferences significantly contributes to improving the design and functionality of these chatbots. The active integration of user feedback supports educational institutions in refining these tools to become more intuitive, empathetic, and responsive (Karyotaki et al., 2022). The centrality of users' perspectives in this evolution cannot be overstated due to their indispensable role in ensuring the seamless adoption of these tools in higher education. Students and educators, as the primary end-users, provide invaluable insights into the effectiveness and usability of these AI-driven tools (Mogavi et al., 2023). Their perceptions and feedback directly influence the refinement and optimization of chatbot functionalities. As claimed by Chan and Hu (2023), the way users perceive things has a substantial impact on how they approach learning and the ultimate results they achieve. Gaining insight into their perspectives allows educators and policymakers to customize these technologies to cater to their needs and address their concerns, ultimately fostering more successful learning outcomes. Furthermore, the active engagement of students in co-creating their educational support systems empowers them and promotes a sense of ownership regarding their learning experiences (Chang et al., 2023). Thus, the integration of users’ perspectives ensures that AI-chatbots align closely with their specific and diverse needs and preferences. It enables institutions to tailor chatbot interactions to match diverse learning styles, cultural backgrounds, and individual learning paces (Zhang et al., 2023). Through ongoing dialogue with users, chatbots evolve into adaptable and responsive companions, thereby fostering overall student success as well as a deeper sense of partnership between students and educational institutions (Chen et al., 2023). In essence, user perspectives are the cornerstone of successful AI-chatbot adoption in higher education. Actively involving students and educators in shaping the development and deployment of these virtual assistants allows institutions to unlock the full potential of AI technology to deliver personalized, efficient, and enriching educational experiences (Yusup, 2023).
+2.4. Challenges in the adoption of AI-based chatbots
+While the adoption of AI-based chatbots in higher education presents significant advantages, it also introduces various challenges that require meticulous attention. These challenges have been discussed in recent research studies, shedding light on the complexities associated with integrating AI-chatbots into educational contexts. Firstly, their utilization involves gathering and processing sensitive user data which raises substantial privacy concerns. The potential misuse or mishandling of this data poses a substantial challenge. This brings privacy, data security and ethical concerns to the forefront of challenges facing the adoption of AI-chatbots. As emphasized by Chan and Hu (2023), student data, when processed by chatbots, requires stringent protection measures. To address this challenge, institutions must prioritize data security, compliance with privacy regulations, and transparent communication about data handling practices. The responsible and ethical use of technology, as advocated by Rasul et al. (2023), is crucial in ensuring that the potential benefits of chatbots do not compromise user privacy. Secondly, the risk of dehumanization in the educational experience due to an overreliance on AI-chatbots is a substantial concern. Critics argue that this overreliance may erode the human element in education, impacting empathy, social interaction, and the development of non-cognitive and soft skills. Thus, the challenge of maintaining a human touch in education, as discussed by Rane (2023), is pivotal. While AI-chatbots can offer efficiency, they must not replace the fundamental interactions that enrich the educational experience. Balancing technology with human interaction is essential to address this challenge. Educational institutions must consider the ethical implications of replacing human educators with chatbots and work to ensure that technology enhances the learning journey rather than diminishing it (Ifelebuegu et al., 2023).
+Furthermore, technical issues and limitations such as inaccuracies in NLP, understanding complex queries, and technical glitches can hinder the performance of AI-chatbots and affect their reliability and usability. As highlighted by Ray (2023), these challenges pose significant obstacles to the seamless adoption of AI-chatbots in higher education. These issues demand continuous development and improvement efforts to ensure that chatbots deliver reliable and accurate support, and institutions must invest in refining chatbots' functionalities and user-friendliness to foster trust among both students and educators. Additionally, ethical considerations, including algorithmic bias, fairness, and accountability, are central to the responsible adoption of AI-chatbots. Ensuring that these technologies do not perpetuate discrimination or inequalities remains a complex challenge. Active engagement and ethical education, as emphasized by Sakib et al. (2023), are essential components in tackling such ethical implications. Thus, institutions must prioritize responsible and ethical use, offering guidance on fairness, bias mitigation, and accountability to ensure that AI-chatbots enhance users’ learning experiences (Díaz-Rodríguez et al., 2023). Another challenge that faces AI-based chatbots adoption in higher education is maintaining academic integrity. In this context, Cotton et al. (2023) discussed the risk associated with students unethically using ChatGPT, leading to unintelligent and unlearned responses. Educators may face challenges in distinguishing between authentic student work and that generated by chatbots which poses difficulties in assessing real learning outcomes and achievement.
+One of the important challenges to this adoption also lies in technological readiness. Add to that, compatibility issues with legacy systems and the need for continuous updates further complicate the technological environment. Therefore, integrating AI-chatbots into existing systems and platforms requires substantial technical infrastructure and expertise. Universities may need to invest in robust IT systems, data security measures, and staff training to ensure the smooth functioning of chatbots (Michel-Villarreal et al., 2023). Moreover, aligning AI-driven chatbots with pedagogical goals and teaching methods can be challenging. Developing meaningful and effective interactions that enhance learning rather than disrupting it requires careful planning. Institutions need to invest in instructional design expertise and collaborate closely with educators to create chatbot-driven experiences that complement classroom instruction (Chang et al., 2023). Finally, the study conducted by Chan and Hu (2023) emphasizes a significant long-term challenge in the adoption of these chatbots in higher education which is the potential impact on individual growth, professional opportunities, and societal values. As highlighted in their research, concerns have been raised regarding how the integration of generative AI technologies may influence students' educational journeys and their broader personal and professional growth. These concerns relate to questions about whether AI-chatbots might unintentionally alter students' learning experiences, future career opportunities, and even societal values.
+3. Research methodology
+The research design adopted in this study follows a well-structured process that encompasses various consecutive phases including comprehensive literature review, model development, questionnaire design, data collection, and advanced data analysis techniques. A visual representation of the research process is provided in Fig. 1.
+Fig. 1
+Download: Download high-res image (798KB)
+Download: Download full-size image
+Fig. 1. Phases of the research process.
+
+A fundamental step in this research involves conducting an exhaustive literature review. This review aims to identify factors that shape users' perceptions regarding AI-based chatbots’ adoption in the higher education sector. Additionally, the review seeks to determine variables that reflect the degree of adoption and satisfaction experienced by users. To ensure comprehensiveness of the extracted components, a search string is carefully and iteratively designed. Subsequently, articles search and selection are conducted from Scopus database using the following keywords: ("Chatbot" OR "ChatGPT" OR "GPT*" OR "Google Bard" OR "openai" OR ("Generat*" AND ("Artificial Intelligence" OR "AI"))) AND ("educat*" OR "teach*" OR "learn*" Or "student*" OR "*graduate" OR "academi*" OR "instructor*").
+Given the latent nature of the factors and variables derived from the previous research phase, the literature review is extended to identify the diverse indicators that are capable of collectively capturing the essence of each variable and reflectively measuring it. Afterwards, building upon the insights gained from the literature review, a hierarchical structure of relationships is constructed. This structure groups factors and their corresponding variables and indicators, thereby establishing a comprehensive framework underpinning this research. The relationships established within this framework establish the basis for the subsequent model development and analysis.
+In the phase of preliminary model design, the insights gathered from the extensive literature review are transformed into a tangible research framework. During this phase, abstract components extracted from the literature evolved into a structured model that maps out the complex web of relationships among factors, variables, and indicators. This model comprises both a measurement model and a path model. The measurement model defines the approach to assess and quantify the various latent constructs based on relevant indicators, whereas the path model outlines the hypothetical causal connections between these constructs, forming the basis of the research hypotheses. This critical step in the research process reflects the complexity of users' perceptions in the context of AI-based chatbot adoption and lays the foundation for subsequent empirical testing and validation.
+During the questionnaire design and pilot testing phase, careful attention is devoted to designing a robust and tailored instrument for data collection. Building upon the framework established in previous research phases and the authors' extensive experience in survey design and development, a comprehensive questionnaire was meticulously constructed. This questionnaire aligns with the identified factors, variables and indicators, ensuring that it effectively captures the various dimensions of user perceptions and adoption factors. Prior to its wider application, a pilot test of this instrument was conducted through engaging a specific group of educators and students, representing diverse perspectives within the higher education environment. Their feedback was indispensable in refining the questionnaire and enhancing its clarity and relevance. This iterative process of design and refinement is vital in ensuring that the questionnaire is in line with the research aim and extracts meaningful insights.
+In the subsequent phases of the research, the focus shifted towards the critical processes of data collection, analysis and model validation. A comprehensive approach was employed to collect data from a diverse group of 192 participants, including 107 students and 85 educators across various academic disciplines. The survey was initially sent to around 400 prospects, resulting in a response rate of 48%. The age range of participants was between 18 and 65 years or over, with a gender distribution of 54% female and 46% male. Participants came from diverse subject backgrounds including engineering, medical studies and business studies. The data was collected over a period of three months, and the questionnaire was administered via an online platform to facilitate wide distribution and ease of access. Participants were invited to complete the survey through email invitations and professional social networks such as LinkedIn. The selection of participants was carried out using a blend of purposive, stratified, and snowball sampling methods, ensuring a balanced representation of both students and professors from various strata. Once the data was assembled, the analytical journey began with the use of PLS-SEM modeling techniques. SEM represents a model fitting framework encompassing various multivariate methods that seamlessly integrates a range of analytical tools such as measurement theory, factor analysis, regression techniques, path analysis, among others (Hair et al., 2011; Kiraz et al., 2020). This method proves especially valuable when the research objectives involve the examination of complex and multifaceted constructs, emphasizing the specification of a complex network of relationships rather than a simple relationship between a response variable and a set of explanatory variables. Thus, this approach was chosen due to its suitability for predicting complex relationships and latent constructs within the model. Additionally, PLS-SEM, often referred to as PLS path modeling, emerges as the preferred choice for investigations oriented towards prediction, theory development, and cases where the phenomenon under investigation is novel or changing (Gupta et al., 2022). Considering the nature and goals of this research, which emphasize the exploration of innovative concepts rather than the confirmation of established ones, PLS-SEM stands out as being the most-suited approach for estimating the proposed model, assessing its reliability, establishing its validity, and rigorously testing the formulated hypotheses based on the relationships established within the research framework.
+The application of this method is facilitated through the utilization of SmartPLS 4 which is a software tool initially used for PLS-SEM (Ringle et al., 2024). It is widely used in academic research for its ability to handle complex models with multiple indicators and latent variables (Sarstedt & Cheah, 2019). The current version of the software also includes Covariance-Based SEM (CB-SEM) capabilities, making it a comprehensive tool for SEM modeling. SmartPLS 4 offers an intuitive and user-friendly interface that simplifies the process of model creation and analysis. It can manage complex models with numerous indicators and latent variables making it suitable for multifaceted research designs. The software also provides robust statistical techniques such as bootstrapping and blindfolding and generates detailed graphical outputs that help in the visualization and interpretation of results, and these graphical output capabilities are continually improving (Cheah et al., 2024, pp. 97–107). However, despite its user-friendly interface, there is still a learning curve for users unfamiliar with SEM and the specific features of SmartPLS, and the graphical output and complex statistical results can be misinterpreted without a thorough understanding of PLS-SEM methodology. Furthermore, the estimates of path coefficients can be biased if there are collinearity issues or if the indicators do not appropriately capture the latent variables. To that end, it is recommended to ensure the reliability and validity of the measurement model and rule out the collinearity issues before estimating the structural model (Hair Jr et al., 2021).
+4. Foundational framework of factors and indicators
+In this section, a comprehensive framework is introduced encompassing various factors, variables, and their corresponding indicators. The identification of these components was achieved through an exhaustive literature review which is a fundamental step in the research process. Variables were initially identified, then clustered into thematic factors based on common attributes and relationships. Given their latent nature, corresponding indicators to measure these variables were also systematically identified. Furthermore, the framework integrates insights from several educational theories, including constructivist learning theory, connectivism, SDT, and cognitive load theory.
+Many of the variables used in this study are derived from established technology acceptance models, such as the Technology Acceptance Model (TAM) by Davis (1989, pp. 205–219) and the Unified Theory of Acceptance and Use of Technology (UTAUT) by Venkatesh et al. (2003). Technology acceptance refers to the process through which individuals or organizations begin to embrace and utilize a new technology to achieve desired outcomes (Yadegari, Mohammadi, & Masoumi, 2022). TAM emphasizes the importance of perceived ease of use and perceived usefulness as key determinants of technology acceptance (Liesa-Orús et al., 2023). UTAUT extends this framework by incorporating additional factors such as social influence and facilitating conditions (Robles Urquijo et al., 2019). In addition to these established variables, other relevant factors identified in the literature are also included such as trust, privacy concerns, system quality, and information quality, among others. The objective is to create a more comprehensive framework and allow for a holistic examination of the factors influencing AI-chatbot adoption and use. The selection of indicators used to measure these variables was based on the following well-defined criteria.
+•
+Relevance to the measured concept: Indicators were chosen based on their direct relevance to measuring the concept in question.
+•
+Empirical support: Indicators with strong empirical backing from previous studies were prioritized to ensure the robustness of the model.
+•
+Theoretical grounding: Many indicators were selected based on their alignment with established theories such as TAM and UTAUT.
+•
+Clarity and measurability: Indicators that could be clearly defined and measured were preferred to ensure the accuracy of data collection and analysis.
+•
+Comprehensiveness: The aim was to capture as many manifests and attributes as possible to represent the characteristics of each construct comprehensively. A comprehensive approach was important because the SEM modeling phase serves as a filtering and confirmation step. That is the estimation and validation of the measurement model ensure that indicators not representing their constructs (i.e., those that do not load well) are excluded from the model. This process also ensures that indicators reliability, convergent validity and discriminant validity are established.
+Therefore, the selection process was systematic and grounded in the existing literature ensuring a comprehensive and representative set of indicators. Table 1 presents a detailed overview of the various components of the framework (factors, variables and indicators) along with the references supporting them.
+Table 1. Foundational framework of factors, variables and indicators.
+
+Factors	Variables	Indicators/Measures	Supporting references
+Perception Factor	Perceived Ease of Use	(Bilquise et al., 2023; Huang et al., 2022; Liu & Ma, 2023; Nozhovnik et al., 2023; Ratten & Jones, 2023; Tiwari et al., 2023)
+-
+User-friendliness of the chatbot interface (User_Friendliness)
+(Ali et al., 2022; Khalil & Rambech, 2022; Wadhawan et al., 2023)
+-
+Simplicity of the chatbot's interface (Simplicity)
+Stupina and Paniotova (2023)
+-
+Ease of navigation within the chatbot (Ease_Navigation)
+(Rodriguez-Arrastia et al., 2022; Sarosa et al., 2020)
+-
+Clarity of instructions (Clarity_Instructions)
+Cheung et al. (2023)
+-
+Ability to handle errors and provide clear guidance (Clear_Guidance)
+(Currie et al., 2023; Dalalah & Dalalah, 2023)
+Perceived Usefulness	(Bilquise et al., 2023; Contreras & Valette-Florence, 2023; Liu & Ma, 2023)
+-
+Utility in academic support (Academic_Utility)
+(Pesonen, 2021; Sallam, 2023; Wadhawan et al., 2023)
+-
+Relevance to individual learning needs (Individual_Relevance)
+(Ling & Tan, 2020; Murgia et al., 2023; Ruiz-Rojas et al., 2023)
+-
+Enhancement of the overall learning experience (Learning_Experience)
+(Chan & Hu, 2023; Su & Yang, 2023; Wang, Lund, et al., 2023)
+-
+Problem solving ability (Problem_Solving)
+(Chang et al., 2022; Malik et al., 2022)
+-
+Relevance to academic requirements (Academic_Relevance)
+(Bilquise & Shaalan, 2022; Opara et al., 2023; Wang, Lund, et al., 2023)
+-
+Enhancing engagement in Learning activities (Learning_Engagement)
+(Z.Lin, 2023; Alshahrani, 2023; Deng & Yu, 2023)
+Perceived Efficiency	(El Azhari, Hilal, Daoudi, & Ajhoun, 2022a; Houston & Corrado, 2023; Wang, Lund, et al., 2023)
+-
+Time savings when using the chatbot (Time_Saving)
+(Allagui, 2023; Kesarwani & Juneja, 2023; Sallam, 2023)
+-
+Reduction in effort for completing tasks (Effort_Reduction)
+(Kesarwani & Juneja, 2023; Thosani et al., 2020)
+-
+Promptness of responses from the chatbot (Response_Promptness)
+(Chand & Sharma, 2023; Motlagh et al., 2023; Schünke et al., 2022)
+-
+Ability to automate repetitive and time-consuming tasks (Task_Automation)
+(El Azhari, Hilal, Daoudi, & Ajhoun, 2022b; Kooli, 2023; Ahmed & Ganapathy, 2021)
+Trust and Privacy Factor	Trust in AI-Chatbots	(Bilquise et al., 2023; Pesonen, 2021; Sharma et al., 2023)
+-
+Confidence in the chatbot's accuracy (Accuracy_Confidence)
+(Bilquise et al., 2023; Kohnke et al., 2023)
+-
+Reliability and consistency of chatbot responses (Response_Reliability)
+(Breeding et al., 2023; Rasul et al., 2023)
+-
+Transparency of the chatbot about its functioning and decision processes (Process_Transparency)
+(Sallam, 2023; Sharma et al., 2023)
+-
+Trust in the chatbot's handling of user data (Data_Trust)
+(Sebastian, 2023; Yang et al., 2023)
+Privacy Concerns	(Baskara, 2023; Wang, Lund, et al., 2023; Yang et al., 2023)
+-
+Comfort level with data sharing (Comfort_Sharing)
+(Agarwal et al., 2022; Belen-Saglam et al., 2022)
+-
+Trust in data security measures (Trust_Security)
+(Ofosu-Ampong et al., 2023; Sebastian, 2023; Yang et al., 2023)
+-
+Concerns about potential misuse of user data (Misuse_Concerns)
+(Grassini, 2023; Piñeiro-Martín et al., 2023)
+-
+Awareness of chatbot's data collection and usage policies (Awareness_Policy)
+Kasneci et al. (2023)
+-
+Level of control over the data shared with the chatbot (Data_Control)
+Hettiarachchige and Jahankhani (2021)
+Interaction and System Factor	Perceived Interactivity	(Rahim et al., 2022), (Jan et al., 2023), (Wang, Wang, et al., 2023),
+-
+Responsiveness of the chatbot during interactions (Interaction_Responsiveness)
+(Ram & Pratima Verma, 2023; Wamba et al., 2023)
+-
+Ability to engage in meaningful dialogue (Meaningful_Dialogue)
+(Kalla & Smith, 2023; Shahriar & Hayawi, 2023)
+-
+Personalization and adaptability to user preferences (User_ Personalization)
+(Huang et al., 2022; Kaiss et al., 2023; Zhai, 2022)
+-
+Ability to provide real-time feedback during tasks (Realtime_Feedback)
+(Firat, 2023; Farrokhnia, Banihashem, Noroozi, & Wals, 2024)
+-
+Ability to adapt interactions based on the user's level of expertise or familiarity with the subject (Adapt_Interactions)
+Roumeliotis and Tselikas (2023)
+-
+Ability to handle a wide spectrum of subjects effectively (Wide_Handling)
+(Aithal & Aithal, 2023; Božić & Poola, 2023)
+System Quality	(Aslam & Nisar, 2023; Chu, 2023; Xiao et al., 2023)
+-
+Ability to maintain uninterrupted service (Uninterrupted_Service)
+Bilquise et al. (2023)
+-
+Overall performance in handling user interactions (Interaction_Performance)
+(Biswas, 2023; Qureshi, 2023)
+-
+Compatibility with different web browsers or platforms (Platform_Compatibility)
+(Calle et al., 2021; Chand & Sharma, 2023)
+Information Quality	(Merkouris et al., 2022), (R.Xu, Feng, & Chen, 2023; Chu, 2023)
+-
+Accuracy and correctness of chatbot responses (Response_Accuracy)
+(Iskandar et al., 2023; Johnson et al., 2023)
+-
+Relevance of information to user queries (Relevance_Query)
+Kalla and Smith (2023)
+-
+Perceived credibility and trustworthiness of sources (Source_Credibility)
+(Huschens et al., 2023; Tiwari et al., 2023; Yilmaz et al., 2023)
+-
+Depth and comprehensiveness of the information provided (Information_Depth)
+(Currie et al., 2023; Totlis et al., 2023)
+-
+Ability to provide up-to-date and current information (Current_Information)
+(Crawford et al., 2023; Jeyaraman et al., 2023; Mzwri & Turcsányi-Szabo, 2023)
+Social and Contextual Factor	Social Influence	(Bilquise et al., 2023; Foroughi et al., 2023; Rukhiran et al., 2022)
+-
+Influence of peers and teachers on chatbot use (Peer_Influence)
+(Antony & Ramnath, 2023; Bin-Nashwan et al., 2023; Ofosu-Ampong et al., 2023)
+-
+Perceived social acceptance of chatbot technology (Social_Acceptance)
+(Conyette, 2023; De Andrés-Sánchez & Gené-Albesa, 2023)
+-
+Prevalence of chatbot use within the educational context (Prevalence_Use)
+(Qadir, 2023; Wardat et al., 2023)
+-
+Perception of how professional network views the use of chatbots in education (Professional_View)
+Getchell et al. (2022)
+Facilitating Conditions	(Foroughi et al., 2023; Romero-Rodríguez et al., 2023; Rukhiran et al., 2022)
+-
+Perception of organizational support for chatbot use (Organization_Support)
+(An et al., 2023; Cheong-Trillo, 2023)
+-
+Assessment of available technical infrastructure (Technical_Infrastructure)
+(Foroughi et al., 2023; Michel-Villarreal et al., 2023)
+-
+Perception of training and resources for chatbot use (Training_Resources)
+(Ifelebuegu, 2023; Kasneci et al., 2023)
+-
+Availability and effectiveness of technical support for using the chatbot (Techinacl_Support)
+(Cheong-Trillo, 2023; Yu & Guo, 2023)
+-
+Availability and usefulness of user guides for using the chatbot (User_Guide)
+Foroughi et al. (2023)
+Accessibility	(Alasadi & Baiz, 2023; Babington-Ashaye et al., 2023; Rawas, 2023)
+-
+Equal access for users with diverse needs (Equal_Access)
+(Gill et al., 2024; Kasneci et al., 2023; Tlili et al., 2023)
+-
+Accommodations for users with disabilities (Accom_Disability)
+(Martiniello et al., 2021; Mateos-Sanchez et al., 2022)
+-
+Availability on various devices and platforms (Availability)
+(Calle et al., 2021; Chand & Sharma, 2023)
+-
+Smooth functioning on different web browsers (Smooth_Functioning)
+Rajaobelina et al. (2021)
+-
+Ability to provide support in multiple languages (Multilanguage_Support)
+(Aguirre et al., 2022; Cox & Tzoc, 2023; Saadna et al., 2022)
+Ethical Considerations	(Alasadi & Baiz, 2023; Bahroun et al., 2023; Fuchs & Aguilos, 2023)
+-
+Transparency in disclosing chatbot capabilities (Transparency_Capability)
+(Y. Xu, Bradford, & Garg, 2023)
+-
+Fair treatment and absence of bias in chatbot interactions (Bias_Free)
+(Ferrara, 2023; Mohammad et al., 2023; Zhu et al., 2023)
+-
+Responsible handling of user data and ethical practices (Responsible_Handling)
+(Lang et al., 2023; Lundberg, 2023)
+-
+Compliance with ethical and regulatory standards related to data privacy and use (Ethical_Compliance)
+(Kasneci et al., 2023; Sallam et al., 2023; Wu et al., 2023)
+Outcome Variables	Adoption of AI-Chatbots	(Foroughi et al., 2023; Rajabi et al., 2023; Tiwari et al., 2023)
+-
+Frequency of use (Frequency_Use)
+(Paul et al., 2023; Strzelecki, 2023)
+-
+Duration of engagement (Duration_Engagement)
+Aggarwal et al. (2023)
+-
+Consistency of usage (Consistency_Usage)
+Strzelecki (2023)
+-
+Integration with learning activities (Integration_Learning)
+(Baidoo-Anu & Ansah, 2023; Zhai, 2022)
+-
+Intent to continue usage (Intent_Continue)
+(Park & Lee, 2023),
+-
+Degree of reliance on the chatbot for academic support (Degree_Reliance)
+(Kazemitabaar et al., 2023; Ramachandran et al., 2023)
+User Satisfaction	(Alias et al., 2021; Limo et al., 2023; Suárez et al., 2022)
+-
+Satisfaction ratings (Satisfaction_Rating)
+Han et al. (2023)
+-
+Quality of interactions (Quality_Interaction)
+Sonkar et al. (2023)
+-
+Net Promoter Score (NPS) (Net_Prom_Score)
+(Liu et al., 2020; Muzurura et al., 2023)
+-
+Helpfulness of responses (Helpfulness_Response)
+Følstad and Bjerkreim-Hanssen (2023)
+-
+Perceived empowerment (Empowerment)
+Tisland et al. (2022)
+Learning Outcomes	(Alshahrani, 2023; Chan & Hu, 2023; Deng & Yu, 2023)
+-
+Academic performance (Academic_Perf)
+(Chaiprasurt et al., 2022; Chetradevee et al., 2022)
+-
+Knowledge acquisition (Acquisition_Knowledge)
+Aleedy et al. (2022)
+-
+Skill development (Skill_Develop)
+(Li et al., 2023; Elbanna & Armstrong, 2024)
+-
+Perceived improvement in learning effectiveness (Learning_Effectiveness)
+(Mogavi et al., 2023; Shoufan, 2023)
+-
+Application of gained knowledge (Application_Knowledge)
+Khorshidi et al. (2023)
+Personalized Learning Experience	(Alshahrani, 2023; Fuchs, 2023), (Y.Lin, 2023)
+-
+Tailored Content (Tailored_Content)
+(Božić & Poola, 2023; Carr, 2023)
+-
+Customized Recommendations (Customized_Recom)
+Chukwuere (2023)
+-
+Feedback and Progress Tracking (Feedback_Tracking)
+(Agustini, 2023; Yeşilçınar, 2023)
+-
+Learning Pace (Learning_Pace)
+(Bin-Hady et al., 2023; Montenegro-Rueda et al., 2023)
+-
+Adaptive Assessments (Adaptive_Assess)
+(Alipio et al., 2023; Skavronskaya et al., 2023)
+4.1. Perceptions factor
+The perceptions factor includes various variables that collectively form a critical foundation for understanding user attitudes and adoption behavior towards AI-based chatbots in higher education settings.
+•
+Perceived Ease of Use: This variable covers the user-friendliness of chatbot interfaces, encompassing key aspects such as the simplicity of the interface, ease of navigation, clarity of instructions, and the chatbot's proficiency in effectively handling errors. Research suggests that the perceived ease of use significantly influences users' willingness to adopt and interact with chatbot technology (Bilquise et al., 2023; Tiwari et al., 2023). This aligns with the principles of constructivist learning theory which emphasizes the importance of user-friendly tools in facilitating active, student-centered learning.
+•
+Perceived Usefulness: Within this category, the multifaceted utility of chatbots in academic support is explored. This includes their relevance to individual learning needs, the extent to which they enhance the overall learning experience, their problem-solving capabilities, alignment with academic requirements, and their effectiveness in enhancing engagement in various learning activities. Studies emphasize that users are more inclined to adopt and persist in using chatbots when they perceive them as valuable tools in their educational journey (Bilquise et al., 2023; Contreras & Valette-Florence, 2023). This is also supported by SDT, which highlights the role of tools that enhance competence and engagement in learning processes.
+•
+Perceived Efficiency: This variable assesses the extent to which chatbots contribute to enhancing efficiency in the educational process. It encompasses aspects such as time savings when using the chatbot, reduction in user effort required to complete tasks, promptness of responses, and the chatbot's ability to automate repetitive and time-consuming tasks. Research has emphasized the significance of perceived efficiency in shaping users' attitudes and behaviors towards chatbots, as it directly impacts the overall satisfaction (El Azhari et al., 2022b; Wang, Lund, et al., 2023). Cognitive load theory supports this by highlighting the importance of reducing extraneous cognitive load to optimize learning efficiency.
+4.2. Trust and privacy factor
+This factor plays a fundamental role in shaping the perceptions of users and their decisions related to the adoption of AI-based chatbots in higher education. Building and maintaining trust while addressing privacy concerns are essential steps in ensuring the effective integration of chatbots into educational contexts.
+•
+Trust in AI-based Chatbots: This variable is a cornerstone in the acceptance and continued use of AI-based chatbots. It entails assessing the user's trust in the chatbot's accuracy, reliability, and consistency in providing responses. Users also consider the transparency of the chatbot's functioning and decision-making processes, as well as their overall confidence in how the chatbot handles their personal data. Research findings suggest that trust in chatbots significantly influences users' willingness to rely on them for various tasks and interactions (Bilquise et al., 2023; Pesonen, 2021). This concept is integral to SDT as trust significantly contributes to foster intrinsic motivation and engagement.
+•
+Privacy Concerns: Privacy is a paramount concern in today's digital age. Within this category, various dimensions of privacy concerns related to chatbot usage are investigated. This includes users' comfort levels with data sharing, their trust in the security measures implemented to protect their data, concerns about potential misuse of their data, awareness of data collection policies, and the degree of control users have over the data they share with the chatbot. Privacy concerns can be a significant barrier to the adoption of chatbots, and tackling these concerns is essential to fostering user trust and acceptance (Pesonen, 2021).
+4.3. Interaction and system factor
+The interaction and system elements collectively contribute to users' overall experiences with AI-based chatbots in higher education. Ensuring high levels of interactivity, system reliability, and information quality is essential for fostering positive user perceptions and encouraging the adoption of chatbot technology.
+•
+Perceived Interactivity: This variable encompasses several critical aspects of user interactions. It includes evaluating how responsive chatbots are during conversations, their capacity to engage in meaningful dialogues, and their ability to tailor responses according to user preferences and requirements. The provision of real-time feedback during tasks and the chatbot's adaptability to the user's level of expertise or familiarity with subjects are also essential components. Enhanced interactivity positively correlates with user satisfaction and adoption intentions (Rahim et al., 2022; Wang, Wang, et al., 2023). The principles of constructivist learning theory support the importance of interactivity as it fosters active learning and engagement.
+•
+System Quality: This includes the chatbot's ability to maintain uninterrupted service, its performance in effectively handling user interactions, and its compatibility with different browsers and platforms. Users expect a seamless and reliable experience when engaging with chatbots, and issues related to system quality can significantly impact their perceptions and adoption decisions (Aslam & Nisar, 2023). A reliable system also supports connectivism by ensuring continuous access to learning networks and resources.
+•
+Information Quality: Users assess the accuracy of chatbot responses, the relevance of information to their queries, and the perceived credibility and trustworthiness of information sources. Additionally, they consider the depth and comprehensiveness of the information provided and the chatbot's ability to offer up-to-date and current information. In essence, information quality strongly influences user satisfaction and their willingness to use chatbots for information-seeking tasks (Merkouris et al., 2022). High-quality information delivery aligns with cognitive load theory by minimizing extraneous cognitive load and enhancing learning efficiency.
+4.4. Social and contextual factor
+The elements of this factor shape the environment in which AI-chatbots are introduced in higher education. Understanding and addressing these elements are critical for promoting the successful integration of chatbots into educational settings.
+•
+Social Influence: This component involves various aspects of social influence. It explores how peers and educators influence chatbot use among students, the broader social acceptance of chatbot technology within the educational context, the prevalence of chatbot utilization in educational settings, and how professional networks view the integration of chatbots in education. Social influence can be instrumental in shaping individuals' attitudes and behaviors towards technology acceptance (Bilquise et al., 2023; Foroughi et al., 2023). Connectivism supports the role of social networks in influencing learning and technology adoption.
+•
+Facilitating Conditions: This category encompasses several key elements. It evaluates users' perception of organizational support for chatbot use within their educational institutions. It also considers the adequacy of the technical infrastructure to support chatbot functionality, the availability of training and resources for users, the effectiveness of technical support services, and the availability and usefulness of user guides or tutorials. The presence of facilitating conditions is critical to ensuring that users can effectively utilize chatbots and maximize their benefits (Romero-Rodríguez et al., 2023). These conditions align with SDT by ensuring that users have the support and resources needed to feel competent and autonomous.
+•
+Accessibility: Ensuring that chatbot technology is accessible to a diverse user base is of paramount importance. This includes assessing equal access for users with diverse needs, such as those with disabilities, and the availability of accommodations to support their usage. It also involves evaluating the compatibility of chatbots with various devices and platforms, ensuring their smooth functioning across different environments, and their ability to provide support in multiple languages. These considerations are essential to the inclusivity of chatbots, ensuring they can accommodate the needs of all potential users (Alasadi & Baiz, 2023). Accessibility considerations are critical to both constructivist learning theory and connectivism, as it ensures that all students can actively engage with and benefit from the technology.
+•
+Ethical Considerations: This category includes various ethical dimensions such as the transparency of chatbots in disclosing their capabilities and limitations to users, the fair treatment of users without bias in chatbot interactions, the responsible management of user data, and adherence to ethical and regulatory standards associated with data privacy and use. In an era of growing concerns about data privacy and fairness, addressing ethical considerations is crucial for building trust and ensuring responsible chatbot adoption (Bahroun et al., 2023; Fuchs & Aguilos, 2023).
+4.5. Outcome variables
+The outcome variables are critical in evaluating the impact of AI-driven chatbot adoption in the higher education landscape. They provide insights on the degree of acceptance of this technology, its effectiveness, and its overall success in enhancing the learning experience.
+•
+Adoption of AI-Chatbots: This variable is measured by various indicators including the frequency of use, the duration of engagement, the consistency of usage over time, the degree to which chatbots are integrated into learning activities, users' intent to continue using chatbots, and the level of reliance on chatbots for academic support. Prior research has emphasized the significance of adoption as a key outcome variable (Foroughi et al., 2023; Tiwari et al., 2023).
+•
+User Satisfaction: This variable encompasses several dimensions including user satisfaction ratings, the overall quality of interactions, the net promoter score (NPS) that measures user's loyalty and advocacy, and the extent to which users feel empowered by chatbot interactions. High levels of users' satisfaction are indicative of a positive user experience and are associated with higher technology adoption rates (Suárez et al., 2022). User satisfaction is closely tied to SDT which emphasizes the role of competence and relatedness in enhancing intrinsic motivation and satisfaction.
+•
+Learning Outcomes: They include various dimensions such as academic performance, knowledge acquisition, skill development, the perceived improvement in learning effectiveness attributed to chatbot use, and the practical application of knowledge gained through chatbot interactions. These outcomes offer relevant insights on the educational advantages and efficacy of chatbots related to enhancing student learning experiences (Alshahrani, 2023; Deng & Yu, 2023). Positive learning outcomes support constructivist and cognitive load theories which emphasize active learning and efficient cognitive processing.
+•
+Personalized Learning Experience: Personalization is a key feature of chatbots, and its impact on the learning experience is a crucial outcome variable. This variable examines the extent to which chatbots provide tailored content, customized recommendations, feedback mechanisms for progress tracking, the ability to adjust the learning pace to individual needs, and the use of adaptive assessments. Personalized learning experiences have proven effective towards improving engagement and learning outcomes (Alshahrani, 2023). Personalization aligns with SDT by addressing individual learning needs and enhancing motivation.
+4.6. Moderating variables
+There are moderating variables that influence the relationships among the components of the first four factors and the outcome variables. These moderating elements should be considered when examining the relationships between the influencing variables and the adoption of AI-based chatbots in the context of higher education. Accounting for these factors allows the study to capture the variations that exist within different user groups and educational contexts.
+•
+Tech-Savviness: The level of comfort, experience, and proficiency individuals have with technology. Tech-savviness can influence the perceptions and use of AI and chatbots, with more tech-savvy individuals potentially having higher acceptance and utilization rates (Sharma, 2023).
+•
+Role (Student/Educator): The perspectives and roles of individuals as students or educators may impact their perceptions and attitudes toward AI and chatbots. Students may have different needs, expectations, and experiences compared to educators, leading to varying adoption patterns (Limna et al., 2023).
+•
+Demographics: Variables like gender, age, and educational level can influence the adoption and perception of technology. Different demographic groups may have distinct preferences, needs, and barriers that influence their acceptance level and usage patterns of AI-chatbots (Ragheb et al., 2022).
+•
+Previous Experience with AI-Chatbots: Individuals with prior experience using AI and chatbot technologies may have different perceptions and usage patterns compared to those without prior exposure. Past experiences can shape attitudes, expectations, and confidence in utilizing these technologies (Essel et al., 2022).
+•
+Institution Type: The type of educational institution, such as public versus private, may influence how AI and chatbots are perceived and used. Differences in resources, organizational culture, and infrastructure can impact the adoption and acceptance of these technologies (Rahim et al., 2022).
+•
+Study Field: The specific academic discipline or field of study can also act as a moderating variable impacting the acceptance of AI-based chatbots in the context of education. Different fields may have varying degrees of receptivity to these technologies influenced by the discipline's culture, technological integration level, and other specific educational needs (Wang, King, et al., 2023).
+5. Preliminary second order model
+Higher-order models, alternatively named higher component models (HCM), include multi-order structures with diverse levels of components. In addressing complex constructs, researchers can conceptualize them at higher abstraction levels. In this scenario, the parent construct is depicted by the corresponding components capturing its characteristics (Hair Jr et al., 2021). This method simplifies the model and enhances its parsimony (Cheah et al., 2019). That is, instead of modeling the attributes as explicit determinants of other variables of the model on a single construct layer, lower-order constructs (LOC) are consolidated into a multidimensional higher-order component (HOC). Researchers typically employ the repeated indicators strategy for specifying the HOC's measurement model by associating related indicators with the fundamental LOCs (Saihi et al., 2023).
+To construct the preliminary model, the variables and indicators identified in Section 4 are adopted. As shown in Fig. 2, the model encompasses 77 indicators that are reflectively measuring 16 LOCs. Out of these, 12 are formatively measuring four HOCs, namely trust and privacy factor, interaction and system factor, social and contextual factor, and perception factor. As described in Table 1, the four HOCs and their corresponding LOCs are structured as follows.
+•
+HOC1 (“Trust and Privacy Factor”): Its corresponding LOCs are “Trust in AI-Chatbots” and “Privacy Concerns”.
+•
+HOC2 (“Interaction and System Factor”): Its corresponding LOCs are “Perceived Interactivity”, “System Quality” and “Information Quality”.
+•
+HOC3 (“Social and Contextual Factor”): Its corresponding LOCs are “Social Influence”, “Facilitating Conditions”, “Accessibility” and “Ethical Considerations”.
+•
+HOC4 (“Perception Factor”): Its corresponding LOCs are “Perceived Ease of Use”, “Perceived Usefulness” and “Perceived Efficiency”.
+Fig. 2
+Download: Download high-res image (1MB)
+Download: Download full-size image
+Fig. 2. Preliminary second order model for AI-chatbot adoption.
+
+The indicators of the HOCs are measured using the repeated indicator approach. This means each parent HOC is measured using all the indicators of its corresponding LOCs. For model parsimony and clarity, the indicators of the HOCs are not duplicated in Fig. 2 as they are already presented in the corresponding LOCs. Regarding the arrows linking variables, all the arrows between HOCs and their LOCs represent formative relationships. The remaining arrows represent relationships of the path model. The generic model is presented as a Reflective-Formative (Type II) second-order model and it also depicts the hypothesized relationships among its variables.
+6. Data analysis and discussion of the findings
+A systematic approach is employed to assess PLS-SEM results, aiming to explain the maximum amount of variation in the endogenous variables through the PLS path model. This method involves evaluating the effectiveness of both measurement and structural models using specific metrics that evaluate their predictive capabilities. Key evaluation criteria include reliability and validity for measurement models; yet for the structural model, the focus is on explained variance (
+), effect size (
+), predictive relevance (
+), and the statistical significance of path coefficients. The assessment process initiates with an examination of the measurement models' quality (both reflective and formative). After confirming the adequacy of the measurement characteristics of the constructs, attention shifts to examining the estimates of the path model (Hair Jr et al., 2021).
+6.1. Evaluation of the measurement models
+Two types of measurement models are involved in the proposed model. Firstly, LOCs are measured reflectively via their corresponding indicators which defines a measurement model of reflective type, referred to as Mode A. Secondly, four HOCs are formatively measured through their corresponding LOCs, thereby involving a formative measurement model (Mode B). Different approaches are adopted by researchers for the aim of assessing the quality of these two types of measurement models as summarized in the flowchart of Fig. 3.
+Fig. 3
+Download: Download high-res image (623KB)
+Download: Download full-size image
+Fig. 3. Approaches for measurement models evaluation.
+
+6.1.1. Evaluation of the reflective measurement model
+Reliability and validity tests of the Mode A model are performed as described in Fig. 3. That is, the initial assessment involves internal consistency reliability, with Cronbach's alpha commonly being employed to estimate this aspect. Another measure of internal consistency, composite reliability 
+, is based on the outer loadings of indicators. In accordance with Hair Jr et al. (2021), both metrics have a tendency to somewhat underestimate or overestimate the real reliability measures. Therefore, it is advisable that the reliability measure 
+ falls between them (lower limit and upper limit). Measures ranging from 0.7 to 0.9 are deemed satisfactory for these criteria, while in exploratory research, values within the range of 0.6–0.7 are considered acceptable. Subsequently, convergent validity examines how well an indicator correlates positively with other indicators belonging to the same construct. For reflective constructs, the evaluation of convergent validity considers both the outer loadings of indicators, also known as indicator reliability, as well as the average variance extracted (AVE) that indicates the average variability in the elements explained by the latent component under consideration. It is recommended that indicator loadings surpass 0.7, with a careful examination of the impact on other metrics when removing those with loadings between 0.4 and 0.7. Additionally, the AVE value should exceed 0.5. Finally, discriminant/divergent validity ensures that measures diverge from those of conceptually unrelated constructs. This validation indicates that a construct represents a distinct concept not duplicated by others in the model. The evaluation involves: (i) Cross-loadings, where an indicator's outer loading with its construct should exceed its correlation with other constructs; (ii) Fornell-Larcker criterion (FLC), requiring a construct's square root of AVE to exceed its strongest correlation to other components of the model; (iii) Heterotrait-monotrait (HTMT) assessing the disattenuated correlation among two components, where values above 0.85 suggest a lack of discriminant validity.
+To begin with, the estimation procedure involves an assessment of the reflective outer model's quality. Relevant adjustments to this measurement model are iteratively carried out until the characteristics of constructs' measurements reach adequate levels. The initial model, shown in Fig. 1, incorporates the 77 indicators presented in Table 1. Following the execution of the PLS-SEM algorithm's factor model and a thorough examination of the obtained results, considering the exploratory nature of the research, the decision is made to set the criterion for removing an indicator at an outer loading threshold of 0.6. Afterwards, potential indicators for removal are identified, and their elimination's impact on other reliability and validity measures is examined and summarized in Table 2. Ultimately, six indicators are excluded, resulting in a revised model comprising 71 indicators in the initial layer, as depicted in Fig. 4 which also shows the obtained outer loadings in the modified measurement model. Evaluation of reliability, as indicated in Table 3, is determined using Cronbach's alpha and 
+, both exceeding recommended values. The measure 
+, positioned between Cronbach's alpha and 
+, surpasses 0.7, implying satisfactory reliability. Moreover, indicators' reliability is verified and convergent validity is confirmed, with AVE measures surpassing the recommended threshold. Discriminant validity is evaluated using the criterion FLC for individual constructs, ensuring that it surpasses its maximum correlation with other components, as depicted in Table 4. Additionally, as evidenced by Table 5, the HTMT ratio further confirms the established discriminant validity, with values below the 0.85 threshold.
+Table 2. Impact resulting from the exclusion of indicators.
+
+Construct	Indicators to exclude	Cronbach's alpha	ρc	AVE	Impact
+Privacy Concerns	Misuse_Concerns and Comfort_Sharing	0.679	0.797	0.481	Cronbach alpha, ρc and AVE improved significantly
+0.838	0.901	0.752
+Social Influence	Peer_Influence	0.683	0.804	0.515
+0.697	0.832	0.624
+Facilitating Conditions	Technical_Infrastructure	0.859	0.9	0.648
+0.885	0.921	0.745
+Perceived Efficiency	Response_Promptness	0.791	0.871	0.649
+0.901	0.938	0.835
+Perceived Ease of Use	Simplicity	0.712	0.807	0.510	
+0.733	0.827	0.548	
+Fig. 4
+Download: Download high-res image (1MB)
+Download: Download full-size image
+Fig. 4. Updated model for AI-chatbot adoption.
+
+Table 3. Evaluating Reliability and convergent validity of the modified model's constructs.
+
+Construct	Cronbach's alpha	ρa	ρc	AVE
+Perceived Ease of Use	0.733	0.759	0.827	0.548
+Perceived Usefulness	0.929	0.933	0.945	0.741
+Perceived Efficiency	0.901	0.901	0.938	0.835
+Trust in AI-Chatbots	0.812	0.815	0.877	0.641
+Privacy Concerns	0.838	0.868	0.901	0.752
+Perceived Interactivity	0.859	0.866	0.896	0.590
+System Quality	0.695	0.713	0.831	0.622
+Information Quality	0.829	0.831	0.880	0.595
+Social Influence	0.697	0.713	0.832	0.624
+Facilitating Conditions	0.885	0.886	0.921	0.745
+Accessibility	0.730	0.732	0.822	0.491
+Ethical Considerations	0.775	0.784	0.857	0.603
+Learning Outcomes	0.918	0.934	0.939	0.756
+Personalized Learning Experience	0.903	0.916	0.928	0.720
+User Satisfaction	0.895	0.900	0.923	0.707
+Adoption of AI-chatbots	0.913	0.921	0.933	0.700
+Table 4. Assessment of discriminant validity based on FLC.
+
+Empty Cell	FLC	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+1	Accessibility	0.69															
+2	Adoption of AI-chatbots	0.58	0.84														
+3	Ethical Considerations	0.52	0.34	0.78													
+4	Facilitating Conditions	0.56	0.59	0.60	0.86												
+5	Information Quality	0.47	0.61	0.65	0.56	0.77											
+6	Learning Outcomes	0.53	0.83	0.38	0.60	0.62	0.87										
+7	Perceived Ease of Use	0.39	0.24	0.35	0.22	0.34	0.32	0.71									
+8	Perceived Efficiency	0.49	0.74	0.32	0.41	0.43	0.61	0.42	0.91								
+9	Perceived Interactivity	0.48	0.57	0.60	0.68	0.67	0.54	0.49	0.54	0.77							
+10	Perceived Usefulness	0.66	0.72	0.48	0.43	0.66	0.66	0.49	0.74	0.64	0.86						
+11	Personalized Learn Exp	0.50	0.68	0.58	0.76	0.66	0.79	0.22	0.44	0.58	0.61	0.85					
+12	Privacy Concerns	0.35	0.48	0.55	0.70	0.55	0.48	0.12	0.38	0.60	0.45	0.65	0.87				
+13	Social Influence	0.59	0.73	0.48	0.57	0.51	0.60	0.40	0.64	0.55	0.64	0.50	0.41	0.79			
+14	System Quality	0.54	0.43	0.36	0.32	0.40	0.34	0.35	0.36	0.44	0.52	0.35	0.36	0.23	0.79		
+15	Trust in AI-Chatbots	0.45	0.68	0.46	0.62	0.54	0.56	0.13	0.60	0.61	0.61	0.62	0.70	0.52	0.53	0.80	
+16	User Satisfaction	0.60	0.81	0.25	0.47	0.55	0.84	0.36	0.64	0.50	0.66	0.59	0.33	0.68	0.32	0.54	0.84
+Table 5. Discriminant validity based on HTMT ratio.
+
+Empty Cell	HTMT	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15
+2	Adoption of AI-chatbots	0.70														
+3	Ethical Considerations	0.68	0.40													
+4	Facilitating Conditions	0.65	0.67	0.72												
+5	Information Quality	0.60	0.70	0.81	0.68											
+6	Learning Outcomes	0.65	0.83	0.43	0.69	0.70										
+7	Perceived Ease of Use	0.49	0.27	0.40	0.30	0.40	0.36									
+8	Perceived Efficiency	0.66	0.82	0.39	0.47	0.55	0.70	0.69								
+9	Perceived Interactivity	0.61	0.64	0.72	0.81	0.79	0.61	0.57	0.70							
+10	Perceived Usefulness	0.80	0.77	0.56	0.45	0.75	0.70	0.51	0.83	0.71						
+11	Personalized Learn Exp	0.60	0.73	0.69	0.82	0.74	0.84	0.25	0.50	0.65	0.65					
+12	Privacy Concerns	0.64	0.62	0.82	0.81	0.80	0.62	0.36	0.54	0.81	0.61	0.80				
+13	Social Influence	0.79	0.83	0.64	0.68	0.65	0.80	0.48	0.81	0.67	0.80	0.64	0.64			
+14	System Quality	0.76	0.53	0.50	0.43	0.53	0.42	0.46	0.54	0.58	0.64	0.44	0.76	0.41		
+15	Trust in AI-Chatbots	0.59	0.78	0.58	0.73	0.66	0.66	0.28	0.74	0.75	0.71	0.72	0.82	0.75	0.73	
+16	User Satisfaction	0.74	0.81	0.34	0.53	0.66	0.83	0.39	0.77	0.57	0.71	0.63	0.48	0.78	0.40	0.65
+6.1.2. Evaluation of the formative measurement model
+Research has recently highlighted the increasing use of HCMs in PLS-SEM, driven by their advantages (Sarstedt et al., 2019). However, confusion arises among researchers regarding HOCs' specification, estimation, and validation. Some neglect proper evaluation of the reliability of HOCs and their validity or misinterpret their relationships with the LOCs as path model relationships, where in practice, LOCs are elements of HOCs' measurement models. To address these challenges, researchers have proposed various approaches, including the extended repeated indicator approach, embedded two-stage approach, disjoint two-stage approach, and improved repeated indicator approach (Cheah et al., 2019). This study adopts the embedded two-stage approach for HOC estimation and validation. The procedure involves running a standard repeated indicator approach in the initial phase and incorporating latent variable (LV) scores as additional variables. In following stages, the LV scores serve as formative indicators for the parent constructs’ measurement models. To validate formative HOCs, the three-step approach described in Fig. 3 is followed. First, convergent validity is evaluated through a redundancy analysis test, linking the HOC to a distinct global single-item measure, with a path coefficient exceeding 0.7 supports convergent validity. Then, potential collinearity issues in LOCs are examined using the Variance Inflation Factor (VIF), indicating a problem in case the VIF value exceeds 5. Finally, the significance and relevance of formative indicators are evaluated using outer weights, illustrating their contribution to forming the construct.
+The process of evaluating HOCs' measurement models using the embedded multistage approach begins with the execution of the first stage, wherein the saved LV scores are designated as indicators for the HOCs. Subsequently, the runs and corresponding tests of stage 2 are carried out as illustrated in Fig. 5. As presented in Fig. 6 which shows the redundancy analysis tests, the intensity of the path coefficients connecting the constructs to their respective global single-item measures is 0.848 for "Trust and Privacy Factor", 0.736 for "Interaction and System Factor", 0.853 for "Social and Contextual Factor", and 0.907 for "Perception Factor", resulting in 
+ values of 0.720, 0.542, 0.727, and 0.823, respectively. Consequently, convergent validity for these HOCs is established. Moving forward, examination of collinearity among the formative indicators is conducted through the VIF criterion, with results presented in Table 6. The VIF values remain below the threshold of five, indicating the absence of collinearity issues. Subsequently, the significance and relevance of the outer weights are analyzed. A bootstrapping procedure, conducted with 5000 samples and a significance level of 0.05, indicates the significance of all formative indicators, as reflected by the p-values presented in Table 7. Additionally, their outer loadings are reported alongside the results. Based on these findings, the formative HOCs demonstrate satisfactory quality levels, paving the way for the path model evaluation.
+Fig. 5
+Download: Download high-res image (416KB)
+Download: Download full-size image
+Fig. 5. Stage 2 runs using the LV scores.
+
+Fig. 6
+Download: Download high-res image (566KB)
+Download: Download full-size image
+Fig. 6. Redundancy analysis tests for convergent validity.
+
+Table 6. VIF measures.
+
+Indicator	VIF	Indicator	VIF
+LV_Accessibility	1.814 < 5	LV_Perceived Interactivity	1.938 < 5
+LV_Ethical Considerations	1.711 < 5	LV_Perceived Usefulness	2.402 < 5
+LV_Facilitating Conditions	1.961 < 5	LV_Privacy Concerns	1.954 < 5
+LV_Information Quality	1.865 < 5	LV_Social Influence	1.771 < 5
+LV_Perceived Ease of Use	1.328 < 5	LV_System Quality	1.267 < 5
+LV_Perceived Efficiency	2.220 < 5	LV_Trust in AI-Chatbots	1.954 < 5
+Table 7. Outer weights significance and relevance.
+
+Empty Cell	Original sample	Sample mean	P values	Outer weights
+LV_Privacy Concerns→Trust and Privacy_Factor	0.330	0.317	0.031	0.330
+LV_Trust in AI-Chatbots→Trust and Privacy_Factor	0.741	0.745	<0.001	0.742
+LV_Information Quality→Interaction and System Factor	0.640	0.632	<0.001	0.638
+LV_Perceived Interactivity→Interaction and System Factor	0.354	0.343	0.017	0.355
+LV_System Quality→Interaction and System Factor	0.165	0.167	0.042	0.165
+LV_Accessibility→Social and Contextual Factor	0.262	0.264	0.001	0.261
+LV_Ethical Considerations→Social and Contextual Factor	0.140	0.143	0.043	0.140
+LV_Facilitating Conditions→Social and Contextual Factor	0.475	0.479	<0.001	0.475
+LV_Social Influence→Social and Contextual Factor	0.533	0.524	<0.001	0.534
+LV_Perceived Ease of Use→Perception Factor	0.174	0.176	0.022	0.174
+LV_Perceived Efficiency→Perception Factor	0.396	0.387	<0.001	0.396
+LV_Perceived Usefulness→Perception Factor	0.749	0.753	<0.001	0.749
+6.2. Evaluation of the structural model
+After establishing the reliability and validity of the constructs, the next steps involve examining the structural model estimates. This assessment is crucial for understanding the predictive capabilities of the model and the relationships among its components. As with measurement models, a systematic approach is applied to evaluate path models as summarized in Fig. 7. First, collinearity issues are checked using VIF in order to ensure unbiased coefficients. Path coefficients are then estimated, with researchers commonly analyzing their statistical significance using p-values and bootstrap confidence intervals. The relevance of the significant relationships are investigated considering both direct and indirect effects. The predictive power of the model is evaluated using the coefficient of determination 
+, indicating the explained variance in endogenous variables by linked exogenous variables. Effect size 
+ quantifies the impact of excluding an exogenous variable reflected through the change in 
+. For interpreting effect size magnitudes, Hair Jr et al. (2021) provide thresholds of 0.02 (small), 0.15 (medium), and 0.35 (large), with values below 0.02 indicating no effect. The model's predictive relevance is evaluated through Stone-Geisser's 
+, obtained via the blindfolding procedure. Positive 
+ values support the predictive relevance of exogenous constructs for the considered endogenous variable. Finally, statistical significance of the hypothesized relationships is assessed using the bootstrapping method.
+Fig. 7
+Download: Download high-res image (494KB)
+Download: Download full-size image
+Fig. 7. Approach for path model evaluation.
+
+To start with, an analysis of potential collinearity issues in the predictor constructs of each subpart of the structural model is conducted using the VIF criterion. The obtained findings indicate the absence of collinearity issues in the path model. With this information, the assessment of other criteria can be undertaken. The examination of the 
+ values for the endogenous constructs aims to determine the extent of variability explained by the exogenous variables associated with them, as outlined in Table 8. In accordance with the guidelines established by (Hair Jr et al., 2021), the 
+ values for "Perceived Ease of Use" (0.356), “Perceived Efficiency” (0.393) and “Personalized Learning Experience” (0.452) are within the weak to moderate range, the corresponding values for "Perceived Usefulness" (0.579), “Learning Outcomes” (0.571) and “User Satisfaction” (0.604) fall within the moderate to high range, while the 
+ value for "Adoption of AI-Chatbots" (0.796) is deemed substantial. Table 8 also includes the effect size matrix and predictive relevance corresponding to the mentioned variables. Following the same guidelines for 
+ assessment, it is observed that the variables “Trust and Privacy Factor” and “Personalized Learning Experience” do not have effects on “Perceived Ease of Use” and “Adoption of AI-Chatbots”, respectively. The effects of the initial formative constructs, namely “Trust and Privacy Factor”, “Interaction and System Factor” and “Social and Contextual Factors” on the endogenous variables forming the “Perception Factor” range from small to medium effects. The effects of the variables “Perception Factor”, “User Satisfaction” and “Learning Outcomes” on their respective endogenous variables predominantly exhibit large effects. The 
+ values, all being strictly positive, confirm the endogenous constructs’ predictive relevance. Moreover, with values surpassing 0.35, the overall predictive relevance is notably strong. Lastly, Table 9 presents path coefficients along with corresponding p-values, indicating the significance of all hypothesized paths except H3 and H15.
+Table 8. Evaluation criteria of the structural model.
+
+Assessment criteria	Perceived Ease of Use	Perceived
+Usefulness	Perceived Efficiency	User
+Satisfaction	Learning
+Outcomes	Personalized
+Lear_Exp	Adoption of AI-Chatbots
+0.356	0.579	0.393	0.604	0.571	0.452	0.796
+ predict	0.361	0.550	0.355	0.462	0.452	0.415	0.479
+Effect size 
+Trust and Privacy Factor	0.007 (No effect)	0.048 (Small)	0.165 (Medium)	NA	NA	NA	NA
+Interaction and System Factor	0.194 (Medium)	0.160 (Medium)	0.183 (Medium)	NA	NA	NA	NA
+Social and Contextual Factor	0.054 (Small)	0.044 (Small)	0.059 (Small)	NA	NA	NA	NA
+Perception Factor	NA	NA	NA	0.542 (large)	0.491 (large)	0.302 (Medium)	0.840 (large)
+User Satisfaction	NA	NA	NA	NA	NA	NA	0.480 (large)
+Personalized Learning Exp	NA	NA	NA	NA	NA	NA	0.010 (No effect)
+Learning Outcomes	NA	NA	NA	NA	NA	NA	0.375 (large)
+Table 9. Path model significance.
+
+Empty Cell	Path coefficient	STDEV	P values
+H1: Trust and Privacy Factor → Perceived Efficiency	0.258	0.108	0.017
+H2: Trust and Privacy Factor → Perceived Usefulness	0.491	0.120	<0.001
+H3: Trust and Privacy Factor → Perceived Ease of Use	0.082	0.080	0.304
+H4: Interaction and System Factor → Perceived Ease of Use	0.613	0.116	<0.001
+H5: Interaction and System Factor → Perceived Efficiency	0.171	0.112	0.013
+H6: Interaction and System Factor → Perceived Usefulness	0.482	0.094	<0.001
+H7: Social and Contextual Factor → Perceived Ease of Use	0.301	0.103	0.003
+H8: Social and Contextual Factor → Perceived Efficiency	0.265	0.097	0.006
+H9: Social and Contextual Factor → Perceived Usefulness	0.255	0.091	0.005
+H10: Perception Factor → Adoption of AI-chatbots	0.653	0.103	<0.001
+H11: Perception Factor → Learning Outcomes	0.738	0.094	<0.001
+H12: Perception Factor → Personalized Learning Experience	0.276	0.067	<0.001
+H13: Perception Factor → User Satisfaction	0.744	0.072	<0.001
+H14: Learning Outcomes → Adoption of AI-chatbots	0.490	0.081	<0.001
+H15: Personalized Learning Experience → Adoption of AI-chatbots	0.030	0.077	0.702
+H15: User Satisfaction → Adoption of AI-chatbots	0.214	0.067	0.001
+6.3. Moderation analysis
+Moderation refers to a scenario where the association among two components is not constant but relies on a third variable, identified as a moderator. This third variable can alter the intensity or direction of the relationship between the two constructs within the model. These moderating relationships are anticipated and explicitly examined by the researcher (Hair Jr et al., 2021). While the model illustrated in Fig. 2, Fig. 4 includes only the moderating role of “Tech-Savviness”, “Role” and “Study_Field” for schematic simplicity, it is important to highlight that additional hypothesized moderating relationships related to the variables “Gender”, “Age”, “Education_Level” and “Institution_Type” are also investigated. It is also important to note that categorical variables need to undergo dummy coding for inclusion in the PLS path model. Additionally, the primary goal of the research is to assess both moderating effect and direct effect subject to moderation. In this situation, researchers are encouraged to examine the direct impact in a foundational model that lacks an interaction term and subsequently explore the comprehensive model, incorporating one moderator at a time (Becker, Cheah, et al., 2023).
+In PLS-SEM literature, three methods are discussed for constructing the interaction term which shows the joint impact of independent and moderating constructs on the outcome variable. Traditionally, the product indicator approach, involving cross-multiplying the indicators of the moderating variable with those of the independent construct, was common. However, recent research indicates its drawbacks related to statistical power and precision in parameters estimates (Becker et al., 2018). Instead, researchers are advised to use the two-stage approach which is adopted in this study. In this approach, scores derived from a model estimation that initially excludes the interaction term are utilized in the first stage. These scores then serve as the basis to calculate the interaction term during the second stage.
+The research investigated the moderating effect of the defined variables on the relationships between the "Perception Factor" variable and the outcome variables (i.e., "Learning Outcomes," "Personalized Learn-Exp," "User Satisfaction," and "Adoption of AI-chatbots"). When excluding the moderating effects, the 
+ values were 0.796 for "Adoption of AI-chatbots," 0.571 for "Learning Outcomes," 0.452 for "Personalized Learning Experience," and 0.604 for "User satisfaction". However, upon incorporating the interaction terms, the 
+ values increased to 0.882, 0.654, 0.568, and 0.623, respectively. This indicates an increase of 8.6%, 8.3%, 11.6%, and 1.9% in the explained variances of the respective dependent variables. Additionally, significance of the hypothesized moderating effects was examined, and the summary of the moderation analysis is provided in Table 10. The findings revealed significant moderating impacts for M2, M4, M6, M7, M8, M13, M16, and M18. Moreover, a slope analysis is included to gain a deeper understanding of the nature of these significant moderating effects. Only three interaction plots are depicted in Fig. 8, while the remaining plots can be found in Fi gure A.1 in the appendix.
+Table 10. Significance of moderating effects.
+
+Relationship	Coefficient	STDEV	P-value
+M1: Moderating effect (Role x Perception_Factor) → Adoption of AI- chatbots	−0.035	0.093	0.706
+M2: Moderating effect (Role x Perception Factor) → Learning Outcomes	0.294	0.110	0.007
+M3: Moderating effect (Role x Perception Factor) → Personalized Learn-Exp	0.117	0.103	0.257
+M4: Moderating effect (Role x Perception Factor) → User Satisfaction	0.322	0.112	0.004
+M5: Moderating effect (Tech savviness x Perception Factor) → Adoption of AI-chatbots	0.004	0.033	0.894
+M6: Moderating effect (Tech savviness x Perception_Factor) → Learning Outcomes	−0.218	0.043	<0.001
+M7: Moderating effect (Tech savviness x Perception Factor) → Personalized Learn-Exp	−0.232	0.041	<0.001
+M8: Moderating effect (Tech savviness x Perception Factor) → User Satisfaction	−0.252	0.042	<0.001
+M9: Moderating effect (Study Field x Perception Factor) →Adoption of AI-chatbots	−0.040	0.078	0.605
+M10: Moderating effect (Study Field x Perception Factor) → Learning Outcomes	0.136	0.117	0.243
+M11: Moderating effect (Study Field x Perception Factor) → Personalized Learn-Exp	0.205	0.128	0.168
+M12: Moderating effect (Study Field x Perception Factor) → User Satisfaction	0.210	0.131	0.108
+M13: Moderating effect (Gender x Perception Factor) → Adoption of AI-chatbots	0.233	0.111	0.036
+M14: Moderating effect (Gender x Perception Factor) → Learning Outcomes	−0.202	0.153	0.188
+M15: Moderating effect (Gender x Perception Factor) → Personalized Learn-Exp	0.064	0.135	0.633
+M16: Moderating effect (Gender x Perception Factor) → User Satisfaction	−0.346	0.148	0.019
+M17: Moderating effect (Age x Perception Factor) → Adoption of AI-chatbots	0.535	0.315	0.089
+M18: Moderating effect (Age x Perception Factor) → Learning Outcomes	0.600	0.295	0.042
+M19: Moderating effect (Age x Perception Factor) → Personalized Learn-Exp	0.268	0.200	0.181
+M20: Moderating effect (Age x Perception Factor) → User Satisfaction	0.236	0.231	0.308
+M21: Moderating effect (Education Level x Perception Factor) → Adoption of AI-chatbots	−0.223	0.224	0.320
+M22: Moderating effect (Education Level x Perception Factor) → Learning Outcomes	−0.036	0.282	0.899
+M23: Moderating effect (Education Level x Perception Factor) → Personalized Learn-Exp	0.121	0.202	0.550
+M24: Moderating effect (Education Level x Perception Factor) → User Satisfaction	0.191	0.285	0.512
+Fig. 8
+Download: Download high-res image (313KB)
+Download: Download full-size image
+Fig. 8. Slope analysis – Interaction plots.
+
+Given that the student role is coded as 1 and the educator role as 0, as illustrated in the initial interaction plot of Fig. 8, the student line exhibits a steeper slope. This suggests a more pronounced impact of the "Perception Factor" on "Learning Outcomes" for students compared to educators. In the second interaction plot, the line is markedly steeper for users with high "Tech-Savviness," indicating a stronger impact on “Learning Outcomes” at high levels of technological proficiency compared to lower levels. However, at lower levels of "Tech-Savviness," the increase in the "Perception Factor" does not lead to a similar change in "Learning Outcomes". Therefore, increased tech proficiency strengthens the impact of perception dimensions on learning outcomes elements. In the third plot, with the male category coded as 0 and female as 1, the female line is distinctly steeper, indicating a more substantial impact of the "Perception Factor" on the "Adoption of AI-Chatbots" for female users compared to males.
+6.4. Discussion and implications of the findings
+This research presents a thorough exploration into the perceptions of students and educators towards AI-based chatbots in higher education, revealing a multifaceted spectrum of acceptance, concerns, and expectations. The findings provide valuable insights into how various aspects related to these innovative technologies are perceived and the pivotal factors influencing their adoption. This section explores the broader implications of the results and offers interpretations of the main trends identified through the research.
+6.4.1. Positive perceptions and emerging concerns
+The research demonstrates a generally positive inclination towards AI-chatbots, emphasizing their potential to revolutionize educational experiences. Both educators and students acknowledge the efficiency, usefulness, and convenience offered by AI-chatbots. This aligns with prior research indicating the transformative role of AI in educational settings (Chan & Hu, 2023; Gill et al., 2024). The model's path coefficients explicitly support this inclination, with "Perceived Usefulness" and "Perceived Efficiency" showing strong positive effects on the adoption intention. These findings are consistent with constructivist learning theory, which emphasizes the importance of tools that enhance engagement and facilitate active learning. However, distinct concerns pertaining to aspects such as "trust and privacy", "interactivity", and "information quality" emerged as significant themes. For instance, these concerns are reflected in the model through the "Trust and Privacy" factor's significant influence on the "Perception Factor", highlighting the critical role of trust in shaping user acceptance. SDT supports this as trust and perceived competence are crucial for fostering intrinsic motivation and engagement.
+6.4.2. Model validation and educational implications
+Next, the validation of the developed model affirms its relevance and applicability in the context of higher education, particularly regarding the adoption of AI-based chatbots among students and educators. The meticulous analysis of data gathered from various respondents within this sector demonstrates the internal consistency, reliability, and validity of the variables under study. This validation process confirms the significance and relevance of the majority of the hypothesized relationships and emphasizes the strong predictive relevance of the model as established in Sections 6.1 Evaluation of the measurement models, 6.2 Evaluation of the structural model. These results indicate that the model serves as a robust framework for understanding and evaluating the factors shaping the perception of users and influencing the adoption and use of AI-chatbots in educational settings.
+Furthermore, the indicators identified and their corresponding weights provide valuable insights for educational administrators and policymakers in prioritizing initiatives related to AI-chatbot integration. For instance, substantial impact observed for factors such as "Perceived Usefulness" and "Perceived Efficiency" suggests that these should be focal points in efforts to enhance AI-chatbot adoption in education. Also, focusing on developing chatbots that are not only technologically advanced but also user-friendly, pedagogically relevant, accessible and available will likely encourage greater acceptance and usage among students and educators. Constructivist learning theory and cognitive load theory both support the importance of user-friendly and efficient tools in enhancing learning experiences and reducing cognitive load, thus improving overall learning outcomes. Moreover, the findings highlight the significance of trust and privacy aspects, ethical considerations, along with the system's quality and interactivity. The model clearly indicates that addressing these factors directly correlates with improved perceptions and adoption intentions. Therefore, these aspects are crucial towards ensuring a positive user's experience and in fostering a supportive environment for the integration of AI technologies in education. The right attention to these factors will be essential in aligning AI-chatbot capabilities with the evolving needs of modern education, thereby contributing significantly to the enhancement of teaching and learning processes, user satisfaction, and learning outcomes.
+6.4.3. Unexpected findings on personalized learning
+A surprising revelation from the model is that the personalized learning experience does not have a significant impact on technology adoption contrary to what might be expected. This finding prompts a deeper reflection on the current state and future trajectory of AI-chatbot integration in higher education. It appears that, at this stage, users are prioritizing the efficiency and usefulness of AI-chatbots over their capability to deliver personalized learning experiences. This could be attributed to the nascent stage of AI technology in education, where immediate practical benefits outweigh the perceived value of personalization. However, this does not diminish the potential importance of personalized learning experiences in the long run. As AI technology continues to evolve and mature, it is anticipated that personalization aspects will become increasingly significant in influencing adoption and acceptance. This insight aligns with SDT which suggests that personalized support can enhance students' sense of autonomy and competence over time, potentially increasing their engagement and satisfaction.
+6.4.4. Practical implications for implementation and research
+The findings of this study have a wide range of implications. For educational institutions, there is a clear indication of the need to balance technology integration with the preservation of human-centric educational experiences as emphasized by Rane (2023). While chatbots can enhance efficiency and provide personalized support, they should not replace the invaluable human elements of empathy, mentorship, and personal interaction in education. Furthermore, the concerns raised regarding data privacy and security necessitate the establishment of clear policies and practices. These measures should ensure the protection of sensitive information and maintain user's trust in the technology. Additionally, establishing guidelines for the ethical use of AI-chatbots are essential (Chauncey & McKenna, 2023). These guidelines should address potential biases and ensure that the technology is used to complement human interaction in the education process, in lieu of replacing it.
+For technology developers, the findings emphasize the need to focus on advanced NLP capabilities, ensuring that chatbots can accurately and effectively function in academic contexts. The user-centric design should be a priority, with chatbots designed to meet the diverse needs and preferences of distinct users. This involves considering the technical aspects of the chatbots and also their pedagogical relevance and adaptability to various learning environments. Furthermore, the model's insights regarding the role of certain variables like tech-savviness, user role and user gender in moderating certain relationships within the adoption model highlight the need for a tailored approach in implementing these technologies. Taking into account these differences among potential users is essential in the design and deployment of AI-chatbots to ensure they are accessible and beneficial to all user groups.
+Finally, the study reveals the need for ongoing research and development in the field of AI in education. As AI technology continues to evolve, so too must the understanding of its potential impacts, challenges, and ethical considerations in educational contexts. The predictive power of the model for critical outcomes such as “Learning Outcomes” and “User Satisfaction” emphasizes the potential of AI technologies to significantly impact educational experiences which warrants further investigation into their long-term effects and optimization strategies.
+7. Conclusion and future research directions
+The primary aim of this research was to explore how students and educators perceive AI-based chatbots in higher education, and to understand the factors driving their adoption. Employing a PLS-SEM approach, the study aimed to establish and validate a model that could explain the complex web of relationships influencing the use of these AI tools in academic settings. A rigorous methodology underpinned the research, beginning with an exhaustive literature review that informed the development of a foundational framework, a preliminary hierarchical model and a comprehensive questionnaire. This survey instrument, administered to a diverse group of participants within the higher education sector, facilitated the collection of rich data from 192 respondents. Advanced SEM techniques were then applied to analyze this data, leading to establishing the model's reliability and validity, assessing the significance of the hypothesized relationships, evaluating the path model, and investigating the potential moderating role of certain variables.
+The study's key findings depict a generally positive attitude towards AI-chatbots, emphasizing their potential in enhancing educational experiences. However, it also pinpointed critical concerns about trust and privacy, as well as the quality and reliability of information, which could impact their wider acceptance. Finally, one of the study's major contributions is the establishment of a detailed framework that deepens the understanding of the determinants of AI-chatbot adoption in educational contexts and also provides actionable guidance for educational leaders, policy-makers, and technology developers.
+This study paves the way for new pathways in this rich area of research. First, an important direction for future works is the undertaking of longitudinal research. Such studies would track changes in perceptions and adoption patterns of AI-chatbots over time and offer valuable insights into the long-term effects and sustainability of these technologies in educational environments. Another critical area of investigation is the impact of AI-chatbots on learning outcomes and student performance. This research could provide concrete evidence of the effectiveness of AI-chatbots as educational tools, highlighting their strengths and areas for improvement. Furthermore, the exploration of ethical concerns and privacy issues linked to the use of AI-chatbots in education remains a paramount area of study. Further research is recommended to explore these aspects, with the aim of establishing responsible usage guidelines and practices that protect users’ privacy while maximizing the benefits of AI technology. Lastly, identifying and analyzing the barriers to AI-chatbot adoption can highlight some of the challenges faced by users and institutions. Understanding these barriers is crucial in developing effective strategies towards facilitating wider acceptance and integration of AI technologies in higher education.
+Availability of data and materials
+Data and materials supporting the findings of this study are available from the corresponding author on reasonable request.
+Funding
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+Declarations of ethical approval
+The study was approved by the Institutional Review Board (IRB) of the American University of Sharjah (AUS) with Protocol ID: 24-023. Informed consent was obtained from all participants, and their privacy rights were strictly observed.
+CRediT authorship contribution statement
+Afef Saihi: Writing – review & editing, Writing – original draft, Visualization, Validation, Software, Resources, Project administration, Methodology, Investigation, Formal analysis, Data curation, Conceptualization. Mohamed Ben-Daya: Writing – review & editing, Supervision, Project administration, Investigation. Moncer Hariga: Writing – review & editing, Supervision, Project administration, Investigation. Rami As'ad: Writing – review & editing, Project administration.
+Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+Acknowledgements
+The authors sincerely thank the respondents to the survey for their contribution to the success of this research. The authors acknowledge the support of the American University of Sharjah under the Open Access Program. This paper represents the opinions of the authors and does not mean to represent the position or opinions of the American University of Sharjah.
+List of Acronyms
+AI
+Artificial Intelligence
+AIEd
+AI in Education
+AVE
+Average Variance Extracted
+CB-SEM
+Covariance-Based Structural Equation Modeling
+FLC
+Fornell-Larcker Criterion
+GPT
+Generative Pretrained Transformer
+HCM
+Higher Component Models
+HOC
+Higher-Order Component
+HTMT
+Heterotrait-Monotrait Ratio
+IRB
+Institutional Review Board
+LOC
+Lower-Order Construct
+LV
+Latent Variable
+NLP
+Natural Language Processing
+NPS
+Net Promoter Score
+PLS-SEM
+Partial Least Square Structural Equation Modeling
+SDT
+Self-Determination Theory
+SEM
+Structural Equation Modeling
+TAM
+Technology Acceptance Model
+UTAUT
+Unified Theory of Acceptance and Use of Technology
+VIF
+Variance Inflation Factor

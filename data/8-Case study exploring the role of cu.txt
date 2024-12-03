@@ -1,0 +1,308 @@
+Case study: exploring the role of current and potential usage of generative artificial intelligence tools in higher education
+
+Abstract
+This study evaluated the faculties, researchers and employees in higher education regarding their current usage of Artificial Intelligence (AI) tools by categories, AI tools forms, and pricing models. This study measured an individual's readiness to embrace new technologies using the Technology Readiness Index (TRI). The TRI assesses four dimensions of technology readiness: optimism, innovativeness, discomfort, and insecurity. A survey was distributed to gather the initial perception of employees in higher education on their use of intrusive technologies. The survey was taken by 46 people. This study found that most participants used AI tools out of curiosity and occasional necessity. The findings indicated that the majority preferred using the free options with the AI tools. These AI tools are used for creative activities and tasks like idea generation, coding, and presentations. The findings also indicated that the participants showed enthusiasm for responsible implementation in regards to integrating AI generative tools. © 2023 The Journal of Feminist Studies in Religion, Inc.
+
+Author keywords
+artificial intelligence; generative AI-tools; higher education; machine learning
+
+Introduction
+Artificial Intelligence (AI) is rapidly transforming various aspects of our daily lives. AI has the potential to
+change many fields ranging from healthcare and transportation to finance and education. The use of AI
+technology can bring about significant benefits and advancements. AI also raises concerns and challenges
+to current organizations and applications. Several previous studies discussed the ethical considerations of
+using AI generative tools (e.g., ChatGPT) in educational settings. University professors and educators are
+currently discussing how they can use AI tools to facilitate student learning and engagement in a responsible
+way. Several studies involving AI models have been emphasized on the importance of critically evaluating
+the information provided by ChatGPT (Baidoo-Anu & Owusu, 2023).
+The potential risks of over-reliance on AI models, such as the risk of perpetuating stereotypes or
+disinformation are increasing (Ore & Sposato, 2022). Several studies have focused on the importance of
+teaching students how to evaluate information from AI models critically (Ahmed et al., 2022). The majority
+of educators are not recommending the usage of ChatGPT to replace traditional teaching methods but rather
+should be another tool to help students learn the knowledge that is being shared in the lecture (Baidoo-Anu
+& Owusu, 2023). A responsible use of AI generative tools (e.g., ChatGPT) in education emphasizes the importance of teaching students how to critically evaluate the information provided by these tools (Kasneci
+et al., 2023).
+There are several applications of AI tools for different groups of college students, educators, and
+professionals. For college students, ChatGPT can be utilized for various tasks, such as research and writing
+assignments, paraphrasing, and summarizing texts, and generating creative writing prompts (Baidoo-Anu
+& Owusu, 2023). Similarly, educators can employ AI tools to create interactive quizzes, lesson plans, and
+educational materials. Professionals can also benefit from AI tools, as it can assist with tasks such as report
+writing, presentation creation, and summarization of large amounts of data. Furthermore, AI tools can be
+utilized for customer service and support purposes by generating automated responses to frequently asked
+questions (Mhlanga, 2023).
+This study assessed the faculties, researchers, and employees in Higher Education on their current usage of
+AI tools by categories, AI tools forms, and pricing models. In addition, this study measured an individual's
+readiness to embrace new technologies using a multiple-item scale developed by Parasuraman called the
+Technology Readiness Index (TRI). The TRI assesses four dimensions of technology readiness: optimism,
+innovativeness, discomfort, and insecurity.
+Literature Review
+AI tools have become an increasingly important part of our digital lives. They are designed to automate
+tasks, optimize processes, and enhance creativity. The use of AI tools in education is expanding in both
+applications and expanding the educational uses for students. Examples of generative AI use cases in
+education include generating questions for students differentiated for their current level of understanding
+and achievement; generating personalized learning plans for students based on their performance and their
+challenges/opportunities in learning; and creating engaging and interactive learning activities such as
+simulations of experiential learning or games to help students understand more complex concepts. It is clear
+that the use of AI tools has far outweighed the challenges, prompting further research such as this (Selwyn,
+2022).
+AI tools can be classified into various categories based on their functions and applications. From chatbots
+and virtual assistants to image recognition and speech-to-text software, AI tools have transformed the way
+we interact with technology. In this classification, we will explore the different categories of AI tools and
+their applications, providing insight into the diverse range of capabilities that AI technology offers. AI tools
+can be classified into various categories based on their functions and applications.
+AI tools categories
+● AI Detection: AI detection tools use machine learning algorithms to detect and identify various
+objects, people, or patterns within images, videos, or other forms of data.
+● Aggregators: Aggregators are AI tools that collect and curate data from multiple sources, such as
+news articles, social media posts, or customer reviews.
+● Avatar: Avatar tools use AI to create virtual representations of humans or other beings, often used
+for gaming, customer service, or entertainment purposes.
+
+● Chat: Chat AI tools use natural language processing algorithms to engage in conversation with
+users, providing customer support, answering questions, or offering recommendations.
+● Copywriting: Copywriting AI tools use natural language generation algorithms to create written
+content, such as blog posts, emails, or product descriptions.
+● Finance: AI finance tools use machine learning algorithms to analyze financial data and provide
+insights into market trends, investment opportunities, or risk management strategies.
+● For Fun: For fun AI tools are designed to entertain and engage users, often using generative art or
+music algorithms to create unique and interactive experiences.
+● Gaming: Gaming AI tools use machine learning algorithms to create more intelligent and dynamic
+gameplay, offering more challenging opponents or personalized experiences for players.
+● Generative Art: Generative art tools use machine learning algorithms to generate art based on
+certain input parameters, such as color schemes, shapes, or patterns.
+● Generative Code: Generative code tools use machine learning algorithms to generate code
+automatically, often used for software development or website design.
+● Generative Video: Generative video tools use machine learning algorithms to generate unique
+video content based on certain input parameters, such as style, theme, or mood.
+● Image Improvement: Image improvement AI tools use machine learning algorithms to enhance
+or edit digital images, such as removing noise, improving contrast, or adding filters.
+● Image Scanning: Image scanning AI tools use machine learning algorithms to scan and recognize
+text or objects within images, often used for data analysis or document processing.
+● Inspiration: Inspiration AI tools use machine learning algorithms to generate ideas or inspiration
+based on certain input parameters, such as mood, topic, or style.
+● Marketing: AI marketing tools use machine learning algorithms to analyze customer behavior and
+preferences, often used for personalized marketing campaigns or targeted advertising.
+● Motion Capture: Motion capture AI tools use machine learning algorithms to capture and analyze
+human movement, often used for animation, gaming, or sports training.
+● Music: AI music tools use machine learning algorithms to generate or modify music based on
+certain input parameters, such as genre, style, or tempo.
+● Podcasting: AI podcasting tools use natural language processing algorithms to transcribe or
+summarize audio content, making it more accessible and searchable.
+● Productivity: AI productivity tools use machine learning algorithms to automate repetitive or timeconsuming tasks, such as scheduling, data entry, or email management.
+ Prompt Guides: Prompt guide AI tools use machine learning algorithms to provide suggestions or
+prompts for creative or critical thinking, often used for writing, and brainstorming.
+● Research: AI research tools use machine learning algorithms to analyze and process large amounts
+of data, often used for scientific research, social analysis, or market research.
+● Self-Improvement: AI self-improvement tools use machine learning algorithms to provide
+personalized coaching or advice, often used for personal development or mental health.
+● Social Media: AI social media tools use machine learning algorithms to analyze and optimize
+social media campaigns, often used for influencer marketing, customer engagement, or branding.
+● Text-To-Speech: Text-to-speech AI tools use natural language generation algorithms to convert
+text into spoken words, often used for voice assistants, audiobooks, or accessibility features
+● Text-To-Video: Text-to-video AI tools use machine learning algorithms to generate video content
+from written text, often used for creating explainer videos, tutorials, or marketing campaigns.
+● Translation: Translation AI tools use machine learning algorithms to translate written or spoken
+words from one language to another, often used for communication, localization, or marketing.
+● Video Editing: Video editing AI tools use machine learning algorithms to automate or enhance
+various aspects of video editing, such as color correction, sound editing, or visual effects.
+● Voice Modulation: Voice modulation AI tools use machine learning algorithms to modify or
+manipulate the tone, pitch, or accent of spoken words, often used for voice-over podcasting.
+AI tools forms and pricing models
+There are many AI tools that have been developed and serve different purposes. From enhancing
+productivity and improving creativity to optimizing marketing campaigns and automating tedious tasks, AI
+tools have the potential to transform various industries and revolutionize our daily lives. AI tools come in
+various forms and pricing models, ranging from free and open-source to paid and feature-rich. These tools
+are designed to automate tasks, optimize processes, enhance creativity, and their popularity has grown
+rapidly in recent years. AI tools can be used across a range of industries, from marketing and finance to
+healthcare and education, providing solutions to complex problems and streamlining workflows.
+This study explored the different forms and pricing models of AI tools, providing insight into the diverse
+range of capabilities that AI technology offers, and the different ways in which they can be accessed and
+used. AI tools come in different forms and pricing models, ranging from free to paid. Users can choose the
+model that best fits their needs and budget, whether they are looking for basic AI capabilities or advanced
+machine learning models. Below is a classification of AI tools based on their pricing model:
+● Free: These are AI tools that can be accessed and used without any cost. Some examples of free
+AI tools include TensorFlow, Keras, Scikit-learn, and PyTorch. These tools are often communitydriven and open-source, meaning that they are developed and maintained by volunteers who
+contribute their time and expertise to the project.
+
+● Freemium: These are AI tools that offer basic features for free but require payment for advanced
+features. Some examples of freemium AI tools include Hootsuite, Grammarly, and Canva. These
+tools offer a limited version of their product for free, but users must pay to unlock additional
+features or capabilities.
+● GitHub: GitHub is a web-based platform that provides version control and collaborative features
+for software development. It is also a repository of open-source code, including many AI tools.
+Users can access these tools and contribute to their development for free, but they may require
+additional resources or setup.
+● Google Colab: Google Colab is a free web-based notebook platform that allows users to write
+and run code, including AI models, in a cloud environment. It provides free access to GPUs and
+TPUs for faster computation and is often used for machine learning research and education.
+● Open Source: Open-source AI tools are those that are freely available for use, modification, and
+distribution. These tools are often community-driven and rely on volunteers to contribute to their
+development and maintenance. Examples of open-source AI tools include Apache Hadoop,
+Apache Spark, and Scikit-learn.
+● Paid: These are AI tools that require payment to access and use. Examples of paid AI tools
+include IBM Watson, Microsoft Azure AI, and Amazon SageMaker. These tools often provide
+more advanced features, support, and resources for users who are willing to pay for their services.
+Research Methodology
+Research Question
+The main goal of the study was to gather the initial perception of faculties, researchers, and employees in
+Higher Education on the use of intrusive technologies such as Artificial Intelligence applications in their
+educational activities.
+Questionnaire Development
+For this study, to better understand how individuals perceive and use AI, a survey instrument was created
+that asked participants about their experience and opinion on AI technology tools. The questionnaire
+contained three sections, demographics, AI-tools use section and Technology Readiness sections. The first
+section gathered information on age, gender, area of expertise, and area of research. The second section
+contained questions extrapolated from Owens (2023) studies on use and perceptions toward artificial
+intelligence. The third section contained questions from the TRI instrument (Parasuraman, 2000;
+Parasuraman & Colby, 2015).
+TRI is a multiple-item scale developed by Parasuraman in 2000 that measures an individual's or
+organization's readiness to embrace new technologies. The TRI assesses four dimensions of technology
+readiness: optimism, innovativeness, discomfort, and insecurity. The scale was developed to provide insight
+into how individuals and organizations perceive and approach new technologies, and to identify potential
+barriers to technology adoption and usage. The TRI has become a widely used tool for researchers and
+practitioners in a variety of industries. The TRI can provide valuable insights into the factors that influence
+technology adoption and usage by measuring an individual's or organization's levels of optimism, innovativeness, discomfort, and insecurity. The scale has been used to assess technology readiness in
+healthcare, education, marketing, finance, and other industries.
+The importance of technology readiness has become increasingly apparent as new technologies emerge and
+become integrated into our daily lives. Understanding an individual's or organization's technology readiness
+can help identify potential barriers to technology adoption and inform strategies for promoting technology
+usage. The TRI is a valuable tool for anyone interested in understanding and promoting technology adoption
+and usage (Parasuraman & Colby, 2015).
+A full 16 item scale was used for this study that focused primarily on TRI 2.0 (Parasuraman & Colby,
+2015). This scale provided measures on four TRI dimensions: optimism, innovativeness, discomfort, and
+insecurity. These questions are also copyrighted by A. Parasuraman and Rockbridge Associates, Inc., 2014.
+This scale may be duplicated only with written permission from the authors. Written permission was
+obtained for the use of the TRI instrument in March 2023.
+Questionnaire Distribution and Data Collection Methodology
+The questionnaire was distributed to people working in the Higher Education field from January 2023 to
+May 2023 through email, Slack channels, and LinkedIn. The survey was exported into a Qualtrics software
+tool and then distributed online to a random set of faculties, researchers, IT professionals, and employees
+in Higher Education. The data was exported in an excel spreadsheet and analyzed. The data from the TRI
+section was sent for additional analysis to Rockbridge Associates.
+Results
+The questionnaire was taken by 46 people (n=46). For the third part of the survey, 3 answers were removed
+due to partial completion and 43 answers were used (n=43) for the examination of the TRI index. The
+demographics of this study is displayed in Figure 1. The participants were predominantly male (67%) as
+compared to female (33%). The majority of participants fell within the age range of 30-49 years old, with
+28% in 30-39 and 20% in 40-49 age groups. Participants in the 20-29 age range accounted for 20% of the
+total, followed by 17% in the 50-59, 11% in the 60 and over, and 4% under 20 years old.
+Figure 1. Demographics of the participants by Gender and Age As shown on Figure 2, 41% of the participants were IT professionals, 22% worked in faculty positions,
+11% in higher education, 11% were researchers, and 15% held various other positions. As for educational
+qualifications, 46% of the participants held a Master's degree, 28% had a Doctoral degree, 20% held a
+Bachelor's degree, and 6% held other degrees.
+Figure 2. Demographics of the participants by Educational Level and Position
+As displayed in Figure 3, the majority of participants reported using AI tools for chat, research, and
+entertainment, with text-to-speech and speech-to-text as secondary uses. Other significant applications
+included gaming, increasing productivity, and generating code. Notably, a sizable portion of participants
+reported using AI tools for creative purposes such as image and video creation, music composition, and
+inspiration. In contrast, AI tools were less frequently used for financial advising, avatar creation, selfimprovement, and copywriting. Only minimal usage was reported for podcasting, translation, video editing,
+generative art, motion capture, prompt guides, text-to-video, and voice modulation. A few participants
+reported exploring AI detection, aggregations, and generative video, and none for marketing.
+Figure 3. Area of use of AI tools 
+As shown on Figure 4, the majority of participants expressed that their usage of AI tools is driven by
+curiosity (31%) and occasional need (30%). A smaller portion mentioned using AI tools once a week (17%)
+or every day (9%). Interestingly, only 13% of participants reported not using any generative AI tools.
+Additionally, a significant majority of the participants (76%) preferred free tools and freemium (4%),
+followed by open-source options (9%), and applications on GitHub (7%). Only 4% reported a preference
+for paid options.
+Figure 4. Frequency of use and Preferred AI tools
+Figure 5 displays the primary use of AI tools among individuals in Higher Education. The majority of
+respondents used AI tools for creative activities unrelated to their research, as well as for brainstorming
+ideas, writing code, and preparing presentations. A smaller number of respondents used AI tools for creating
+graphics, developing scientific search engines, writing coursework or exams, conducting literature reviews,
+and researching manuscripts. Interestingly, none of the respondents reported using AI tools for writing grant
+applications.
+Figure 5. Purpose of AI tools usage
+Additional comments
+An open-ended question was included in the survey to gather additional comments about AI usage. One
+participant mentioned that AI tools were helpful in reducing the workload of data analytics developers,
+allowing them to focus on fixing errors in SQL code. Other concerns were expressed, such as the potential
+for biased or negative use of AI and the possibility of creating knowledge gaps between those who know
+how to use it and those who do not know how to use the AI tool. Some participants viewed AI tools as a
+double-edged sword that can have both positive and negative impacts, depending on how it is used and
+regulated in the future.
+Technology Readiness Index
+The Technology Readiness Segmentation is an important tool for marketers and researchers. Businesses
+can tailor their marketing efforts to specific groups, while researchers can gain a deeper understanding of
+their subjects by understanding the different segments of technology users. Rockbridge and Parasuraman's
+recent research introduced a comprehensive segmentation typology that encompasses various belief
+combinations (Parasuraman, 2000; Parasuraman & Colby, 2015). This segmentation framework allows for
+a tailored marketing approach when promoting cutting-edge products or services. Additionally, it provides
+researchers with a powerful tool for effectively describing their research subjects.
+The segmentation consists of distinct segments, namely the technology-driven "Explorers," the highly
+engaged "Pioneers," the indifferent "Skeptics," the cautious "Hesitators," and the technology-resistant
+"Avoiders." These segments offer valuable insights into different attitudes and behaviors towards
+technology adoption. In this study, a survey comprising 16 questions of the TRI was used to segment
+participants into those five distinct groups.
+The results of this analysis are summarized in Table 1. The general profile of mature consumer segments
+presented in Table 1 (first row), compared to the norm value provided by Rockbridge and Parasuraman
+(second row), along with further analysis and profile of these segments in terms of Technology Readiness
+(TR) dimensions. By examining the mean scores on each dimension for each segment, this study identified
+distinct patterns that described the unique beliefs held by each segment. This provided a deeper
+understanding of how these segments differ from one another in terms of their technology readiness.
+Table 1. Differing beliefs of technology adoption segments
+The results of the study showed that Explorers (42%) and Pioneers (21%) were the most highly engaged
+with technology, with strong beliefs in its benefits and a willingness to adopt new technologies quickly.
+Skeptics (23%), on the other hand, had high optimism and innovativeness but more moderate beliefs and
+were less likely to be early adopters. Hesitators (12%) were more cautious in their approach to technology,
+with a tendency to wait for others to adopt new technologies before doing so themselves. Avoiders (2%)
+were the least engaged with technology, with strong beliefs in its risks and a preference for traditional
+methods.
+Findings
+TRI is multifaceted. There are two dimensions for Drivers/motivators (Optimism and Innovativeness) and
+two for Inhibitors (Discomfort and Insecurity). Optimism refers to a general belief that technology and
+innovation bring forth positive benefits. Innovativeness, on the other hand, represents an innate inclination
+to explore, learn, and discuss technology. However, there are also inhibitors that can hinder technology
+adoption. Discomfort arises from a perceived lack of control over technology, while insecurity stems from
+the belief that technology can have negative consequences for users and society.
+The data analysis showed that the Explorers (42%) were above the norm value provided by the Rockbridge
+and Parasuraman (24.2%). The explorers have high optimism and innovativeness and low discomfort and
+insecurity. The Skeptics (23%) were also lower than the norm value provided by Rockbridge and
+Parasuraman (29.3%) with high optimism and innovativeness and low discomfort and moderate insecurity.
+The Pioneers (21%) were slightly above the norm value (18.3%) with high optimism and innovativeness
+and low discomfort and moderate insecurity. This study indicated that the Hesitators (12%) were lower than
+the norm with high optimism and innovativeness, low discomfort, and high insecurity. The Avoiders (2%)
+were lower than the suggested normal values (13.4%) with low optimism, innovativeness, discomfort, and
+insecurity. As expected, the results indicated that individuals from Higher Education were more eager to
+engage in researching and testing new technology. The medium level of insecurity shown in Table 1
+suggested that exploration into this area should be addressed carefully.
+Discussion
+The study showed an enthusiasm about the use of AI tools among people from Higher Education. However,
+educators that are incorporating AI generative tools (e.g., ChatGPT) into their teaching practice should
+undertake a responsible approach. Yang (2023) emphasized on the importance of responsible usage,
+ensuring that students are aware of the AI's limitations while understanding that it is a tool, and not a
+replacement for human interaction. AI tools could be used as a supplement to classroom discussions,
+allowing students to engage in conversations and explore different perspectives. The educators should
+maintain an active role in guiding and moderating the AI-generated responses, promoting critical thinking
+and analysis among students. Additionally, an ethical consideration surrounding the use of AI in education
+should examine the significance of fostering an inclusive and collaborative learning environment.
+Several practical tips were suggested by Yang (2023) when regarding the implementation of generative
+AI tools such as ChatGPT in the classroom that can increase productivity:
+● Familiarizing with the use of ChatGPT by dedicating time to learn and practice entering prompts
+effectively.
+● Enhancing assessment methods by incorporating oral presentations, which not only promote
+originality but also mitigate the risk of plagiarism.
+
+● Remaining mindful of the potential impact of ChatGPT on exacerbating inequality and actively
+engage in decolonizing a curriculum to foster inclusivity.
+● Establishing clear goals for implementing ChatGPT, ensuring a solid understanding of the
+outcomes one seek to achieve.
+● Experimenting with different prompts, testing them with ChatGPT, and iteratively refining them
+based on the results until attaining the desired outcomes.
+● Collaborating with fellow educators and students to co-edit and improve prompts, leveraging
+diverse perspectives for comprehensive refinement.
+Limitations
+This study had certain limitations that should be acknowledged. A limitation existed in regard to the data
+collection being limited to individuals in the Higher Education sector, potentially resulting in different
+outcomes if data had been collected from diverse occupations. Another limitation was that this study had a
+relatively small sample size, albeit randomized, and anonymized. Conducting a future study with a larger
+and more diverse group could provide further insights and validate the consistency of the findings.
+Conclusion
+This study revealed that the majority of participants' primary use of AI tools was out of curiosity and
+occasional necessity and showing a preference for free options over paid alternatives. These tools were
+commonly employed for creative pursuits independent of research, as well as for activities such as idea
+generation, coding, and presentation preparation. Notably, individuals in Higher Education exhibited
+significant enthusiasm towards harnessing the potential of AI generative tools, with indications of readiness
+to integrate them into their classrooms. However, the study emphasized the crucial need for responsible and
+meticulous implementation of such tools, highlighting the importance of careful consideration and
+conscientious approaches.

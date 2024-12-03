@@ -1,0 +1,416 @@
+Drivers of generative AI adoption in higher education through the lens of the Theory of Planned Behaviour
+
+Abstract
+Drawing on the Theory of Planned Behaviour (TPB), this study investigates the relationship between the perceived benefits, strengths, weaknesses, and risks of generative AI (GenAI) tools and the fundamental factors of the TPB model (i.e., attitude, subjective norms, and perceived behavioural control). The study also investigates the structural association between the TPB variables and intention to use GenAI tools, and how the latter might affect the actual usage of GenAI tools in higher education. The paper adopts a quantitative approach, relying on an anonymous self-administered online questionnaire to gather primary data from 130 lecturers and 168 students in higher education institutions (HEIs) in several countries, and PLS-SEM for data analysis. The results indicate that although lecturers' and students' perceptions of the risks and weaknesses of GenAI tools differ, the perceived strengths and advantages of GenAI technologies have a significant and positive impact on their attitudes, subjective norms, and perceived behavioural control. The TPB core variables positively and significantly impact lecturers' and students’ intentions to use GenAI tools, which in turn significantly and positively impact their adoption of such tools. This paper advances theory by outlining the factors shaping the adoption of GenAI technologies in HEIs. It provides stakeholders with a variety of managerial and policy implications for how to formulate suitable rules and regulations to utilise the advantages of these tools while mitigating the impacts of their disadvantages. Limitations and future research opportunities are also outlined.
+
+Keywords
+Generative AITheory of planned behaviourHigher education
+
+Introduction
+The revolution in the service industry, including the educational sector, began when technology rapidly advanced in terms of intelligence and power while becoming more compact, lightweight, and affordable. This covers both hardware like smart self-service technologies and software and systems like machine learning (ML) and generative artificial intelligence (GenAI) tools [1]. GenAI is a term used to describe a class of AI models producing ostensibly novel output such as text, images, video, music, or other types of media. While GenAI approaches have been available for a while, the launch of ChatGPT sparked a flood of discussions in the media, online forums, and academic communities [[2], [3], [4], [5], [6], [7], [8]]. As a result, researchers and practitioners are becoming increasingly interested in the implications of GenAI applications, especially those based on Large Language Models (LLMs), on human learning, knowledge generation, and the nature of employment in the coming years [4]. Ivanov and Soliman [9] indicated that, in the long run, LLM-based chatbots would revolutionise research and education. If adopted successfully, they could be used as online instructors, curriculum developers, markers, and contributors to scholarly publications. LLMs would also be essential in rethinking education from “teacher-student” interactions to “teacher-AI-student” co-creation [9], shifting the emphasis of lecturers to developing novel tasks and activities with GenAI applications. This justifies the growing number of recent publications about the advantages and drawbacks of using GenAI technologies, such as ChatGPT, in research and education (e.g., Ref. [[9], [10], [11], [12]]).
+Considering the substantial opportunities for using GenAI, there is a crucial need to shift academic focus from lamenting the collapse of education and research to considering how students and researchers will and should use such tools [7]. According to Megahed et al. [13], the potential of GenAI models to provide code, explain fundamental concepts, and generate knowledge might revolutionise statistical process control practice, teaching, and research. These technologies, however, are still in the early phases of deployment and are susceptible to misuse and misunderstanding. Therefore, a thorough empirical analysis is needed to provide an in-depth overview and comprehension of the potential of using such applications for educational and research purposes. Prior studies provided valuable insights into the use of GenAI tools in different settings including the educational and research context through the lenses of different theories (e.g., Ref. [9,12,[14], [15], [16]]). For instance, using the Unified Theory of Acceptance and Use of Technology (UTAUT), Strzelecki and ElArabawy [17] demonstrated how social influence, effort expectancy, and performance expectancy have a major impact on behavioural intention. The actual ChatGPT-using behaviour of Egyptian and Polish university students was influenced by behavioural intention when considered along with facilitating conditions. Jaboob et al. [18] investigated how university students' cognitive achievement was affected by GenAI tools and applications in three Arab nations: Yemen, Jordan, and Oman. The findings showed that the cognitive achievement of students at Arab HEIs was positively and significantly impacted by GenAI approaches and applications. Additionally, the results demonstrated that student behaviour improved the association between GenAI tools and cognitive achievement. Drawing on the UTAUT2 model and the Technology Readiness Index, Wang and Zhang's [19] study assessed the elements and personal traits that motivated Generation Z to adopt GenAI-assisted design and found that the intention to use GenAI was positively influenced by effort expectancy, price value, and hedonic motivation. Performance expectancy, effort expectancy, price value, and hedonic motivation were all strongly influenced by optimism and innovativeness. Optimism and the intention to use GenAI were significantly influenced by trait curiosity. Despite these studies, there is insufficient research investigating how the positive and negative aspects of generative AI tools can effectively predict the core constructs of the Theory of Planned Behaviour (TPB), such as attitudes, perceived behavioural control, subjective norms, and behavioural intentions. Consequently, the current article addresses this research gap by extending the TPB model to the context of generative AI.
+The present study seeks to unveil the key drivers of GenAI adoption in higher education. More specifically, this paper aims to (1) examine the impact of strengths, benefits, weaknesses, and risks of using GenAI on attitudes, subjective norms, and perceived behaviour control (PBC) of students and lecturers; (2) investigate the impact of attitudes, subjective norms, and PBC of students and lecturers on their intention to use GenAI applications; and (3) test the connection between students and lecturers’ intention and their actual usage of GenAI applications in their study and/or research.
+In doing so, this paper explores both the advantages and disadvantages that using GenAI technologies in research and educational settings may bring about. As a result, concerned stakeholders (e.g., senior management and educators at higher education institutions) may design better guidelines and policies to utilise the advantages of GenAI tools while minimising any potential negatives by developing a thorough grasp of the implications and potential difficulties of incorporating them in research and education. Additionally, this research aids in improving the understanding of human behaviour particularly in relation to human-computer interaction, making it easier to create interventions and regulations that are more specifically focused on encouraging desired behavioural outcomes in education and research.
+This paper is organised as follows. The next section provides the literature review and develops the hypotheses, while the third elaborates on the methodology. The fourth section presents the results, the fifth section discusses the theoretical and managerial implications, and the last section identifies research limitations and future research directions.
+2. Literature review and hypotheses development
+2.1. Theory of planned behaviour
+The Theory of Planned Behaviour, first put forward by Ajzen in the late 1980s [20,21], offers a useful lens through which to explore the dynamics underlying human behaviour in the context of teaching and learning, both in general and in the context of technology-use as part of education and research [22,23]. Generally, TPB posits that behaviour is shaped by attitudes, subjective norms, and perceived behavioural control, which collectively influence the formation of behavioural intentions and subsequent actions [24]. Central to the TPB is the construct of attitudes, which captures evaluative judgments of various behaviours. In the context of teaching and learning, positive attitudes, rooted in a favourable perception of the outcomes associated with teaching and learning activities, according to TPB drive the development of intentions and consequent instructional engagement. The subjective norm examines the influence of societal and peer expectations on behavioural intention and actual behaviour [25]. The perceived approval or disapproval of fellow students, colleagues, administrators, and the broader community around higher education acts as a potent motivational factor, steering teachers and learners towards alignment with perceived educational norms.
+TPB also introduces the notion of perceived behavioural control, which in the context of teaching and learning refers to encompassing beliefs in an ability to effectively execute instructional strategies. Greater perceived control is anticipated to bolster both the intention to engage in specific teaching practices and the subsequent translation of intentions into actual classroom actions [22]. These intertwined components collectively contribute to the shaping of behavioural intentions, which serve as crucial antecedents to actual behaviours.
+TPB's versatility finds resonance within the context of teaching and learning, as underscored by its widespread adoption in educational research to study, e.g., the usefulness of massive open online courses [26] or mobile learning [27]. Its applications have spanned diverse facets of pedagogy, ranging from the integration of innovative teaching technologies to the adoption of student-centred educational approaches such as peer learning [28]. In educational psychology, TPB has been used to investigate instructors' adoption of evidence-based teaching practices, assessment strategies, and classroom management techniques [22].
+By dissecting the connections between attitudes, subjective norms, and perceived control, TPB offers a framework for understanding educational decision-making. Its application underscores its potential not only in explicating teachers' and students’ behaviours but also in guiding efforts to design targeted interventions, e.g., the use of generative AI as part of teaching and learning.
+2.2. Generative AI in teaching and learning
+GenAI has emerged as a transformative technology with multifaceted implications for education [2,4]. Within the domain of teaching and learning, GenAI has garnered increasing attention due to its potential to reshape pedagogical approaches and learning experiences in a myriad of fields, e.g., social sciences, mathematics, and engineering [9,29,30]. To address the generative AI elephant in the classroom, both individual educational institutions as well as multinational education organisations such as UNESCO have joined the discussion on how GenAI should best be used in teaching and learning [31,32]. Most educators and researchers seem to conclude that the advent of GenAI presents a double-edged sword, whereby on one hand, the integration of GenAI in education offers a range of potential benefits both for the teacher and the learner, but on the other hand, it also brings forward new challenges and potential for misuse [15,16].
+In terms of benefits, Dwivedi et al. [4] highlighted that personalised learning experiences, a cornerstone of contemporary educational philosophy, might be significantly enhanced through the capabilities of generative AI. The technology enables the creation of ultra-tailored learning materials, assessments, and feedback mechanisms, thereby catering to individual student's contextual needs, special requirements and learning preferences. This personalisation and the 24/7 availability of a private tutor may foster greater engagement and a deeper understanding of the subject matter [10]. However, some students might find AI tutors easier to accept than others, while the data on which the AI has been trained to personalise learning material should also be under open scrutiny to improve what Walmsley [33] calls ‘functional transparency’.
+For the educator, generative AI presents opportunities to streamline and optimise instructional material development [10]. Educators often invest substantial time and effort in crafting learning resources such as quizzes, tutorials, reading lists and study guides. Generative AI can alleviate this burden by automating the generation of such materials, allowing educators to allocate more time to direct interactions with students [29]. This efficiency in content creation holds the potential to expedite the educational process while maintaining the quality of instruction, whereby the role of researcher/educator might start to move from creator to curator of knowledge, analogous to a shift from being an author to being an editor of a scientific publication [34].
+As an example of the benefits of GenAI-based personalised learning, language learning, a complex cognitive endeavour, can benefit from generative AI's capacity to simulate real-world language interactions (e.g., interactive chat). Language learners often struggle to find opportunities for immersive language practice. Generative AI, particularly text-generative large language models such as GPT-4 or LLAMA2, can bridge this gap by generating lifelike conversational scenarios, providing learners with a dynamically adaptive and personalised platform to refine their linguistic skills in authentic contexts [16]. This immersive language practice – effectively a novel form of human-AI role play [35] – may contribute to enhanced proficiency and confidence in communication [36].
+Besides personalised educational experiences and text-editing skills (e.g., grammar check, proofreading, making arguments more concise, iterative reasoning), GenAI tools (e.g. text-to-image, text-to-video, audio-to-animation) offer opportunities for new types of creative expression within educational contexts, whereby students' creative endeavours can be catalysed by AI-powered tools that assist in generating novel and imaginative content [37]. This augmentation of creative capabilities not only broadens the horizons of education but may also contribute to the development of problem-solving and critical thinking skills, provided that educators possess the necessary skills to proactively and confidently introduce new learning technologies to the classroom [10].
+Despite many potential benefits, the integration of GenAI in higher education is not without its challenges and ethical considerations. For example, bias in AI-generated content is of paramount concern, whereby AI models can perpetuate biases present in their training dataset, potentially reinforcing stereotypes and marginalising certain demographic groups [4]. Safeguarding against bias and ensuring fairness in AI-generated educational content demands scrutiny and mitigation strategies. It also requires robust approaches to selecting and acquiring training data, whereby the efficacy of large language models is highly dependent on the availability of high-quality and balanced datasets for model training. As the output of a GenAI system is a direct result of its training, there is a pressing need for frameworks for auditing the training process and training data [38] to develop trustworthy AI systems [39].
+The question of authenticity and originality, part of a broader discourse on intellectual property law about AI-generated content, requires addressing [37]. Who should own rights to AI-generated content? Who is responsible for AI-hallucinated content [40]? Under what conditions user-generated data can and cannot be used for the subsequent training of new GenAI models? These questions are yet to receive a definitive answer. In the context of higher education, one of the primary concerns is the advent of new types of plagiarism and academic integrity [16]. Striking a balance between AI assistance and the cultivation of students' independent critical thinking skills, motivation and learning effort is a complex matter that requires nuanced approaches and pedagogical innovation. Moreover, the pedagogical efficacy of GenAI tools also warrants thorough evaluation. While the technology holds promise in enhancing learning experiences, its alignment with established pedagogical principles must be rigorously examined [36]. Educators play an important role in determining the appropriate contexts for the implementation of AI-generated content and in ensuring that such content effectively contributes to educational objectives [10], as defined in learning outcomes (micro-level) and curricula (macro-level). The tendency for LLMs to hallucinate [40] also requires educators and learners to develop skills related to critical thinking, media criticism and fact-checking.
+GenAI's integration into teaching and learning represents a significant advancement with potential benefits that span from personalised learning experiences to streamlined content creation and creative augmentation [4,9]. However, these potential advantages are accompanied by challenges related most notably to data protection, bias, representativeness and auditability of training data and training process, the authenticity of AI-generated content vis-à-vis new forms of plagiarism, and the pedagogical alignment of teacher-AI-student interactions, e.g. placing a greater emphasis on critically interrogating the model output [16]. GenAI applications may provide wrong information and invent facts, and the overreliance on AI applications to curate content over creating it may lead to the deskilling of students [41]. As educational institutions and stakeholders navigate the incorporation of GenAI, a judicious and ethically informed approach is imperative [15,32].
+2.3. Hypothesis development
+The extant literature indicates that GenAI offers various pedagogical benefits, including but not limited to personalised learning experiences and efficient content creation [4,29]. These perceived advantages are hypothesised to positively shape educators' attitudes toward the adoption of GenAI technologies, as positive attitudes are frequently grounded in favourable perceptions of outcomes [20,24]. Concurrently, the perceived strengths of GenAI are likely to influence subjective norms by aligning with societal and institutional expectations for innovative teaching methods, thereby serving as a motivational factor for adoption [25,26]. Furthermore, the efficiencies gained through GenAI are anticipated to bolster perceived control over instructional and learning strategies, aligning with TPB's emphasis on the role of perceived behavioural control in intention formation and eventual behaviour [22]. Therefore, the following hypotheses are put forward.
+H1a
+
+Perceived strengths of generative AI have a positive effect on attitude towards using generative AI.
+H1b
+
+Perceived strengths of generative AI have a positive effect on subjective norms.
+H1c
+
+Perceived strengths of generative AI have a positive effect on perceived behavioural control.
+Existing research identifies a myriad of potential benefits of GenAI, such as personalised learning experiences and streamlined instructional material development [9,29]. According to TPB, these perceived benefits are posited to positively influence attitudes towards GenAI, as attitudes are commonly linked to an individual's favourable or unfavourable evaluations of behavioural outcomes [24]. Similarly, if GenAI's benefits align with broader educational or societal expectations, they are likely to positively affect subjective norms, thereby serving as a motivational driver for technology adoption [25]. Lastly, the anticipated benefits of GenAI, such as the automation of labour-intensive tasks, could enhance perceived behavioural control by bolstering beliefs in the ability to successfully implement this technology in educational settings [22]. Based on this, we hypothesise that.
+H2a
+
+Perceived benefits of generative AI have a positive effect on attitude towards using generative AI.
+H2b
+
+Perceived benefits of generative AI have a positive effect on subjective norms.
+H2c
+
+Perceived benefits of generative AI have a positive effect on perceived behavioural control.
+Besides strengths and benefits, existing literature highlights various challenges and ethical considerations related to the deployment of GenAI in educational settings, including issues of data protection, bias, authenticity, and pedagogical alignment [16]. TPB suggests that unfavourable perceptions of behavioural outcomes are likely to negatively impact attitudes towards a particular behaviour [20]. Similarly, if the perceived weaknesses of GenAI do not align with societal or educational expectations, this incongruence is expected to exert a negative influence on subjective norms [25]. Additionally, perceived weaknesses such as deskilling or reinforcement of biases could compromise the sense of perceived behavioural control over successful technology implementation, as suggested by TPB's focus on perceived behavioural control as a determinant of intentions and actions [22]. The following hypotheses are thus put forward.
+H3a
+
+Perceived weaknesses of generative AI have a negative effect on attitude towards using generative AI.
+H3b
+
+Perceived weaknesses of generative AI have a negative effect on subjective norms.
+H3c
+
+Perceived weaknesses of generative AI have a negative effect on perceived behavioural control.
+Several risks related to the adoption of GenAI in education, such as bias perpetuation, ethical concerns around plagiarism, and questions of academic integrity, have also been raised [4,9,16,37]. According to TPB, attitudes are influenced by the evaluation of behavioural outcomes, and the risks associated with GenAI could engender negative attitudes towards its use [20]. Likewise, if societal and educational expectations are risk-averse, it is reasonable to presume that perceived risks will negatively impact subjective norms [25]. Lastly, TPB stipulates that perceived behavioural control is informed by beliefs in one's ability to perform a behaviour successfully; therefore, perceived risks may undermine this sense of control, diminishing the likelihood of GenAI implementation in educational contexts [22]. Thus, we hypothesise that:
+H4a
+
+Perceived risks of generative AI have a negative effect on attitude towards using generative AI.
+H4b
+
+Perceived risks of generative AI have a negative effect on subjective norms.
+H4c
+
+Perceived risks of generative AI have a negative effect on perceived behavioural control.
+Overall, TPB posits that attitude, subjective norms, and perceived control are antecedent variables that influence behavioural intention, which in turn leads to actual behaviour [20]. H5 proposes that a favourable attitude towards using GenAI will positively impact the intention to use it, a link that has been empirically established in multiple contexts within TPB research [23]. Similarly, H6 stipulates that societal and peer influences, represented by the subjective norms construct, positively affect behavioural intention, consistent with the extant literature on TPB [25]. H7 extends this by positing that greater perceived behavioural control, which reflects beliefs in one's capability to execute a behaviour, will also positively influence the intention to deploy GenAI in educational settings [22]. Finally, H8 concludes the behavioural chain by suggesting that intention, as influenced by the aforementioned variables, will positively affect actual usage, which is a fundamental tenet of TPB. Thus, we hypothesise that.
+H5
+
+Attitude towards using generative AI has a positive effect on the intention to use generative AI.
+H6
+
+Subjective norms regarding generative AI have a positive effect on the intention to use generative AI.
+H7
+
+Perceived behavioural control regarding generative AI has a positive effect on the intention to use generative AI.
+H8
+
+Intention to use generative AI has a positive effect on the actual use of generative AI.
+Collectively, these hypotheses are congruent with the foundational principles of TPB and are also substantiated by the specific challenges and opportunities posed by the integration of GenAI in educational contexts. Fig. 1 presents the conceptual model of this research.
+Fig. 1
+Download: Download high-res image (421KB)
+Download: Download full-size image
+Fig. 1. Conceptual model.
+
+3. Methodology
+3.1. Sampling and data collection procedures
+Data were collected between April and June 2023 with an anonymous online questionnaire developed on Google Forms. This period enabled securing the minimum sample size. Non-probability sampling was employed as the total population size was not known since the current study targeted lecturers and students around the world who had used GenAI applications. To enhance the response rate and to avoid nonresponse bias the authors utilised three sampling techniques. First, based on the convenience sampling technique, the link to the questionnaire was disseminated to participants through their personal emails. Then, self-selection sampling was applied by posting the link on social media platforms. Finally, based on the snowball sampling technique the authors shared the link with known individuals in various countries requesting them to share the link with their networks. In total, 543 respondents completed the questionnaire of whom 240 were excluded as they declared that they did not use GenAI tools. Out of the remaining 303 responses, 5 were removed as they were not complete. Consequently, 298 respondents (130 lecturers and 168 students) from 47 countries were used for further analysis. The use of an international sample contributed to the diversity of respondents and the potential generalisability of results.
+As per prior work, it is important to note that the most popular method for determining the number of participants for Partial Least Squares (PLS) prediction is to base the sample size on the number of regressions inside the study framework (Barclay, Higgins, & Thompson, 1995). As per the ten-times rule, the minimum sample size has to be more than ten times the largest paths directed to a variable in the model with a power level of 0.8 and significance level of 0.05 [42]. According to the current study model, the required sample size is 40 meaning that the collected responses for both groups are sufficient for PLS-SEM analysis. The demographic characteristics of the two samples are presented in Table 1.
+Table 1. Demographics characteristics of participants.
+
+Demographics	Categories	Students	Lecturers
+N	%	N	%
+Gender	Male	80	47.6	69	53.1
+Female	88	52.4	61	46.9
+Age	18–30	116	69.1	7	5.4
+31–40	32	19	41	31.5
+41–50	20	11.9	44	33.8
+51–60	0	0	24	18.5
+61+	0	0	14	10.8
+Educational level	High school or lower	46	27.4	5	3.9
+Bachelor	50	29.7	2	1.5
+Master	43	25.6	22	16.9
+Doctorate	26	15.5	98	75.4
+Others	3	1.8	3	2.3
+Field of study/research	Social Sciences (e.g. Business, Economics, Tourism and Hospitality, Psychology, Law, etc.)	134	79.8	110	84.6
+Technology (e.g. Engineering, Robotics, Computer Science, Mechanics, etc.)	15	8.9	12	9.2
+Arts & Humanities (e.g. Architecture, History, Literature, Music, Philosophy, etc.)	12	7.1	4	3.1
+Life Sciences & Biomedicine (e.g. Biology, Medicine, Agriculture, etc.)	5	3	2	1.5
+Physical Sciences (e.g. Astronomy, Chemistry, Physics, Mathematics, etc.)	2	1.2	2	1.5
+Participants country	Bulgaria	26	15.5	6	4.6
+Indonesia	20	11.9	8	6.2
+Portugal	13	7.7	10	7.7
+United States	10	6.0	13	10.0
+Finland	15	8.9	5	3.8
+Oman	10	6.0	6	4.6
+Poland	10	6.0	4	3.1
+United Kingdom	4	2.4	9	6.9
+India	5	3.0	5	3.8
+Pakistan	4	2.4	4	3.1
+Spain	0	0.0	8	6.2
+Malaysia	5	3.0	2	1.5
+Egypt	4	2.4	3	2.3
+Turkey	2	1.2	5	3.8
+Greece	2	1.2	4	3.1
+Netherlands	2	1.2	4	3.1
+Sweden	2	1.2	3	2.3
+Taiwan	3	1.8	1	0.8
+Australia	1	0.6	3	2.3
+Others	30	17.9	27	20.8
+Total		168	100.0	130	100.0
+3.2. Questionnaire design and measures
+The questionnaire had three sections. The first section included a filter question that distinguished participants who had already used GenAI applications (e.g., Have you used a generative AI application in your research/studies? Yes/No). Participants who had not used these tools were not able to fill in the remaining sections. The second section included the statements of the seven variables of this study (measured on a 5-point level of agreement scale) namely: strengths of GenAI applications, benefits of GenAI applications, weaknesses of GenAI applications, risks of GenAI applications, attitude, perceived behavioural control, subjective norms, intention to use GenAI applications, actual use of GenAI applications. Appendix 1 presents the statements and their sources [[43], [44], [45]]. The section included two general questions as well: names of used GenAI applications and frequency of use of GenAI by usage directions (measured from 1-never to 5-very often). The last section covered the demographic data.
+3.3. Data analysis
+SEM is a statistical technique that adopts a confirmatory (i.e., testing hypotheses) strategy for the examination of a structural theory on a specific occurrence, as a means of investigating connected relationships in a complex model. Two statistical approaches are included in SEM: variance-based SEM (PLS-SEM) and covariance-based SEM (CB-SEM). CB-SEM is a technique of SEM that typically verifies or disproves the suggested hypotheses using programmes like AMOS, EQS, LISREL, and MPlus. However, many business researchers prefer to employ PLS-SEM since normal distribution may not be obtained in practice, and the CB-SEM technique demands a large sample size.
+PLS-SEM utilising Warp PLS V8 [46] has been used in this research for the following reasons. First, PLS-SEM is a useful technique for evaluating complicated models. The method is deemed appropriate as it is suitable for complicated models such as the one of the current study that has nine variables with multiple directions that can be tested simultaneously [47], it is recommended for estimating behavioural variables [48], and is widely applied in the higher education setting [[49], [50], [51]]. Moreover, unlike covariance-based methods, PLS-SEM can address not normal data distribution, a feature that is crucial for the present study. Additionally, it enables an explanation of the variation between the study constructs. Two steps in PLS-SEM were carried out, namely the measurement model and structural model in which the former deals with constructs’ reliability and validity whereas the latter measures the associations between the variables [46].
+Based on WarpPLS, a series of tests have been conducted to assess the model fit of the three structural equation models, which are provided in Appendix 2. All these assessments were clearly within the allowed range of values, indicating that the structural equation models matched their data satisfactorily.
+4. Results
+4.1. Measurements models
+In PLS-SEM, the first step is to assess the outer model (also called ‘measurement model’) which aims to check the reliability and validity of the proposed model before examining the inner model (also named ‘structural model’) that covers the testing of suggested hypotheses. To pass this step two reliability conditions and two validity conditions should be met. The former includes indicator reliability and internal consistency reliability. In this regard, as shown in Table 2, all items with loading less than 0.7 were eliminated as suggested by Hair et al. [52]. This means that the indicator reliability has been attained, enabling the verification of further measures. Then, the model was run again with all items with loadings above this threshold. Next, the internal consistency was checked to ensure that respondents had an equal understanding of the given scales. This is done through testing the composite reliability and Cronbach's alpha in which all values were above 0.7, confirming that the adopted items measured their respective constructs (see Table 2).
+Table 2. Descriptive statistics and assessment results of the measurement models.
+
+Empty Cell	Total sample (n = 298)	Lecturers (n = 130)	Students (n = 168)
+Construct/items	Indicator loading	Composite reliability	AVE	Indicator loading	Composite reliability	AVE	Indicator loading	Composite reliability	AVE
+Strengths of Gen-AI		0.876	0.640		0.811	0.799		0.883	0.655
+STRN1	0.768			0.794			0.752		
+STRN2	0.850			0.804			0.840		
+STRN3	0.826			0.794			0.879		
+STRN4	0.752			0.804			0.760		
+Benefits of Gen-AI		0.938	0.791		0.915	0.893		0.938	0.790
+BNFT1	0.892			0.916			0.878		
+BNFT2	0.863			0.839			0.879		
+BNFT3	0.889			0.902			0.881		
+BNFT4	0.913			0.915			0.916		
+Weaknesses of Gen-AI		0.873	0.580		0.866	0.776		0.854	0.593
+WEAK1	0.816			0.795			0.782		
+WEAK2	0.822			0.877			0.766		
+WEAK3	0.719			0.780			0.770		
+WEAK4	0.740			0.708			0.762		
+WEAK5	0.702			0.745			NA		
+WEAK6	NA			0.739			NA		
+Risks of Gen-AI		0.918	0.848		0.858	0.936		0.863	0.678
+RSK1	0.921			0.936			0.863		
+RSK2	0.921			0.936			0.857		
+RSK3	NA			NA			0.745		
+Attitude		0.932	0.697		0.931	0.865		0.933	0.665
+ATTD1	0.787			0.747			0.830		
+ATTD2	0.843			0.856			0.818		
+ATTD3	0.845			0.882			0.785		
+ATTD4	0.848			0.924			0.804		
+ATTD5	0.859			0.872			0.872		
+ATTD6	0.825			0.896			0.769		
+ATTD7	NA			NA			0.827		
+Subjective norms		0.930	0.816		0.921	0.929		0.909	0.770
+SUBJ1	0.906			0.930			0.882		
+SUBJ2	0.912			0.928			0.897		
+SUBJ3	0.891			0.930			0.851		
+Perceived behavioural control		0.893	0.736		0.827	0.862		0.892	0.733
+PRCV1	0.827			0.817			0.836		
+PRCV2	0.867			0.884			0.854		
+PRCV3	0.879			0.884			0.877		
+Intention to use Gen-AI		0.898	0.747		0.857	0.882		0.887	0.724
+INTN1	0.856			0.876			0.843		
+INTN2	0.872			0.884			0.862		
+INTN3	0.864			0.886			0.848		
+Actual use of Gen-AI		0.922	0.855		0.858	0.936		0.909	0.833
+ACTU1	0.924			0.936			0.913		
+ACTU2	0.924			0.936			0.913		
+As for the validity, convergent validity and discriminant validity were examined to ensure the validity of the model. The AVE was satisfactory for all constructs because it had values above the recommended value of 0.5 confirming the convergent validity [52]. This suggests that the items for each variable are capable of clarifying over fifty per cent of the variation in the variable they relate to. Table 3, Table 4, Table 5 present the results of the discriminant validity via two tests: Fornell and Larcker [53] and heterotrait-monotrait (HTMT) [54] for the three models. The first approach is confirmed as the square root of the AVE of each construct is higher than the correlations with other constructs. Additionally, all results of the HTMT test were below the threshold of ≤0.85 highlighted in bold. This shows that the discriminant validity is not compromised because each variable is unique from the others.
+Table 3. Discriminant validity (Total sample).
+
+Construct	Fornell and Larcker [53]
+STRN	BNFT	WEAK	RSK	ATTD	SUBJ	PRCV	INIT	ACTU
+STRN	(0.800)*								
+BNFT	0.657	(0.889)							
+WEAK	−0.079	−0.017	(0.762)						
+RSK	−0.058	−0.062	0.334	(0.921)					
+ATTD	0.554	0.575	−0.056	−0.149	(0.835)				
+SUBJ	0.335	0.458	0.007	−0.039	0.420	(0.903)			
+PRCV	0.567	0.591	0.084	−0.032	0.503	0.379	(0.858)		
+INTN	0.586	0.668	−0.009	−0.095	0.582	0.527	0.709	(0.864)	
+ACTU	0.398	0.491	0.012	−0.111	0.472	0.506	0.540	0.684	(0.924)
+HTMT ratios
+STRN	BNFT	WEAK	RSK	ATTD	SUBJ	PRCV	INIT	ACTU
+STRN									
+BNFT	0.766**								
+WEAK	0.168	0.102							
+RSK	0.075	0.078	0.408						
+ATTD	0.645	0.631	0.144	0.172					
+SUBJ	0.394	0.509	0.066	0.053	0.468				
+PRCV	0.698	0.680	0.166	0.088	0.580	0.442			
+INTN	0.717	0.767	0.139	0.115	0.670	0.615	0.858		
+ACTU	0.487	0.564	0.056	0.135	0.543	0.590	0.651	0.823	
+*Numbers in brackets reflect the square root of average values (AVEs), whereas the other numbers indicate the correlations among factors.
+** Bold values HTMT ratio that are lower than 0.90 indicate that: that variable is distinct from other variables confirming its uniqueness.
+Table 4. Discriminant validity (Lecturers).
+
+Construct	Fornell and Larcker [53]
+STRN	BNFT	WEAK	RSK	ATTD	SUBJ	PRCV	INIT	ACTU
+STRN	(0.799)								
+BNFT	0.549	(0.893)							
+WEAK	−0.112	−0.009	(0.776)						
+RSK	−0.167	−0.187	0.282	(0.936)					
+ATTD	0.596	0.536	−0.062	−0.360	(0.865)				
+SUBJ	0.451	0.535	0.051	−0.154	0.416	(0.862)			
+PRCV	0.516	0.657	−0.033	−0.244	0.602	0.638	(0.882)		
+INTN	0.460	0.586	−0.013	−0.251	0.526	0.589	0.806	(0.936)	
+ACTU	0.297	0.452	0.008	−0.174	0.426	0.303	0.488	0.527	(0.814)
+HTMT ratios
+STRN	BNFT	WEAK	RSK	ATTD	SUBJ	PRCV	INIT	ACTU
+STRN									
+BNFT	0.638								
+WEAK	0.159	0.088							
+RSK	0.200	0.211	0.330						
+ATTD	0.686	0.582	0.127	0.405					
+SUBJ	0.549	0.610	0.193	0.180	0.472				
+PRCV	0.618	0.741	0.093	0.285	0.676	0.754			
+INTN	0.551	0.661	0.094	0.293	0.590	0.695	0.940		
+ACTU	0.360	0.519	0.098	0.336	0.495	0.353	0.573	0.618	
+*Numbers in brackets reflect the square root of average values (AVEs), whereas the other numbers indicate the correlations among factors.
+** Bold values HTMT ratio that are lower than 0.90 indicate that: that variable is distinct from other variables confirming its uniqueness.
+Table 5. Discriminant validity (Students).
+
+Construct	Fornell and Larcker [53]
+STRN	BNFT	WEAK	RSK	ATTD	SUBJ	PRCV	INIT	ACTU
+STRN	(0.712)								
+BNFT	0.688	(0.889)							
+WEAK	−0.077	0.002	(0.692)						
+RSK	0.054	0.077	0.489	(0.663)					
+ATTD	0.537	0.601	0.004	0.084	(0.816)				
+SUBJ	0.417	0.457	0.038	0.217	0.388	(0.877)			
+PRCV	0.605	0.679	0.021	0.111	0.562	0.551	(0.851)		
+INTN	0.349	0.426	0.044	0.084	0.414	0.457	0.576	(0.913)	
+ACTU	0.620	0.629	0.115	0.148	0.582	0.448	0.766	0.499	(0.856)
+HTMT ratios
+STRN	BNFT	WEAK	RSK	ATTD	SUBJ	PRCV	INIT	ACTU
+STRN									
+BNFT	0.745								
+WEAK	0.183	0.106							
+RSK	0.066	0.120	0.569						
+ATTD	0.560	0.657	0.148	0.096					
+SUBJ	0.493	0.520	0.158	0.180	0.441				
+PRCV	0.693	0.791	0.125	0.097	0.652	0.666			
+INTN	0.341	0.500	0.084	0.113	0.484	0.554	0.715		
+ACTU	0.691	0.728	0.139	0.137	0.672	0.538	0.941	0.615	
+*Numbers in brackets reflect the square root of average values (AVEs), whereas the other numbers indicate the correlations among factors.
+** Bold values HTMT ratio that are lower than 0.90 indicate that: that variable is distinct from other variables confirming its uniqueness.
+Furthermore, as the answers were obtained from the same source, Common Method Variance (CMV) was examined via two tests (Harman's single-factor approach and full collinearity VIFs) and both were met confirming internal consistency as total variance explained by a single factor was less than 50% [55] and the VIF values were lower than 5, respectively [56]. Thus, the requirements for the measurement model have been met allowing the second step to be checked.
+4.2. Structural models
+The path coefficients of the models of the overall sample, lecturers and students are presented in Fig. 2, Fig. 3, Fig. 4, respectively. The strengths of GenAI and the benefits of GenAI had positive and significant impacts on all three factors of the TPB model (attitude, subjective norms, and perceived behavioural control) with p-values below the threshold of 0.05 in all three models (see Table 6). Therefore, H1a, H1b, H1c, H2a, H2b, and H2c are supported in all three models.
+Fig. 2
+Download: Download high-res image (388KB)
+Download: Download full-size image
+Fig. 2. Structural Model (overall sample).
+
+Fig. 3
+Download: Download high-res image (390KB)
+Download: Download full-size image
+Fig. 3. Structural model (lecturers).
+
+Fig. 4
+Download: Download high-res image (390KB)
+Download: Download full-size image
+Fig. 4. Structural model (students).
+
+Table 6. Summary of the hypotheses results.
+
+Hypothesis	Result
+Overall sample	Lecturers	Students
+H1a	Perceived strengths of generative AI have a positive effect on attitude towards using generative AI.	Accepted	Accepted	Accepted
+H1b	Perceived strengths of generative AI have a positive effect on subjective norms.	Accepted	Accepted	Accepted
+H1c	Perceived strengths of generative AI have a positive effect on perceived behavioural control.	Accepted	Accepted	Accepted
+H2a	Perceived benefits of generative AI have a positive effect on attitude towards using generative AI.	Accepted	Accepted	Accepted
+H2b	Perceived benefits of generative AI have a positive effect on subjective norms.	Accepted	Accepted	Accepted
+H2c	Perceived benefits of generative AI have a positive effect on perceived behavioural control.	Accepted	Accepted	Accepted
+H3a	Perceived weaknesses of generative AI have a negative effect on attitude towards using generative AI.	Rejected	Rejected	Rejected
+H3b	Perceived weaknesses of generative AI have a negative effect on subjective norms.	Rejected	Rejected	Rejected
+H3c	Perceived weaknesses of generative AI have a negative effect on perceived behavioural control.	Rejected	Rejected	Rejected
+H4a	Perceived risks of generative AI have a negative effect on attitude towards using generative AI.	Accepted	Accepted	Rejected
+H4b	Perceived risks of generative AI have a negative effect on subjective norms.	Rejected	Rejected	Rejected
+H4c	Perceived risks of generative AI have a negative effect on perceived behavioural control.	Accepted	Rejected	Rejected
+H5	Attitude towards using generative AI has a positive effect on the intention to use generative AI	Accepted	Accepted	Accepted
+H6	Subjective norms regarding generative AI have a positive effect on the intention to use generative AI	Accepted	Accepted	Accepted
+H7	Perceived control regarding generative AI has a positive effect on the intention to use generative AI	Accepted	Accepted	Accepted
+H8	Intention to use generative AI has a positive effect on actual use of generative AI	Accepted	Accepted	Accepted
+The results revealed that the impact of the weaknesses of GenAI on attitude remained insignificant in all three models as the p-values were above the threshold of 0.05 as shown in Fig. 2, Fig. 3, Fig. 4: total sample (β = 0.05; p = 0.18), lecturers (β = 0.08; p = 0.17), and students (β = 0.05; p = 0.26). Similarly, the impact of the weaknesses of GenAI on subjective norms remained insignificant in all three models: total sample (β = 0.07; p = 0.13), lecturers (β = 0.07; p = 0.23), and students (β = 0.01; p = 0.44). In addition, its negative impact on perceived behavioural control was not supported in all three models: total sample (β = 0.09; p = 0.05), lecturers (β = 0.06; p = 0.24), students (β = 0.14; p = 0.03) (Fig. 2, Fig. 4). Therefore, H3a, H3b, and H3c were rejected.
+Additionally, the findings indicated that the perceived risks of GenAI had a significant impact only on the attitudes in the overall model (β = −0.11; p = 0.03) and lecturers' model (β = −0.20; p = 0.01); however, there was no significant relationship in the students' model (β = 0.11; p = 0.08). H4a was thus accepted for both the lecturers’ sample and the total sample. In addition, the results did not support the significant and negative relationship between perceived risks of GenAI and the subjective norms in the three models: total sample (β = −0.07; p = 0.11), lecturers (β = −0.12; p = 0.09), and students (β = 0.20; p = 0.01). Thus, H4b was rejected. The impact of perceived risks of GenAI on perceived behavioural control was significant in the overall model (β = −0.10; p = 0.04) but insignificant for lecturers (β = −0.04; p = 0.32) and students (β = 0.09; p = 0.13). Therefore, H4c was accepted for the whole sample only.
+The empirical results also indicated that the associations between the three core TPB variables (i.e., attitude, subjective norms, and perceived behavioural control) and the intention to use GenAI tools were significant and positive in all three models. Thus, H5, H6, and H7 were all accepted. Finally, there was a significant and positive link between the intention to use and actual use of GenAI in all three models. Thus, H8 was supported (see Table 6).
+5. Discussion and conclusions
+5.1. Discussion and theoretical implications
+Underpinned by the TPB, the present research examined the nexus between perceived strengths, advantages, weaknesses, and risks of GenAI tools and the core variables of the TPB model, namely attitude, subjective norms, and perceived behavioural control. This paper also investigated how the fundamental variables of the TPB model could impact the intention toward adopting GenAI tools, and how the latter could influence the actual usage of GenAI tools by both lecturers and students in higher education institutions (HEIs). Overall, lecturers' and students' attitudes, subjective norms, and perceived behavioural control were significantly and positively affected by the perceived strengths and benefits of GenAI tools; however, lecturers’ and students' perceptions of the weaknesses and risks of these tools vary.
+The empirical results indicated that the strengths and benefits of GenAI applications had a positive and significant impact on all three of the TPB core components (i.e., attitude, subjective norms, and perceived behavioural control) in all three models (overall sample, lecturers, and students). These findings imply that the more attainable strengths and benefits of GenAI technologies used in HEIs, the greater the positive impacts they have on lecturers' and students' attitudes, subjective norms, and perceived behavioural control. These results underscore the importance of showcasing the advantages and attributes of GenAI apps to promote positive attitudes, subjective norms, and user perceptions of their usability—all of which can eventually result in the acceptance and effective use of these tools in HEIs. These results support the findings of prior studies articulating that perceived strengths and benefits of technologies could positively shape educators’ attitudes (e.g., Ref. [24]), subjective norms (e.g., Ref. [26]), and perceived control (e.g., Ref. [22]) toward the adoption of such tools.
+The empirical findings did not support some of the hypotheses related to the connections between the weaknesses of GenAI and the three variables of the TPB. Although previous studies have emphasised GenAI's weaknesses and opportunities for abuse (e.g., Ref. [15,16]), this study found that they were not crucial in determining lecturers' and students' attitudes, social norms, or perceptions of behavioural control but the strengths and benefits of GenAI were. Additionally, the analysis produced mixed results regarding the impact of perceived risks of GenAI on attitude, subjective norms, and perceived behavioural control (only 3 out of 9 hypotheses related to perceived risk were supported in the three models). It implies that lecturers and students differ in attitudes, perceptions of behavioural control, and adherence to social norms when it comes to how they understand and react to risks around GenAI applications (such as ChatGPT). In this sense, the results provide only partial support to prior studies (e.g., Ref. [4,9,16,37]) that have highlighted the perceived risks related to the adoption of GenAI applications, including ChatGPT. Although the existing literature (e.g., Ref. [16]) has outlined several difficulties and ethical concerns surrounding the application of GenAI in learning environments, such as data security, bias, authenticity, and pedagogical coherence, this study showed that these risks are not very important to the lecturers and students. In fact, the perceived strengths and benefits of using GenAI in teaching and research are much more important drivers of GenAI adoption in educational setting than their weaknesses and risks. The novelty of these tools, the potential advantages they give to the students and lecturers in terms of time savings and productivity, and the significant improvements in the quality of GenAI's outputs over time might be the reasons why the strengths and benefits of GenAI have greater importance for the respondents than the weaknesses and risks associated with these tools but future research needs to provide a definitive answer to this question.
+The findings also depicted that the three core TPB variables (i.e., attitude, subjective norms, and perceived behavioural control) had a positive and significant link with the intention to use GenAI tools by both lecturers and students. To encourage the use and integration of GenAI tools in higher education, it is critical to cultivate positive attitudes, subjective norms, and perceived behavioural control toward these tools among both lecturers and students. The intentions of both lecturers and students to utilise these tools may be increased by highlighting the advantages, benefits, and efficacy of these tools. This will improve students' and lecturers' attitudes, subjective norms, and perceived control. These results are consistent with the principles of the TPB, which holds that a person's intent to engage in a certain behaviour—in this case, utilising GenAI tools—is greatly influenced by these three variables [20]. The results also showed that there is a strong correlation between the intention to employ GenAI technologies and their actual application. This finding aligns with the general understanding in behavioural psychology that intentions often serve as a reliable determinant of subsequent behaviour. It is a valuable insight for understanding the factors influencing the adoption of GenAI tools in practice by both lecturers and students (e.g., Ref. [57,58]).
+Theoretically, this work complements earlier research that emphasised the key concerns surrounding the application of GenAI tools in research and education [9,37]. Previous studies in this area focused on the main variables influencing the use of these instruments in research and education within various settings (e.g., Ref. [[57], [58], [59]]). However, the current study is one of the first attempts to incorporate several crucial elements, such as the strengths, benefits, weaknesses, and risks of using GenAI tools within a structural model to measure the most significant factors influencing the actual utilisation of these tools based on an international sample of lecturers/researchers and students. Furthermore, this study enhances the theory by extending the TPB model to explicitly demonstrate the main drivers for deploying GenAI applications such as ChatGPT in HEIs. Additionally, this is one of the first studies to compare the views of lecturers and students on the critical elements impacting the use of GenAI tools.
+5.2. Managerial and policy implications
+The study presents a set of practical implications for concerned stakeholders at HEIs (e.g., students, lecturers and HEI administrators). The empirical findings reveal that improving lecturers' and students’ perspectives of the advantages and benefits of implementing GenAI tools could be associated with a more positive attitude, subjective norms, and perceived behavioural control toward the use of such tools in research and education at HEIs. This could be accomplished by developing and deploying efficient procedures and mechanisms to spread knowledge and awareness about the use of GenAI tools in teaching and research. In addition, HEIs need to organise workshops and awareness-building initiatives and training sessions that demonstrate the strengths and benefits of adopting GenAI applications, including ChatGPT, for teaching and research purposes.
+The findings highlight the role of attitude, subjective norms, and perceived behavioural control in shaping the adoption of GenAI tools in education and research. Positive attitudes about GenAI tools among academics and students increase the likelihood that they will use such tools, underscoring the significance of promoting positive attitudes through educational programmes and emphasising the advantages of such tools in both education and research. Moreover, subjective norms that are shaped by academic communities' and peers’ opinions can affect how socially accepted GenAI tools are. HEIs ought to cultivate a cooperative atmosphere that promotes the exchange of knowledge and highlights the combined benefits of employing GenAI tools in research and teaching environments. Furthermore, perceived behavioural control includes aspects such as perceived ease of use and technical expertise. To improve users' confidence in using GenAI tools efficiently, HEIs must develop ethical standards for the responsible use of GenAI and provide relevant training programmes. HEIs need to establish a culture of acceptance and proficiency among lecturers and students by establishing an atmosphere that is favourable to the effective, efficient and ethical integration of GenAI tools in teaching and research. HEIs need to develop initiatives to encourage lecturers and students to use GenAI responsibly. Policymakers can help by developing legal regulations to manage the application of GenAI in research and education to mitigate its negative impacts [41] by involving HEIs in the process [60]. Furthermore, to support inclusivity and diversity in research and education public authorities and HEIs need to ensure that GenAI technologies are available to all lecturers and students to ensure their competitiveness and employability, e.g. through institutional accounts to GenAI applications.
+5.3. Limitations and future research directions
+Although the current study provides several theoretical and practical contributions, some limitations offer valuable directions for future research. First, the current research relied on a quantitative approach using an online questionnaire to collect primary data from the targeted respondents (i.e., students and lecturers) from several countries. Future research could adopt a qualitative approach by using interviews or a mixed-method approach. Second, the current study model builds upon the TPB and expands it by including a group of variables (i.e., strengths of GenAI, benefits of GenAI, weaknesses of GenAI, and risks of GenAI). Future studies could develop a more comprehensive model by incorporating other theories such as the Diffusion of Innovation Theory [61], the technology acceptance model [62], or the unified theory of acceptance and use of technology [63]. Additional variables, such as stress, trust, and self-efficacy, can also be incorporated into the existing model. Third, this study focused on higher education. Future research could focus on the use of GenAI in secondary education to yield insights into the variables influencing the perceptions and behaviours of high school students and teachers towards the applications of GenAI tools. Additionally, since the use of GenAI tools is the study's outcome variable, further research can examine the effects of this use in a variety of areas, including levels of creative thinking, academic achievement, scientific productivity, and research ethics. Furthermore, future research may delve into the nuances of GenAI use in different countries, allowing for a more comprehensive understanding of potential linkages and distinct patterns across diverse cultural and socioeconomic contexts.
+Declaration of generative AI in scientific writing
+During the preparation of this work the authors used ChatGPT and Grammarly for proofreading and improve the readability of the text. After using this tool/service, the authors reviewed and edited the content as needed and take full responsibility for the content of the publication.
+Declaration of interest statement
+None.
+CRediT authorship contribution statement
+Stanislav Ivanov: Conceptualization, Methodology, Investigation, Visualization, Supervision, Writing – original draft, Writing – review & editing. Mohammad Soliman: Conceptualization, Methodology, Investigation, Writing – original draft, Writing – review & editing. Aarni Tuomi: Conceptualization, Methodology, Investigation, Writing – original draft, Writing – review & editing. Nasser Alhamar Alkathiri: Conceptualization, Methodology, Investigation, Formal analysis, Visualization, Writing – original draft, Writing – review & editing. Alamir N. Al-Alawi: Conceptualization, Methodology, Investigation, Writing – original draft, Writing – review & editing.
+Appendix 1. Measures
+Variables	Items	Source
+Strengths of generative AI	
+For the questions below think about the generative AI you mostly used:
+I think the generative AI application:
+STRN 1*** … understood the nuances of human language
+STRN 2 … interacted in a conversational and human-like way.
+STRN 3 … could answer follow-up questions,
+STRN 4*** … could admit its mistakes.
+STRN 5 *** … could reject inappropriate requests.
+STRN 6 … could keep track of the ongoing conversation.
+STRN 7 … generated content that was useful to me
+Developed by authors
+Benefits of generative AI	
+For the questions below think about the generative AI you mostly used:
+I think the generative AI application:
+BNFT1 … enhanced the efficiency of my work
+BNFT2 … improved the quality of work I do.
+BNFT3 … helped me accomplish my tasks faster.
+BNFT4 Overall, I find using the generative AI application to be advantageous in my work.
+Hsu et al. [45] and expanded by the authors
+Weaknesses of generative AI	
+For the questions below think about the generative AI you mostly used:
+I think the generative AI application:
+WEAK1 … was generating false information.
+WEAK2*** … was not capable of ethical reasoning.
+WEAK3 … lacked reliability about factual knowledge.
+WEAK4* … struggled with providing proper referencing to the sources it was using.
+WEAK5** … was not able to ask clarifying questions when given ambiguous prompts.
+WEAK6 … was not delivering an adequate answer to my questions.
+WEAK7 … struggled with generating responses to complex or abstract questions
+Developed by authors
+Risks of generative AI	
+For the questions below think about the generative AI you mostly used:
+I think the generative AI application:
+RSK1*** … generated responses that may have been biased.
+RSK2*** … was using sensitive data I shared with it as training data.
+RSK3*** … might replace many research-based jobs.
+RSK4 … might decrease the credibility of my work
+RSK5 … might decrease other people's trust in my work
+RSK6** … might be banned by my institution
+RSK7*** … might be banned by academic journals
+Developed by authors
+Attitude	
+ATTD1- For me, using generative AI is extremely bad
+ATTD2- For me, using generative AI is extremely undesirable
+ATTD3- For me, using generative AI is extremely unpleasant
+ATTD4- For me, using generative AI is extremely foolish
+ATTD5- For me, using generative AI is extremely unfavourable
+ATTD6- For me, using generative AI is extremely unenjoyable
+ATTD7**- For me, using generative AI is extremely negative
+[44]
+Subjective norms	
+SUBJ1- Most people who are important to me think I should use generative AI while doing my research/study.
+SUBJ2- Most people who are important to me would want me to use generative AI while doing my research/study
+SUBJ3- People whose opinions I value would prefer that I use generative AI while doing my research/study
+[44]
+Perceived behavioural control	
+PRCV1- Whether or not I use generative AI while doing my work is completely up to me
+PRCV2- I am confident that if I want, I can use generative AI while doing my work
+PRCV3- I have resources, time, and opportunities to use generative AI while doing my work
+[44]
+Intention to use generative AI	
+INTN1- It is worth it to use generative AI while doing my work
+INTN2- I will frequently use generative AI while doing my work in the future.
+INTN3- I will strongly recommend others to use generative AI
+[45]
+Actual use of generative AI	
+ACTU1- I use generative AI on a daily basis
+ACTU2- I use generative AI frequently
+[43]
+*** Removed from all models due to low indicator loading.
+** Removed from two models (total sample and students) due to low indicator loading.
+*Removed only students model due to low indicator loading.
+Appendix 2. Model fit and quality indices
+Metric	Overall	Lectures	Students	Recommended value
+Average path coefficient (APC)	0.251, P < 0.001	0.266, P < 0.001	0.255, P < 0.001	P < 0.001
+Average R-squared (ARS)	0.433, P < 0.001	0.474, P < 0.001	0.440, P < 0.001	P < 0.001
+Average adjusted R-squared (AARS)	0.426, P < 0.001	0.460, P < 0.001	0.429, P < 0.001	P < 0.001
+Average block VIF (AVIF)	1.372	1.273	1.508	ideally ≤ 3.3
+Average full collinearity VIF (AFVIF)	1.989	2.104	2.141	ideally ≤ 3.3
+Tenenhaus GoF (GoF)	0.568	0.595	0.560	Large ≥ 0.36
+Simpson's paradox ratio (SPR)	0.938	0.938	1.000	Acceptable if ≥ 0.7, Ideally = 1
+R-squared contribution ratio (RSCR)	0.998	0.996	1.000	Acceptable if ≥ 0.9, Ideally = 1
+Statistical suppression ratio (SSR)	1.000	0.938	0.938	Acceptable if ≥ 0.7
+Nonlinear bivariate causality direction ratio (NLBCDR)	0

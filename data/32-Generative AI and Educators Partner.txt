@@ -1,0 +1,204 @@
+Generative AI and Educators: Partnering in Using Open Digital Content for Transforming Education
+
+Abstract
+Recent advancements in generative artificial intelligence (GAI) have sparked debates and research on its transformative potential in education. This study explored how a specific group of educators partner with GAI tools, particularly ChatGPT, to complement and enhance their teaching. Within an interpretative paradigm, the study used an exploratory case study design to investigate how 13 educators enrolled as students in a structured master’s programme at an open distance learning university in South Africa use GAI tools in their teaching. Their posts on a discussion forum were used to collect data. Findings reveal that they actively employ GAI to streamline their teaching practices, specifically to personalized tutors, simplifying English texts and translations, assessments, lesson planning, and critical thinking tasks. The study also highlights the need to understand the limitations and boundaries of GAI, including concerns about accuracy, biases and reliability. Importantly, the absence of institutional guidelines on GAI raises questions about the necessity for clear guidelines and policies to ensure responsible and ethical integration in educational contexts. The paper concludes by emphasizing the transformative potential of GAI and the fact that it will increasingly act as a partner in teaching and influence modern teaching practices. Ultimately, GAI’s foothold in education is undeniable, challenging educators and policymakers to navigate its implications while maximizing its potential to support effective teaching.
+
+Keywords:
+open digital content generative artificial intelligence teaching transformation education
+
+Introduction
+Artificial intelligence (AI) emerged in computer science in the 1950s through the work of John McCarthy and Alan Turing (Cope et al., 2021). Since then, AI capabilities have steadily advanced to an interdisciplinary field widely implemented in different domains, including education. Such technological advancements have transformed educational practices in recent times. Progress in machine learning has led to the generation of open digital content. Generative AI (GAI), a type of AI that can produce new content based on input provided (Pavlik, 2023), is not only reshaping the use of technologies and resources for educators but also defining the very fabric of educational practices. With the help of GAI, educators can now use these tools to enhance and personalize learning experiences, making education more accessible, engaging and effective (Alasadi & Baiz, 2023). The release of GAI tools such as ChatGPT, DALL-E, Kuki, Jasper, Google Bard, Copilot, Socratic and Quillionz (OpenAI, 2024; Kaplan-Rakowski et al., 2023) has sparked debates and research on how this technology already has and might change education in future. For example, DALL-E can generate images and videos. At the same time, ChatGPT (Generative Pre-trained Transformer) uses a large amount of available open digital content from the internet to produce human-like text (Grassini, 2023). This advanced OpenAI language model, which gained one million users within five days of its release, deserves special recognition (Firat, 2023; OpenAI, 2024; Tlili et al., 2023). This rapid adoption highlights the worldwide interest in GAI and its potential application across various domains, including education. Since its release in November 2023, ChatGPT has been through various reiterations, and ChatGPT-4 was released in March 2023, representing a staggering increase in computational capacity to generate text compared to its earlier model (Grassini, 2023). ChatGPT’s remarkable impact and possibilities for use in the education sector led to a mix of emotions amongst educators (Lo, 2023). While some see GAI tools such as ChatGPT as a progressive tool towards the future of education (e.g. Baidoo-Anu & Ansah, 2023; Bozkurt & Sharma, 2023), others raise dangers and challenges, such as its limitations, an overdependence on it and compromising human moral principles (Skavronskaya et al., 2023; Chomsky et al., 2023).
+
+Several studies focusing on the potential role of GAI in transforming education are of specific relevance to the current study. For example, Tlili et al. (2023) suggest a new pedagogical approach incorporating GAI, while Bozkurt (2023a) argues that GAI can undertake a significant portion of educational tasks that were previously the sole responsibility of human educators. Therefore, with the current advancements in GAI, redefining the roles of human educators and AI in education is necessary. Using GAI in education can help increase efficiency and effectiveness, positively impacting the overall quality of education. Therefore, exploring and considering the use and potential benefits of integrating AI into the education system is important.
+
+Recent studies are mostly based on literature reviews (e.g. Bozkurt, 2023b; Deng & Yu, 2022; Lo (2023); Grassini, 2023), with few empirical studies available on whether and how educators use GAI tools such as ChatGPT in their daily teaching. Thus, this study investigated how a group of teachers teaching at various education levels used GAI. The findings could guide educators in various educational contexts on how this technology can be used based on real experiences. Also, it could assist policymakers in drafting relevant policies on using GAI tools in education. Within this context, the research question that guided the research was:
+
+How do educators partner with generative AI tools in their teaching, and how does it transform education?
+
+In this study, educators refer to teachers, lecturers, and trainers on different levels of the education sector.
+
+The Contribution of Generative Artificial Intelligence to Teaching
+A review of the existing literature indicates that AI technology can be an invaluable educational resource, occupying various roles that improve the overall educational experience. Although the list is not exhaustive, GAI can support educators with assessment tasks, lesson planning, the provision of educational resources, personal tutoring, and text translation. These roles are relevant to this paper and are discussed below.
+
+To assist with assessment tasks, GAI can be used to help teachers generate the type of questions that educators might need for assignments or exams to assess students’ competencies. Onal and Kulavuz-Onal (2023) confirm that GAI tools such as ChatGPT can help educators with several types of questions, such as dialogue-based and multiple-choice questions, and can adapt assessment tasks according to different needs. The authors used a higher education context to generate assessment tasks in three courses. They found that GAI could be used for time-consuming tasks such as generating relevant and appropriate assessment questions.
+
+Apart from setting assessment questions, GAI can also assist with grading. A study by Babitha et al. (2022) shares the potential of how AI technology can contribute to grading online essays, indicating the potential to automatise and improve the grading system. ChatGPT could be employed to semi-automate the grading process. This approach has the benefit of providing impartial feedback to students. The comments can be personalized and adapted where needed to provide appropriate feedback. In addition to grading long answers, the literature confirmed GAI’s potential for short-answer grading (Conijn et al., 2023). However, Grassini (2023) points out that it might be less efficient when assessing individual assessments that undergo annual changes and where past evaluations might not be available because of insufficient training data. Cheng et al. (2023) confirm that a balanced evaluation procedure between AI tools and human involvement will yield the most favourable results in terms of quality.
+
+AI tools have been singled out as performing well in designing lesson plans on various levels and in different subjects (Hong, 2023; Grassini, 2023; Van den Berg & Du Plessis, 2023). Lessons can be generated on different levels of cognitive demand for different grades and can be adapted to suit learners’ and teachers’ different needs and contexts (Van den Berg & Du Plessis, 2023). Such lesson plans can lessen instructors’ workload and save time, allowing them more time to evaluate or adapt such lesson plans where needed. Additionally, they will have more time for teaching and related tasks in the classroom.
+
+The capabilities of GAI go far beyond the design of lesson plans. Grassini (2023) argues that it can provide educational resources which can be adapted to suit different needs and contexts. This reduces routine tasks and assist educators in reflecting, innovating and being creative when presenting learning materials to students. In the past, such materials and lesson plans were not accessible to all and, in many instances, had financial implications for those not fortunate enough to be from privileged contexts (Van den Berg & Du Plessis, 2023). However, providing educational materials also poses potential challenges related to biases, accuracy and reliability, and critical inaccuracies and fabricated information have been reported (Cheng et al., 2023). GAI, therefore, needs to be approached with caution and should be critically evaluated before using it. However, this can be problematic for students and beginner educators with limited experience who rely on GAI to support their teaching and learning. It is hoped, as Ali et al. (2023) note, that these errors will be mitigated in future.
+
+Trojer et al. (2022) refer to the potential of AI tools to act as personal tutors. Such tutors have the potential to enhance students’ learning experiences as they can provide personalized support to meet individual students’ unique needs and learning styles. However, when using GAI for personalized tutoring, Chan and Tsi (2023) caution that it must be kept in mind that chatbots may lack the needed humanlike interaction and cannot understand and think to provide accurate answers to individual students. Although such tools might become more sophisticated than only providing data they have been trained on, this limitation can hinder individualized and specific student feedback and support. This means, like with other functions GAI could fulfil, partnering with humans can result in satisfactory outcomes.
+
+GAI tools can further be deployed for translating educational materials. Several authors (e.g. Jiao et al., 2023; Wang et al., 2023; Onal & Kulavuz-Onal, 2023) confirm the high proficiency of language models in translation tasks, which is mainly possible due to machine translation technologies (Deng & Yu, 2022). This is also an example of how technologies develop and improve their potential to evolve further because of technological advancements. Text translation is particularly beneficial to a country such as South Africa, with 12 official languages, as it will make materials accessible to a diverse population.
+
+Methodology
+Design and Methods
+The study sought to understand how educators partner with GAI tools in their teaching and how this transforms education. For this reason, an interpretative paradigm was found to be most appropriate as it intended to understand the subjective world of human experience (Lincoln & Guba, 1985), in this instance, educators’ use of GAI. This paradigm aims to understand participants’ perspectives and interpret the meaning they derive from the context (Kivunja & Kuyini, 2017).
+
+The participants had a unique context, as they were all practising educators simultaneously enrolled as students in a structured Master of Education programme at an open distance learning university in South Africa. For this reason, it was appropriate to follow an exploratory case study design, described as an in-depth investigation into different perspectives within a unique context or group (Simons, 2009). It is also intended to lay the groundwork for more related research.
+
+The research instrument was an online discussion forum for one of the four taught modules of the structured masters programme on the university’s learning management system. Students contributed to a discussion forum after every two study units of this module. The discussion forums had four questions to which they were expected to respond. Although informal, the discussions contributed to the year mark and focused on applying knowledge and theory learnt in the study units. Certain criteria were applied in the discussions, such as showing respect to fellow students and the lecturer, sharing their own opinions, caution of plagiarism, the length (a maximum of 250 words) and number of responses per discussion (between eight and 12), and responses to both the lecturer and fellow students. The purpose of these discussions was to ensure that students read the study materials, show insight into the content and apply the knowledge to their own contexts, where applicable.
+
+As part of a study unit on artificial intelligence in education, students had to answer related questions. The two questions that were used for this research, were:
+
+As an educator, do you use a GAI tool in your teaching/training?
+If you use GAI in your teaching, elaborate on how you use it.
+The discussions were set up so that students could not see the posts of others in the discussion forum until they posted their first response to the questions.
+
+Data was analysed using a thematic data analysis approach. Braun and Clarke (2006) suggest six phases in this approach: familiarising oneself with the data, generating initial codes, searching for themes, reviewing them, defining and naming them, and finally producing the report. These steps were followed in this study. In the process, De Vos et al. (2011) add that existing literature can be used to compare the data with existing knowledge, which was done in this paper.
+
+Ethical Considerations
+Ethical considerations play an important role in research because they ensure that all necessary permissions are obtained and that no harm is caused to any individual involved in the research process. This aligns with the definition of research ethics by De Vos et al. (2011) as moral standards that provide guidance to ensure appropriate conduct towards all participants. To conduct this research, ethical clearance and permission were obtained from the institution where the research was conducted. Participants were also asked permission to use their data for research purposes and were assured that their names and data would be kept confidential. All participants gave their consent.
+
+Trustworthiness
+Trustworthiness in qualitative research relates to quality, underpinning both rigour in the research process and confidence in the findings and conclusions (Daniel, 2019). Measures of trustworthiness as described by Lincoln and Guba (1985), namely credibility, transferability, dependability and confirmability, were considered to ensure the study’s trustworthiness.
+
+Findings and Discussion
+Context and Participant Information
+All participants were enrolled in a structured master’s in education programme at the time of the research. The programme consisted of four taught modules and a dissertation of limited scope. The particular module used for this research focused on technology in open distance learning. Fourteen students were enrolled for this module, but one student did not participate in these discussions. Therefore, thirteen out of the fourteen students participated in this research. Participants were not informed of the research until after their discussions to prevent research influence on their responses. They were mature part-time students and practising educators on different education levels. Because of the group’s diversity, it was found ideal to get an indication of how educators on different levels use artificial intelligence in their teaching contexts. Interestingly, there was no significant difference between the different levels or genders. The information of the participants is indicated in Table 1 below.
+
+Table 1
+
+Participant Information.
+
+PARTICIPANTS	GENDER	TEACHING ROLE
+P1	F	Lecturer in higher education (private)
+P2	F	Lecturer in higher education (government)
+P3	F	Primary school teacher
+P4	M	Lecturer in higher education (government)
+P5	M	Lecturer in higher education
+P6	M	Lecturer in higher education (private)
+P7	F	Lecturer in the technical and vocational education and training sector
+P8	F	Lecturer in the technical and vocational education and training sector
+P9	F	Lecturer in higher education (government)
+P10	F	Primary school teacher
+P11	M	Lecturer in higher education (private)
+P12	M	Trainer in the public sector
+P13	M	Lecturer in higher education (government)
+Themes
+From the two questions asked in the discussion forum, three themes emerged.
+
+Theme 1: The use of GAI tools
+Of the thirteen students, ten indicated that they were using AI tools. While most confirmed that they were using it, others provided more detail. As an example, one indicated:
+
+Yes, I use it, and ChatGPT has assisted me quite a lot in my day-to-day activities (P1).
+
+Realising that it is important to keep up with the latest developments, another participant stated:
+
+As a teacher in the 21st century, I need to be aware of new developments that have the potential to enhance teaching and learning and integrate them into my teaching practices. Therefore, I use ChatGPT (P3).
+
+It seems like some participants only recently became aware of GAI tools. For example, one participant indicated:
+
+Since I heard about ChatGPT and read the article [in the study unit], I wondered what exactly is happening with AI in education. As a facilitator, I’ve begun experimenting with ChatGPT in my classes (P12).
+
+Another participant, who acknowledged that he had not used GAI tools yet, said:
+
+I didn’t know about it until July when my son, who is at varsity, was on semester break and introduced me to ChatGPT. I think it is not bad to try it since the world is changing daily, embracing technology. I have not utilised ChatGPT or similar tools in my teaching environment yet. I have not used it until now because I was unaware of such a tool. Based on the texts I have gone through in this part of the module, I will certainly consider using ChatGPT in the future (P13).
+
+None of the three participants who were not using GAI had objections to using it in future. They referred to the possible advantages it holds for their students and themselves. For example, a participant said:
+
+I will consider ChatGPT in future because it could be a useful tool to prepare students for the real world, where critical thinking is more important than rote memorisation. It also encourages students to be technologically literate in an increasingly tech-centric world. We should think about the world we are preparing our students for and what thinking habits we want to instil in them so they can succeed. That means figuring out how to incorporate novel technology they will use in the real world into classroom exercises (P5).
+
+Another one said:
+
+No, I do not use ChatGPT or similar tools in my teaching environment. I have attended some presentations from fellow academics about integrating chatbots into our teaching and assessment. I have not given myself time to explore the possibilities with chatbots. I have some working knowledge of how they generate information and how they can be used to assess students’ work. They are all a bit too new to me at the moment. I am not averse to using them in the future, as I expose myself to more and more information regarding chatbots, but I am not at a stage where I have already decided on how I am going to use them in my teaching for now (P13).
+
+Participants acknowledged that they were either using GAI in their teaching or intended to use it in future. An interesting observation is that most participants referred to ChatGPT, although the question was about using GAI. This could be because of their familiarity with ChatGPT and the widespread use and popularity of the tool (Firat, 2023). It also became clear that no participant referred to their institution, guiding them on the use or how to use GAI. This could be because there were no policies or guidelines on using GAI at these institutions at the time of the research, supporting the statement by Dwivedi et al. (2023), stating that many educational institutions do not currently have GAI in their policies. It is also possible that these existed but participants did not mention them. This aspect calls for more research.
+
+Theme 2: Specific ways of using GAI in teaching
+In response to the question on how they were using GAI in their teaching, participants had different responses. These responses led to different sub-themes:
+
+Personalised tutors
+GAI tools can act as personalised tutors for students, as confirmed by Ambele et al. (2022). One of the participants confirmed that the tool was used in this way by stating:
+
+I use ChatGPT to act as an automated tutor that can give students prompt feedback and direction on a range of topics. In addition to helping with problem-solving, it clarifies ideas and provides answers to problems (P10).
+
+Although GAI tools can act as tutors to enhance the learning experience, Chan and Chi (2023) caution that they might lack the needed humanlike interaction. This means that they may not be able to think and provide the support or answers students are looking for. Additionally, participants in this research raised concerns about the effectiveness of clear and specific prompting needed to get the required responses. Several participants confirmed the importance of well-structured and well-designed prompts to get relevant answers from GAI. The aspect of effective prompting is in line with a comment from Bozkurt (2023a, p. 201) that “the magic of GAI will happen with well-structured, well-designed, and well-devised prompts”. This research highlights specific prompting as an important aspect of getting correct or relevant GAI responses. It implies that AI tools and humans need to work closely together to get the required results.
+
+Simplification of English text and translations
+Because GAI tools such as ChatGPT are large language models and are specially designed to excel in language processing applications such as chatbots, language translation and text generation (Bozkurt, 2023a), one can expect that this tool should be useful when it comes to language issues. It has the capacity to simplify texts, with specific reference to students who have to learn in another language than their mother tongue. A participant used this function of GAI, explaining it as follows:
+
+I found ChatGPT to be a valuable tool, particularly in addressing language comprehension challenges among my students. Many of them have expressed difficulty in understanding the assessment questions due to the advanced level of English used in our module. Since introducing ChatGPT, I have leveraged this tool to bridge the language gap and support my students in using it.
+
+One of the primary ways I incorporate ChatGPT is during practical assignments and group projects. In these instances, I encourage my students to utilise ChatGPT as a resource to simplify complex English language questions and to obtain specific step-by-step guidance. It is a valuable aid in enhancing their understanding and enabling them to execute tasks more efficiently (P2).
+
+Two participants further referred to translation and how they used or would like to use ChatGPT. One indicated that they would prefer to use ChatGPT for translation but that “ChatGPT is not capable of translating content from English to IsiZulu”. IsiZulu is one of the twelve official languages in South Africa. Another participant, who did not state the specific languages, indicated that “ChatGPT has helped me to translate large pieces of text to make my teaching task easier”.
+
+The potential of GAI to successfully translate texts in different languages is confirmed by authors such as Wang et al. (2023). However, from the responses in this study, it seems as if GAI tools, in this case ChatGPT, might currently be unable to translate texts in all languages. However, this might change soon, as these technologies will develop further and improve over time, and many of the current limitations will disappear (Bozkurt, 2023b).
+
+Preparation of assessments
+Setting and grading of assessment by GAI have been noted in the literature (e.g. Babitha et al., 2022; Schlippe & Sawatzki, 2021). In this study, four participants shared that they used the tool for assessment setting. Interestingly, none of them mentioned using the tool to grade assessments. They indicated that the tool assisted them in setting assessment questions, specifically regarding the formulation of questions. Several instruments were mentioned, namely questions for quizzes, setting of multiple-choice questions, and questions for essay-type answers. Additionally, the setting of questions on different cognitive levels was mentioned:
+
+I use ChatGPT when setting assessments as it is easy to generate questions that cover higher-order, middle-order, and lower-order cognitive levels (P3).
+
+Lesson planning
+Most participants shared that they used GAI to assist them in various aspects of their lesson planning. For example, a participant indicated:
+
+[I use GAI] in my lesson preparation to better understand concepts and seek relevant information that can be integrated into the lesson’s content. This has improved my lesson delivery because I am able to present more engaging lessons as I have better knowledge of the content (P3).
+
+More participants agreed that the assistance of GAI has improved their lesson planning by suggesting activities, creating case studies, and providing content. For example, a participant shared:
+
+I use ChatGPT for creating lessons, and I agree that ChatGPT has made my life a lot easier when it comes to planning lessons and getting content and structure for lessons/content that I will be teaching (P6).
+
+Another one added:
+
+It is also very good at writing scenarios or stories where you need them to be used in storytelling or case studies to enhance the students’ learning experience. It can provide suggestions and answers on completing certain pieces of work, and it helps me with subject content questions (P1).
+
+The responses confirm GAIs’ potential to produce different aspects of lesson planning to assist teachers in their teaching (Grassini., 2023). GAI was used to assist these educators with the structure of lessons and lesson content, and they confirmed that it improved their teaching.
+
+Critical thinking
+The use of GAI to develop their students’ critical thinking skills was also raised. In this regard, two participants shared the following:
+
+In the classroom and virtual space, I like to promote critical thinking by teaching students how to comprehend and evaluate the chatbot’s produced replies and make them aware of the limits of AI (P8).
+
+Another said:
+
+I urge students to use ChatGPT for brainstorming but to think critically about the content they get from the tool (P7).
+
+Interestingly, both participants seem to get information from GAI and ask students to evaluate the content. The potential of GAI to develop critical thinking was mentioned by various authors (e.g. Grassini, 2023; Van den Berg & Du Plessis, 2023). However, it would add value to determine how this is done and how students interact with and evaluate content from these chatbots.
+
+Theme 3: Boundaries and Limitations of GAI
+The last theme that emerged from the responses was about the limitations and boundaries GAI participants shared. Most participants shared that they were aware of GAI’s limitations. Answers referred to the problem of accuracy and errors occurring in the responses GAI provides. As an example, a participant said:
+
+Even though ChatGPT is highly smart, not everything you read is accurate because its database is the Internet. As a result, there is no assurance that the tool will be 100% accurate (P7).
+
+The above statement was confirmed:
+
+I have received incorrect responses from ChatGPT on several occasions. It sometimes provides outdated and biased answers. Therefore, I use credible sources to confirm some of the responses received from ChatGPT (p3).
+
+While GAI can be biased and generate false information in some instances has been mentioned by authors such as Bozkurt (2023a), it also serves as a reminder that the information it provides comes from humans who posted information on the Internet. Humans post biased and incorrect information, and it is naïve to expect either humans or these technologies to be error-free (Bozkurt, 2023b).
+
+Apart from their own experiences of the limitations of GAI, participants also shared that they inform their students of possible limitations and how they should use this technology. As an example, a participant stated:
+
+I usually inform students of the restrictions of AI chatbots as well as the professional and moral ways to utilise them (P8).
+
+Another said:
+
+My students can utilize ChatGPT for structure, but they must incorporate significant research to demonstrate expertise in the subject. I want our students to be aware of this capacity and know that they can use it, but they should also exercise caution because it can occasionally cause confusion (P7).
+
+Another participant made it clear that they allow students to use AI, but setting the boundaries clear:
+
+However, I have established a clear boundary when it comes to formal assessments. I do not permit the use of ChatGPT during summative assessments (P2).
+
+From the above, GAI’s complex role in education reveals the potential to transform traditional teaching and learning. The study shows that educators incorporate GAI tools into their teaching, using them to enrich the teaching and learning experience. The use of GAI tools, as highlighted by the participants, covers various educational activities, such as personalized tutoring, lesson planning and assessment tasks. This broad spectrum of applications emphasizes the ability of GAI to meet various educational needs, thus supporting a personalized and engaging learning environment. Educators’ adoption of GAI tools signals a shift towards more technologically integrated teaching practices. This shift points to educators’ need to remain abreast of technological advancements, such as GAI tools, to effectively prepare their students for the environment in which they will live and work.
+
+Although the benefits of GAI are noteworthy, the study also brings to light the inherent challenges and limitations associated with its use. Concerns regarding accuracy, reliability, professional and moral use, and overdependence necessitate a cautious approach towards integrating GAI in the classroom. The research suggests that educators can overcome these challenges by combining the use of GAI tools with critical thinking skills, encouraging students to evaluate the information provided critically. These practices not only mitigate some of the risks associated with GAI but also can improve students’ analytical skills, preparing them for a world where information is abundant but not always accurate.
+
+The study’s findings also highlight the importance of establishing clear guidelines and boundaries for using GAI in educational contexts. These boundaries enable educators to harness the benefits of GAI tools while safeguarding the integrity of the educational process and developing students’ critical thinking skills.
+
+The study points to a future where GAI could play a central role in redefining educational practices. However, continuous research, policy development, and ethical considerations are necessary to realise this potential fully. Developing comprehensive guidelines and ethical considerations that address the unique nature of GAI will be critical. This will ensure that the integration of GAI into the educational system is beneficial, equitable, and aligned with educational goals.
+
+Additionally, the study shows the importance of educators’ expertise in using GAI and designing accurate and effective prompts and activities to maximize its use and efficiency. Professional development programmes might play a significant role in this regard.
+
+Implications of Educators’ Use of Gai for Education
+The findings of this research have certain implications. As technological advancements continue to reshape educational practices, the recent emergence of GAI raises the likelihood of transforming and opening education. The findings showed that GAI can contribute to various teaching tasks with its ability to generate human-like text. This means that all educators can access digital content to assist them with various tasks – depending on their needs. However, the boundaries and limitations raised by participants highlight the need for human involvement and cautious integration.
+
+One significant implication is the potential transformation of the roles of human educators and GAI in education. As the study suggests, GAI has the capacity to take on substantial portions of tasks traditionally handled by educators. This shift in responsibilities could lead to educators using GAI as a supporting partner to be more efficient, allowing them more time to focus on teaching and interacting with their students. Therefore, the implication is not that GAI should or will replace the crucial role educators play in their teaching, as this study has confirmed.
+
+Conclusion
+This study explored how a specific group of educators partner with GAI AI tools in their teaching and how it transforms education. The findings provide valuable insights into the current and potential impact of GAI on education. They reveal that educators actively use GAI for tasks such as assessment setting, lesson planning, personalized tutoring, simplifying complex English language texts, translation, and developing critical thinking skills. These practices undoubtedly have a profound impact on not only educators’ ways of teaching but also the ways they think. However, the findings also show that the potential transformation of education should be accompanied by an understanding of its boundaries and limitations, such as concerns about the accuracy, biases and reliability of GAI-generated texts. The insights gained from this research are valuable for guiding educators and policymakers in incorporating GAI tools effectively in educational contexts. The absence of reference to institutional guidance on using GAI tools also highlights the need for clear policies and guidelines to ensure responsible, ethical, and effective integration.
+
+It is important to note that this study has its limitations. The number of educators and the specific group, namely mature students enrolled in a master’s in education program, are the biggest limitations. Depending on the context, the same research may reveal different findings. However, the purpose of this study was not to generalize but to better understand how these educators use GAI tools. The study was exploratory in nature; therefore, follow-up research using different instruments, such as interviews, is needed. Also, ongoing research in similar and different contexts is encouraged to identify ways to reduce the risks associated with GAI in education while maximizing its potential to support and enhance teaching and, ultimately, student learning.
+
+Lastly, with its transformative potential, GAI will increasingly act as a partner in teaching and influence modern teaching practices. Even though various debates surrounding its applications, benefits and limitations exist, the foothold of GAI in the educational sphere is here to stay.

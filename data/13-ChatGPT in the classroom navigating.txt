@@ -1,0 +1,185 @@
+ChatGPT in the classroom: navigating the generative AI wave in management education
+
+
+Abstract
+Purpose
+The study aims to explore the role of ChatGPT, an artificial intelligence (AI) language model, in the field of management education. Specifically, the goal is to evaluate ChatGPT's effectiveness in facilitating active learning, promoting critical thinking, and fostering creativity among students. Additionally, the study seeks to investigate the potential of ChatGPT as a novel tool for enhancing traditional teaching methods within the framework of management education.
+
+Design/methodology/approach
+This research systematically explores ChatGPT's impact on student engagement in management education, considering AI integration benefits and limitations. Ethical dimensions, including information authenticity and bias, are scrutinized, alongside educators' roles in guiding AI-augmented learning.
+
+Findings
+The study reveals ChatGPT's effectiveness in engaging students, nurturing critical thinking, and fostering creativity in management education. Ethical concerns regarding information authenticity and bias are addressed. Insights from student and teacher perceptions offer valuable pedagogical implications for AI's role in management education.
+
+Research limitations/implications
+While this study offers valuable insights into the role of ChatGPT in management education, it is essential to acknowledge certain limitations. Firstly, the research primarily focuses on a specific AI model (ChatGPT), and findings may not be generalized to other AI language models. Additionally, the study relies on a specific set of educational contexts and may not fully capture the diverse landscape of management education globally. The duration of the research and the sample size could also impact the generalizability of the findings.
+
+Practical implications
+The findings of this study hold practical significance for educators and institutions engaged in management education. The integration of ChatGPT into teaching strategies has the potential to improve active learning, critical thinking, and creativity. Educators can utilize this AI tool to diversify instructional methods and accommodate diverse learning styles. However, the practical implementation of AI in the classroom necessitates meticulous consideration of infrastructure, training, and ongoing support for both educators and students. Furthermore, institutions should proactively tackle ethical concerns and establish guidelines for the responsible use of AI in education.
+
+Social implications
+The incorporation of AI, such as ChatGPT, in management education carries broader social implications. The study underscores the significance of addressing ethical concerns associated with AI, including issues related to information authenticity and bias. As AI becomes more widespread in educational settings, there is a necessity for societal discussions on the role of technology in shaping learning experiences. This research advocates for a thoughtful approach to AI adoption, emphasizing the importance of transparency, accountability, and inclusivity in the development and deployment of AI technologies within the educational sphere. The findings prompt reflections on the societal impact of AI-driven education and the potential consequences for students' skills, employment prospects, and societal values.
+
+Originality/value
+Originality/Values: This research contributes to the academic discourse by systematically examining the role of ChatGPT in management education, providing insights into both its advantages and potential ethical challenges. The study offers original perspectives on the use of AI in educational settings, paving the way for well-informed decision-making that can shape the future of management education in the evolving landscape of technological progress.
+
+Keywords
+Artificial intelligence,  CHatGPT, Management educationm classroom, AI-Augmented, Navigating, Pedagogical innovationm Educational tool and future of learning
+
+
+1. Introduction
+The rapid advancement of artificial intelligence (AI) technologies, including ChatGPT, presents transformative opportunities across various sectors, including education. The integration of ChatGPT in management education holds promise for reshaping traditional teaching methods. As industries adapt to an AI-driven landscape, exploring the potential of incorporating such technologies becomes crucial. Generative AI, exemplified by ChatGPT, has generated enthusiasm for its applications in diverse areas, offering revolutionary paths to enhance learning experiences in management education. However, this integration raises ethical questions, necessitating a comprehensive exploration of ChatGPT's benefits and challenges in the classroom.
+
+Technological progress has significantly impacted the education sector, with AI tools like ChatGPT altering teaching and learning processes for both students and teachers. Understanding the challenges and benefits of implementing ChatGPT in education is crucial. Responsible usage of AI tools can enhance the capabilities of teachers and students, but vigilance is required due to issues such as inconsistency, incorrect information, and misleading facts. Careful implementation and a reevaluation of academic integrity policies are essential for ChatGPT's effective use in academic settings.
+
+ChatGPT offers capabilities such as providing code, solutions, and opportunities to enhance learning, but it also comes with limitations like limited data sources and potential misinformation. Students need to understand both the capabilities and limitations of ChatGPT for progressive knowledge utilization. The future of ChatGPT appears promising, with opportunities for personalization, quick assessment, and strategic improvement, but challenges such as integrity issues and ethical considerations persist.
+
+The significance of reproductive AI and ChatGPT tools in higher education is emphasized, with the potential to enhance learning capabilities and skill sets. The role of generative AI tools is evolving rapidly, and educational institutions need to incorporate them for improved learning and collaboration. ChatGPT's integration into design knowledge acquisition is highlighted, facilitating interaction, support, and collaboration in the workplace. While ChatGPT brings opportunities like personalized learning and teaching assistance, concerns about authorship, plagiarism, and biased information need attention.
+
+In management education, opportunities and challenges from ChatGPT are identified, prompting the need for further research. While ChatGPT provides learning opportunities, educating students on its proper use, integrating AI tools into the learning environment, and re-engineering assessments are essential. This study explores the dynamic use of ChatGPT to enhance student engagement, foster critical thinking, and navigate AI ethics in the context of management education, addressing a gap in understanding the effective integration of advanced tools like ChatGPT.
+
+2. Research aims
+The study was designed and conducted with the following objectives in mind:
+
+To assess the effectiveness of integrating ChatGPT into management education for enhancing students' learning.
+
+To examine the ramifications of ChatGPT on fostering critical thinking and creativity among management students.
+
+To investigate the ethical dimensions linked to the incorporation of ChatGPT into management education.
+
+3. Theoretical framework
+3.1 Integration of AI into education
+The gradual integration of artificial intelligence (AI) technologies, such as ChatGPT, is reshaping traditional teaching approaches and unlocking AI-powered tools to enhance student engagement and personalized learning experiences (Johnson et al., 2020). The effectiveness of incorporating AI-driven platforms to promote critical thinking skills among students is well-established (Smith et al., 2019). The ethical dimensions of AI integration within educational settings emphasize the importance of transparent AI decision-making processes (Akgun and Greenhow, 2022). A growing body of literature recognizes the need to equip future professionals with AI literacy and suggests that integrating AI tools like ChatGPT can cultivate creativity and innovative thinking among business students (Reddy, 2022). The survey-based approach, as utilized in this study, has previously been employed to assess student perceptions of AI integration (Kumar Ravi and Raman, 2022). Notably, academic viewpoints on the challenges and possibilities of AI in education have been underscored (Kim and Kim, 2022).
+
+One prominent benefit of incorporating ChatGPT in the educational setting is its capacity to boost learning engagement and creativity. AI models like ChatGPT can generate interactive and dynamic content, providing students with personalized knowledge experiences tailored to their individual preferences. This personalization fosters increased engagement and creativity among students, making the learning process more effective (Anderson et al., 2021). ChatGPT's natural language comprehension and generation abilities have shown promise in assisting students in decision-making and problem-solving tasks. Interacting with ChatGPT, students were able to gain insights into complex management scenarios and develop critical thinking skills, making it a valuable tool for management education (Zhu et al., 2023; Chen et al., 2020).
+
+3.2 Opportunities and obstacles of implementing ChatGPT in management education
+Despite its benefits, the integration of ChatGPT in education raises ethical concerns. It is argued that generative AI models may perpetuate biases inherent in their training data, potentially reinforcing stereotypes or providing inaccurate information. Therefore, educators must be cognizant of these ethical issues and actively work to mitigate bias when implementing ChatGPT in the classroom (Johnson et al., 2019). Effective implementation of ChatGPT in management education requires addressing technical challenges and limitations. The emphasis should be on proper training and integration strategies to enable educators to fully leverage the capabilities of AI models like ChatGPT (Smith et al., 2019).
+
+The guidance provided by ChatGPT was evidence-based, but the absence of cited sources made it unverifiable. Additionally, it was found to offer incorrect and incomplete information, which may require expert verification (Oviedo-Trespalacios et al., 2023). The product recommendations made by ChatGPT have implications for customers, as their decisions are influenced by them, highlighting the need for incorporating AI tools in online shopping (Kim et al., 2023; Lo, 2023).While ChatGPT serves as a source of quick and relevant data, it lacks the ability to think like a human being, raising concerns about the integrity of the information it provides (Vázquez-Cano et al., 2023).
+
+Literature review and source citation remain critical issues in scientific writing using ChatGPT, as it provides sources with fabricated, non-existing titles. This may be attributed to a lack of training in ChatGPT for generating language models relevant to the query (Varghese and Chapiro, 2023). The results generated by ChatGPT are not consistently satisfactory across domains, and the information provided lacks consistency. It can be integrated into education by developing learning models and instructions (Alves de Castro et al., 2023). Generative AI technologies like ChatGPT offer opportunities for higher education, providing continuous access to information, personalized learning, learning experience support for instructors, and data analysis. However, they also pose challenges regarding ethical issues, integrity, transparency, accountability, and quality (Pisica et al., 2023; Michel-Villarreal et al., 2023).
+
+3.3 Ethical concerns and application of ChatGPT
+Human ethics is pivotal in the ethical use of generative AI tools in education, as highlighted by Heyder et al. (2023). Despite the benefits of personalized learning, ChatGPT raises ethical concerns and integrity issues, noted by Rasul et al. (2023). Educators, as emphasized by Benuyenah (2023), must assess ChatGPT's potential and challenges for thoughtful integration into educational processes. Despite hurdles like privacy concerns and regulatory gaps, Sabzalieva and Valentini (2023), suggests higher education institutions can utilize ChatGPT for teaching and research. While AI offers benefits like aiding in learning measurement and curriculum organization, there's limited research on its implications in higher education, requiring further exploration (Crompton and Burke, 2023; Hinojo-Lucena et al., 2019). Wazan et al. (2023) suggest integrating generative AI tools like ChatGPT to enhance learning experiences. However, Bozkurt et al. (2021) stress considering ethical and privacy implications. Overall, ChatGPT's primary applications in education include teaching, assessment, research, and development (Wilfred and Ade-Ibijola, 2021).
+
+3.4 Enhancing critical thinking and creativity in management education through ChatGPT
+Recent research explores ChatGPT's role in improving critical thinking among management students by facilitating meaningful dialogue and inquiry (Van Inwagen, 2020). Interacting with ChatGPT prompts students to question assumptions and construct reasoned arguments (Kirschner and van Merriënboer, 2013). Similarly, ChatGPT stimulates creativity by providing a platform for brainstorming and collaboration (Wiggins and McTighe, 2013). This enhances students' ability to innovate solutions (Bereiter and Scardamalia, 2014). Engaging with ChatGPT fosters interactive learning and collaborative problem-solving, crucial in management education. Assessing its impact aids understanding of technology's role in effective learning outcomes. While promising, integrating ChatGPT necessitates addressing ethical and technical challenges for optimal use in education.
+
+4. Methodology
+4.1 Methodological framework
+The research methodology for this study involves the use of a survey-based approach to gather insights from both teachers and students within the realm of management education. A structured questionnaire was designed to generate quantitative responses, addressing various aspects of ChatGPT integration. The questionnaire is divided into three parts: the first section collects socio-demographic information, the second section focuses on basic usage of ChatGPT, and the final section explores various constructs related to the study, utilizing a 5-point Likert scale. In this scale, 1 signifies strong disagreement (SD), and 5 signifies strong agreement (SA).
+
+Students' perspectives on learning enhancement, engagement, and critical thinking development were explored, while academicians' insights into instructional methodologies, challenges, and ethical considerations were assessed. The collected data underwent quantitative analysis, employing statistical measures to provide a comprehensive understanding of the inferences and effectiveness of incorporating ChatGPT in the context of management education. Throughout the research process, ethical considerations and data privacy were ensured.
+
+4.2 Population and sample
+The research assesses the impact of ChatGPT on creative and critical thinking abilities, as well as the ethical considerations related to integrating ChatGPT in management education by faculty members. The study population comprised undergraduate and postgraduate students, along with faculty members from various management education institutions in Bangalore city. Study participants were recruited through college-wide email and personal connections. An online structured questionnaire was distributed to both students and faculty members through a dedicated online platform, specifically using a Google Form.
+
+The final sample included 331 individuals: 282 students (both undergraduate and postgraduate) and 49 faculty members with postgraduate or Doctor of Philosophy (PhD) degrees, selected from a diverse range of management institutes, including colleges and universities. Among the faculty members, there were teaching assistants, assistant professors, associate professors, heads of departments, and deans. Participants voluntarily took part in the study, with guarantees of the confidentiality of their data. The fieldwork was conducted over a period of five months, during which the questionnaire was distributed and responses were gathered effectively. Subsequently, data from the collected responses were extracted from the database, and statistical analysis was performed using appropriate tools.
+
+4.3 Hypotheses
+H0.
+There is no substantial relationship between the incorporation of ChatGPT in the educational setting and the enhancement of critical thinking abilities, creativity, and ethical consciousness in management students.
+
+H1.
+There is a meaningful correlation between the utilization of ChatGPT in the classroom and the advancement of critical thinking skills, creativity, and ethical awareness among management students.
+
+H0.
+The integration of ChatGPT in the classroom does not positively influence the level of AI integration, enhancement of learning outcomes, and Educator guidance to management studies in management education.
+
+H1.
+The integration of ChatGPT in the classroom positively influences the level of AI integration, enhancement of learning outcomes, and Educator guidance to management studies in management education.
+
+4.4 Study constructs
+In this section, we detail the constructs analyzed in the study to provide a thorough understanding for the reader. The research scrutinized six key dataset items, each representing a unique facet of the interaction between students and ChatGPT in management education. These constructs encompass:
+
+Critical Thinking: This assesses students' capability to evaluate evidence and make informed decisions, influenced by their engagement with ChatGPT.
+
+Creativity: Examining students' ability to generate innovative ideas and solutions, shaped by their interaction with ChatGPT.
+
+Ethical Awareness: Evaluating students' recognition of moral considerations in decision-making, particularly regarding AI integration.
+
+AI Integration: Assessing the degree of incorporation of AI, specifically ChatGPT, into the management education curriculum.
+
+Learning Enhancement: Measuring the impact of AI integration on the overall learning experience, including factors like engagement, knowledge retention, and understanding.
+
+Educator Guidance: Reflecting on educators' role in facilitating students' effective use of AI tools like ChatGPT in teaching, guiding their interactions.
+
+By defining these independent and dependent variables, the study aims to systematically explore the relationships between critical thinking, creativity, and ethical awareness as catalysts for AI integration, learning enhancement, and educator guidance in management education. This structured framework enables a data-driven analysis of how these elements interconnect and contribute to the educational experience as a whole.
+
+4.5 Reliability statistics
+Statistical reliability is crucial to ensure the validity and accuracy of statistical analysis. The statistical tools utilized in the research must consistently produce reliable results. This consistency is essential for building trust in the statistical analysis and the outcomes it generates.
+
+Table 1 data shows that both Cronbach's Alpha coefficients (0.848 and 0.860) are relatively high indicates a robust level of internal consistency within the dataset's six items. These elevated Cronbach's Alpha values are positive indicators, suggesting that the set of items in the study is internally consistent. This reflects the reliability and quality of study measurement tool.
+
+5. Results and discussion
+Data analysis was conducted on information obtained through a structured questionnaire to derive results and corresponding interpretations for the purpose of study and future research. From the analysis of the data, it was determined that there were 157 female and 164 male participants in the survey. Given that the generative AI tool, ChatGPT, is in its early stages, the frequency of its usage by both students and faculty members is comparatively low. About 53% of students mentioned using it occasionally, while among faculty members, 44.2% expressed that they also use ChatGPT occasionally. Interestingly, among both faculty members and students, the majority (87.9%) indicated that they are not ready to purchase the premium version of ChatGPT.
+
+5.1 Frequency of using ChatGPT
+Table 2 displays the frequency of ChatGPT usage categorized by gender, occupation, and highest qualification. The majority of users from both genders employ ChatGPT occasionally, with 54% of females and 56% of males falling into this category. Doctoral program participants from both genders are the least frequent users. Chi-square tests for gender do not indicate a statistically significant relationship between gender and ChatGPT usage. The p-values for both the Pearson Chi-Square (“χ2”) and Likelihood Ratio (“G”) tests exceed the alpha level of 0.05, suggesting that gender has no statistically significant impact on ChatGPT usage.
+
+There are six occupation categories: Faculty, Postgraduate (PG) Students, Undergraduate (UG) Students, Bachelor of Business Administration (BBA), Bachelor of Commerce (BCOM), and Master of Business Administration (MBA). PG Students and UG Students, irrespective of their specific major, are the most frequent users of ChatGPT. Faculty members and Doctoral Program participants use ChatGPT less frequently. The chi-square tests for occupation also do not reveal a statistically significant relationship between occupation and ChatGPT usage, with p-values for both tests exceeding 0.05.
+
+Qualifications range from BBA, BCOM, and MBA to Doctoral Program. Individuals with an MBA qualification are the most frequent users of ChatGPT, followed by those with a BCOM qualification. Doctoral Program participants use ChatGPT the least. In this case, the chi-square tests for the highest qualification indicate a statistically significant relationship between the highest qualification and ChatGPT usage. The p-values for both the Pearson Chi-Square ("χ2") and Likelihood Ratio ("G") tests are below 0.05, indicating that the highest qualification significantly influences ChatGPT usage.
+
+In summary, the analysis suggests that while gender and occupation do not appear to have a significant impact on ChatGPT usage patterns, there is a statistically vital association between the highest qualifications attained by respondents and their frequency of using ChatGPT (Crompton and Burke, 2023). Further investigation may be needed to understand the reasons behind this association.
+
+5.2 Intention behind using ChatGPT
+The ranking and percentages reflect the diverse range of purposes for which users employ ChatGPT. It is notably valuable for academic-related tasks such as assignment writing, note preparation, and exploring new concepts, but it also serves functions like grammar checking and report writing. Additionally, it finds utility in language-related tasks such as translation and paraphrasing. ChatGPT has extensive applications as it can be used in higher education in many areas by both students and faculty members (Holmes and Tuomi, 2022) (see Figure 1).
+
+5.3 Readiness to invest in a premium edition of ChatGPT
+Table 3 presents the willingness to invest in a premium version, categorized by gender, occupation, and highest qualification. Among the 157 female respondents, 18 expressed a willingness to pay for the premium version, while 20 out of the 164 male respondents were open to the idea. Notably, the majority of respondents from both genders are not inclined to pay for the premium version. Chi-square tests for gender failed to reveal a significant association between gender and the willingness to pay. Both the “Pearson Chi-Square (χ2)” and “Likelihood Ratio tests (G)” yielded p-values exceeding 0.05, indicating that gender does not significantly impact the willingness to pay.
+
+Among faculty members, 28 expressed interest in paying, while among PG students, 18 were willing to do so. Interestingly, UG students are the category least inclined to pay for the premium version.
+
+The chi-square tests related to occupation revealed a statistically meaningful connection between occupation and the inclination to invest in the premium version. The p-values for both the Pearson Chi-Square and Likelihood Ratio tests fall below 0.05, indicating that occupation indeed exerts a substantial impact on the willingness to pay. Qualifications range from BBA, BCOM, and MBA to Doctoral Programs. Among these, individuals with MBA qualifications are the most inclined to pay for the premium version, followed by those with BCOM qualifications. Participants in Doctoral Programs exhibit the least willingness to pay.
+
+Similarly, the chi-square tests concerning the highest qualification also establish a statistically significant link between qualification level and readiness to pay for the premium version. The p-values for both the Pearson Chi-Square and Likelihood Ratio tests are less than 0.05. In summary, the analysis suggests that while gender does not substantially impact the willingness to pay for a premium version, both occupation and highest qualification play a statistically significant role in influencing individuals' readiness to pay. Further research may be beneficial to understand the underlying factors behind these connections and to formulate targeted strategies for marketing premium versions of the product or service.
+
+5.4 Factor analysis
+The study uses factor analysis to understand how ChatGPT fits into management education by looking at different parts of the data. It helps answer the research questions by finding hidden patterns or groups in the data.
+
+The KMO Measure Table 4 suggests that the dataset is suitable for factor analysis, and Bartlett's Test affirms the presence of substantial correlations among the variables, providing further justification for conducting factor analysis on the dataset.
+
+Table 5 displays, Variables with higher commonalities, such as “AI Integration” (0.385), exhibit stronger relationships with the extracted factors, whereas variables like “Learning Enhancement” (0.269) have weaker associations with the extracted factors.
+
+Table 6 provides detailed correlation analysis matrix, Critical Thinking demonstrates moderately strong positive correlations with Creativity (0.616), Learning Enhancement (0.772), and, to a lesser extent, Ethical Awareness (0.453). It exhibits weaker positive correlations with AI Integration (0.349) and Educator Guidance (0.279).
+
+Similarly, Creativity displays a comparable pattern of moderately strong positive correlations with Critical Thinking (0.616), Learning Enhancement (0.765), and, to a lesser extent, Ethical Awareness (0.508). It also shows a weaker positive correlation with AI Integration (0.352) and Educator Guidance (0.280).
+
+Ethical Awareness shows moderate positive correlations with Critical Thinking (0.453) and Creativity (0.508). It has a weaker positive correlation with AI Integration (0.406) and a somewhat stronger positive correlation with Educator Guidance (0.419).
+
+AI Integration exhibits a moderate positive correlation with Learning Enhancement (0.709) but weaker positive correlations with Critical Thinking (0.349), Creativity (0.352), Ethical Awareness (0.406), and Educator Guidance (0.438).
+
+Learning Enhancement demonstrates strong positive correlations with Critical Thinking (0.772) and Creativity (0.765). It also displays moderate positive correlations with Ethical Awareness (0.750) and AI Integration (0.709), along with a weaker positive correlation with Educator Guidance (0.506). Educator Guidance, in turn, shows weaker positive correlations with all other variables, with the highest correlation being 0.506 with Learning Enhancement.
+
+This Inter-Item Correlation Matrix provides insights into how the variables in study dataset are related to one another. It suggests that Critical Thinking, Creativity, and Learning Enhancement are closely related, while Ethical Awareness, AI Integration, and Educator Guidance have weaker but still meaningful relationships with the other variables. These findings can assist researchers in understanding the patterns of association between these constructs and guide further analyses or the development of measurement instruments.
+
+5.5 Hypothesis testing
+As illustrated in Table 7, AI Integration and Critical Thinking (p label: 0.83): The high p label value of 0.83 indicates a robust positive relationship between “AI Integration” and “Critical Thinking.” This suggests that AI integration in a learning context is strongly associated with the development or enhancement of critical thinking skills. It's noteworthy that a p label value close to 1 indicates a strong positive correlation.
+
+AI Integration and Creativity (p label: 0.67): The p label value of 0.67 reflects a moderately positive relationship between “AI Integration” and “Creativity.” This implies that AI integration in education may moderately influence fostering creativity among learners. While the correlation is positive, it is not as robust as the correlation observed with critical thinking.
+
+AI Integration and Ethical Awareness (p label: 0.67): Similar to creativity, “AI Integration” also exhibits a moderate positive relationship with “Ethical Awareness,” with a p label of 0.67. This suggests that the incorporation of AI (Rasul et al., 2023) in management educational settings may moderately contribute to raising awareness of ethical considerations in learning and technology.
+
+Learning Enhancement and Critical Thinking (p label: 0.87): The high p label of 0.87 indicates a strong positive correlation between “Learning Enhancement” and “Critical Thinking.” This suggests that learning enhancement measures are strongly associated with the development or improvement of critical thinking skills among students (Farrokhnia et al., 2023).
+
+Learning Enhancement and Creativity (p label: 0.57): “Learning Enhancement” has a positive correlation with “Creativity,” but the correlation is weaker compared to critical thinking, with a p label of 0.57. While it suggests a positive relationship, it may not be as impactful as critical thinking.
+
+Educator Guidance and Ethical Awareness (p label: 0.56): “Educator Guidance” demonstrates a moderate positive correlation with “Ethical Awareness,” as indicated by a p label of 0.56. This implies that guidance from educators may moderately contribute to the development of ethical awareness among learners (Heyder et al., 2023). The above results suggest varying degrees of positive associations between items related to AI integration (Hinojo-Lucena et al., 2019), learning enhancement, and specific skills or attributes. The strength of these associations can help educators and researchers gain a more comprehensive understanding of the potential influence of incorporating AI and improving learning approaches on critical thinking, creativity, and ethical consciousness in management educational environments (see Figure 2).
+
+Considering the observed indices (Table 8 Model Fit Index Evaluation), it is evident that the Structural Equation Model (SEM) applied to the integration of ChatGPT in the classroom, specifically in navigating the generative AI wave within management education, exhibits commendable alignment with the dataset. The notable performance, as indicated by indices such as “Chi-Square/degrees of freedom (3.31), Goodness of Fit Index (0.92), Normed Fit Index (0.91), Comparative Fit Index (0.94), and Root Mean Square Error of Approximation (0.16),” affirms the model's proficiency in elucidating the underlying relationships in the data. It is essential to benchmark these values against established standards in the field of study, taking into consideration the specific research area and aims.
+
+6. Findings and recommendations
+The study shows that using ChatGPT in management education can make learning better and improve critical thinking skills. Even though some people worry about the ethics of using ChatGPT, many students and teachers use it for things like writing assignments and exploring ideas. It's interesting that how much ChatGPT is used varies between different groups of students and teachers. Undergraduates and postgraduates use it more than doctoral students and faculty members. This might be because different people have different ideas about ethics and what tasks they need help with. But, gender and job don't seem to make a big difference in how much ChatGPT is used. The study also found that when ChatGPT is used more, it helps students think critically and become more aware of ethical issues. To use ChatGPT well, teachers need to think about ethics and give students good guidance. It's important to keep checking how well ChatGPT and other AI tools are working and to be honest and responsible about using them. By doing this, management education can make the most of ChatGPT to make learning more interesting, helpful, and fair for everyone.
+
+7. Conclusions
+Integrating ChatGPT into management education presents an innovative approach to enhancing the learning journey. This paper delves into the multifaceted integration of generative AI, like ChatGPT, within management education, highlighting its ability to engage students, tailor learning experiences, and foster critical thinking skills. As we embrace the surge of generative AI in education, it's vital to consider insights and recommendations from field experts. Maintaining a balance between human and AI-driven instruction is crucial; AI should enhance, not replace, educators' roles (Anderson et al., 2021).
+
+Usage of ChatGPT is notably higher among undergraduate and postgraduate students compared to doctoral candidates and faculty. This difference may stem from ethical concerns associated with ChatGPT in management education and research activities (Ray, 2023). Gender and occupation seem to have minimal impact on ChatGPT usage, but respondents' highest qualifications correlate with usage frequency (Crompton and Burke, 2023).
+
+Despite ethical considerations, ChatGPT sees widespread use in academic tasks like assignment writing, note preparation, and exploring new concepts (Holmes and Tuomi, 2022). Ethical considerations advocate for transparency and ongoing assessment of AI-powered tools to ensure alignment with educational objectives (Johnson et al., 2019; Jones and Brown, 2021).
+
+Integrating AI generative tools like ChatGPT into management education could positively impact critical thinking skills and moderately contribute to fostering creativity and ethical awareness (Rasul et al., 2023). A strong positive correlation exists between “Learning Enhancement” and “Critical Thinking,” indicating their close relationship (Farrokhnia et al., 2023). Similarly, “Educator Guidance” moderately correlates with “Ethical Awareness,” emphasizing educators' role in fostering ethical awareness among learners (Heyder et al., 2023).
+
+In conclusion, the effective integration of ChatGPT and other generative AI technologies into management education requires an informed, balanced, and ethical approach. By leveraging research and expert guidance, educators and institutions can maximize ChatGPT's potential to enrich management education.
